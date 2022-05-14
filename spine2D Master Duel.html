@@ -1,13 +1,52 @@
 <script src="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/iife/spine-player.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/spine-player.css">
 
-<div id="player-container" style="width: 100%; height: 100vh;"></div>
+<div>
+    Select Asset: <select id="asset-selector"></select> or Load by id: <input id="asset-id" type="text"><button id="load-asset">Load Asset</button> Currently showing: <span id="current-id"></span>
+</div>
+<div id="player-container" style="width: 100%; height: 95vh;"></div>
 
 <script>
-new spine.SpinePlayer("player-container", {
-	jsonUrl: "https://raw.githubusercontent.com/zeak6464/Spine2D-Master-Duel/main/master%20duel/P4027JS.asset",
-	atlasUrl: "https://raw.githubusercontent.com/zeak6464/Spine2D-Master-Duel/main/master%20duel/P4027.atlas.asset",
-	alpha: true, // Enable player translucency
-    backgroundColor: "#00000000" // Background is fully transparent
-});
+    const assetBaseUrl = 'https://raw.githubusercontent.com/zeak6464/Spine2D-Master-Duel/main/master%20duel';
+    let player;
+
+    const currentAssetIdLabel = document.getElementById('current-id');
+    function loadAsset(id) {
+        if (player) {
+            player.dispose();
+        }
+        player = new spine.SpinePlayer("player-container", {
+            jsonUrl: `${assetBaseUrl}/P${id}JS.asset`,
+            atlasUrl: `${assetBaseUrl}/P${id}.atlas.asset`,
+            alpha: true, // Enable player translucency
+            backgroundColor: "#00000000" // Background is fully transparent
+        });
+        currentAssetIdLabel.innerText = id;
+    }
+
+    const selector = document.getElementById('asset-selector');
+    selector.onchange = (e) => {
+        loadAsset(e.target.value);
+    };
+
+    const assetIdInput = document.getElementById('asset-id');
+    const loadAssetButton = document.getElementById('load-asset');
+    loadAssetButton.onclick = (e) => {
+        loadAsset(assetIdInput.value);
+        assetIdInput.value = '';
+    };
+
+    async function retrieveAssetIds() {
+        const assetFiles = await fetch('https://api.github.com/repos/zeak6464/Spine2D-Master-Duel/contents/master%20duel').then((res) => res.json());
+
+        const assetIds = assetFiles
+                        .filter((file) => file.type === 'file' && /\.atlas\.asset$/.test(file.name))
+                        .map((af) => af.name.replace(/P(\d+)\.atlas\.asset$/, '$1'))
+                        .filter((id) => assetFiles.findIndex((af) => af.name === `P${id}JS.asset`) !== -1);
+
+        selector.innerHTML = assetIds.map((id) => `<option value="${id}">${id}</option>`).join('');
+        loadAsset(assetIds[0]);
+    }
+
+    retrieveAssetIds();
 </script>
