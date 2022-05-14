@@ -1,0 +1,269 @@
+
+P14672.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abdominal
+  rotate: false
+  xy: 470, 1395
+  size: 385, 439
+  orig: 385, 439
+  offset: 0, 0
+  index: -1
+Chain10
+  rotate: false
+  xy: 198, 1878
+  size: 147, 143
+  orig: 147, 143
+  offset: 0, 0
+  index: -1
+Chain11
+  rotate: false
+  xy: 168, 1538
+  size: 300, 326
+  orig: 300, 326
+  offset: 0, 0
+  index: -1
+Chain12
+  rotate: false
+  xy: 1230, 257
+  size: 384, 544
+  orig: 384, 544
+  offset: 0, 0
+  index: -1
+Chain13
+  rotate: false
+  xy: 2, 1625
+  size: 164, 315
+  orig: 164, 315
+  offset: 0, 0
+  index: -1
+Chain14
+  rotate: false
+  xy: 1214, 1715
+  size: 232, 306
+  orig: 232, 306
+  offset: 0, 0
+  index: -1
+Chain15
+  rotate: false
+  xy: 347, 1866
+  size: 187, 155
+  orig: 187, 155
+  offset: 0, 0
+  index: -1
+Chain2
+  rotate: false
+  xy: 2, 1942
+  size: 194, 79
+  orig: 194, 79
+  offset: 0, 0
+  index: -1
+Chain3
+  rotate: false
+  xy: 1062, 1743
+  size: 150, 278
+  orig: 150, 278
+  offset: 0, 0
+  index: -1
+Chain5
+  rotate: false
+  xy: 914, 1792
+  size: 146, 229
+  orig: 146, 229
+  offset: 0, 0
+  index: -1
+Chain6
+  rotate: false
+  xy: 536, 1840
+  size: 201, 181
+  orig: 201, 181
+  offset: 0, 0
+  index: -1
+Chain7
+  rotate: false
+  xy: 1487, 1267
+  size: 390, 439
+  orig: 390, 439
+  offset: 0, 0
+  index: -1
+Chain9
+  rotate: false
+  xy: 857, 1290
+  size: 628, 416
+  orig: 628, 416
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: false
+  xy: 1470, 803
+  size: 549, 462
+  orig: 549, 462
+  offset: 0, 0
+  index: -1
+Hair1_Back
+  rotate: false
+  xy: 739, 1836
+  size: 173, 185
+  orig: 173, 185
+  offset: 0, 0
+  index: -1
+Hair4
+  rotate: false
+  xy: 1448, 1708
+  size: 570, 313
+  orig: 570, 313
+  offset: 0, 0
+  index: -1
+Hair5
+  rotate: false
+  xy: 332, 865
+  size: 515, 528
+  orig: 515, 528
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: false
+  xy: 704, 316
+  size: 524, 528
+  orig: 524, 528
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 1616, 197
+  size: 405, 604
+  orig: 405, 604
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 2, 380
+  size: 700, 483
+  orig: 700, 483
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2, 1057
+  size: 328, 479
+  orig: 328, 479
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 849, 846
+  size: 619, 442
+  orig: 619, 442
+  offset: 0, 0
+  index: -1
+
+P146722.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1283, 770
+  size: 741, 668
+  orig: 741, 668
+  offset: 0, 0
+  index: -1
+Chain1
+  rotate: false
+  xy: 2, 1445
+  size: 879, 579
+  orig: 879, 579
+  offset: 0, 0
+  index: -1
+Chain4
+  rotate: false
+  xy: 672, 817
+  size: 609, 621
+  orig: 609, 621
+  offset: 0, 0
+  index: -1
+Chain8
+  rotate: false
+  xy: 554, 128
+  size: 305, 687
+  orig: 305, 687
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: false
+  xy: 883, 1440
+  size: 937, 584
+  orig: 937, 584
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 861, 40
+  size: 745, 728
+  orig: 745, 728
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 2, 856
+  size: 668, 587
+  orig: 668, 587
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 2, 186
+  size: 550, 668
+  orig: 550, 668
+  offset: 0, 0
+  index: -1
+
+P146723.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hair2
+  rotate: false
+  xy: 945, 2
+  size: 752, 1058
+  orig: 752, 1058
+  offset: 0, 0
+  index: -1
+Hair3
+  rotate: false
+  xy: 696, 1062
+  size: 1041, 907
+  orig: 1041, 907
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 1195
+  size: 692, 774
+  orig: 692, 774
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 2, 57
+  size: 941, 1003
+  orig: 941, 1003
+  offset: 0, 0
+  index: -1
+
+P146724.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail
+  rotate: false
+  xy: 2, 13
+  size: 1138, 1127
+  orig: 1138, 1127
+  offset: 0, 0
+  index: -1
