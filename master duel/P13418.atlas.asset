@@ -1,0 +1,192 @@
+
+P13418.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackCloak
+  rotate: true
+  xy: 1633, 1334
+  size: 450, 366
+  orig: 450, 366
+  offset: 0, 0
+  index: -1
+BackCollar
+  rotate: false
+  xy: 1637, 1786
+  size: 374, 235
+  orig: 374, 235
+  offset: 0, 0
+  index: -1
+BackWeapon
+  rotate: false
+  xy: 2, 929
+  size: 1161, 272
+  orig: 1161, 272
+  offset: 0, 0
+  index: -1
+LeftArm_02
+  rotate: true
+  xy: 2, 1287
+  size: 270, 554
+  orig: 270, 554
+  offset: 0, 0
+  index: -1
+RightArm_01
+  rotate: false
+  xy: 1479, 269
+  size: 542, 644
+  orig: 542, 644
+  offset: 0, 0
+  index: -1
+Sword_01
+  rotate: true
+  xy: 1165, 915
+  size: 286, 800
+  orig: 286, 800
+  offset: 0, 0
+  index: -1
+Sword_02
+  rotate: true
+  xy: 826, 1484
+  size: 252, 805
+  orig: 252, 805
+  offset: 0, 0
+  index: -1
+Sword_03
+  rotate: true
+  xy: 2, 1559
+  size: 177, 822
+  orig: 177, 822
+  offset: 0, 0
+  index: -1
+Sword_04
+  rotate: true
+  xy: 2, 1776
+  size: 138, 814
+  orig: 138, 814
+  offset: 0, 0
+  index: -1
+Sword_05
+  rotate: true
+  xy: 820, 1907
+  size: 114, 815
+  orig: 114, 815
+  offset: 0, 0
+  index: -1
+Sword_06
+  rotate: true
+  xy: 2, 1916
+  size: 105, 816
+  orig: 105, 816
+  offset: 0, 0
+  index: -1
+Sword_07
+  rotate: true
+  xy: 818, 1738
+  size: 167, 809
+  orig: 167, 809
+  offset: 0, 0
+  index: -1
+Sword_08
+  rotate: true
+  xy: 558, 1203
+  size: 279, 819
+  orig: 279, 819
+  offset: 0, 0
+  index: -1
+Sword_09
+  rotate: true
+  xy: 2, 608
+  size: 319, 765
+  orig: 319, 765
+  offset: 0, 0
+  index: -1
+Sword_10
+  rotate: true
+  xy: 769, 574
+  size: 339, 708
+  orig: 339, 708
+  offset: 0, 0
+  index: -1
+
+P134182.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1301, 530
+  size: 663, 1434
+  orig: 663, 1434
+  offset: 0, 0
+  index: -1
+CenterWeapon
+  rotate: false
+  xy: 2, 328
+  size: 1297, 1636
+  orig: 1297, 1636
+  offset: 0, 0
+  index: -1
+
+P134183.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrontCloak
+  rotate: true
+  xy: 1323, 1028
+  size: 935, 640
+  orig: 935, 640
+  offset: 0, 0
+  index: -1
+RightBackCloak
+  rotate: false
+  xy: 2, 989
+  size: 1319, 974
+  orig: 1319, 974
+  offset: 0, 0
+  index: -1
+RightShield
+  rotate: true
+  xy: 2, 307
+  size: 680, 1415
+  orig: 680, 1415
+  offset: 0, 0
+  index: -1
+
+P134184.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftArm_01
+  rotate: false
+  xy: 2, 2
+  size: 739, 636
+  orig: 739, 636
+  offset: 0, 0
+  index: -1
+LeftBackCloak
+  rotate: false
+  xy: 683, 1100
+  size: 931, 914
+  orig: 931, 914
+  offset: 0, 0
+  index: -1
+LeftShield
+  rotate: false
+  xy: 2, 640
+  size: 679, 1374
+  orig: 679, 1374
+  offset: 0, 0
+  index: -1
+RightArm_02
+  rotate: false
+  xy: 743, 192
+  size: 787, 906
+  orig: 787, 906
+  offset: 0, 0
+  index: -1

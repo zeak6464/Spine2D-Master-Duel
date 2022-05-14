@@ -1,0 +1,209 @@
+
+P14439.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackCloak
+  rotate: false
+  xy: 2, 757
+  size: 933, 811
+  orig: 933, 811
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 844, 1683
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+BallLight
+  rotate: false
+  xy: 558, 1570
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 240, 368
+  size: 228, 387
+  orig: 228, 387
+  offset: 0, 0
+  index: -1
+Cane
+  rotate: false
+  xy: 2, 1570
+  size: 554, 1270
+  orig: 554, 1270
+  offset: 0, 0
+  index: -1
+CenterShoulder
+  rotate: false
+  xy: 2, 2
+  size: 226, 497
+  orig: 226, 497
+  offset: 0, 0
+  index: -1
+ForntCloak
+  rotate: false
+  xy: 558, 1765
+  size: 778, 374
+  orig: 778, 374
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 900, 503
+  size: 203, 252
+  orig: 203, 252
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1396, 1915
+  size: 343, 416
+  orig: 343, 416
+  offset: 0, 0
+  index: -1
+LeftFrontHair
+  rotate: false
+  xy: 1321, 1160
+  size: 158, 150
+  orig: 158, 150
+  offset: 0, 0
+  index: -1
+LeftHairBack
+  rotate: true
+  xy: 1897, 1813
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 937, 771
+  size: 241, 163
+  orig: 241, 163
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 937, 1312
+  size: 451, 768
+  orig: 451, 768
+  offset: 0, 0
+  index: -1
+LeftShoulder01
+  rotate: true
+  xy: 1338, 1774
+  size: 139, 315
+  orig: 139, 315
+  offset: 0, 0
+  index: -1
+LeftShoulder01Back
+  rotate: true
+  xy: 1153, 964
+  size: 153, 320
+  orig: 153, 320
+  offset: 0, 0
+  index: -1
+LeftShoulder02
+  rotate: true
+  xy: 470, 442
+  size: 313, 221
+  orig: 313, 221
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 558, 2141
+  size: 715, 699
+  orig: 715, 699
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 693, 496
+  size: 259, 205
+  orig: 259, 205
+  offset: 0, 0
+  index: -1
+RightHair
+  rotate: false
+  xy: 2, 501
+  size: 236, 254
+  orig: 236, 254
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 1275, 2167
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1814, 1933
+  size: 325, 737
+  orig: 325, 737
+  offset: 0, 0
+  index: -1
+RightShoulder01
+  rotate: true
+  xy: 937, 936
+  size: 181, 214
+  orig: 181, 214
+  offset: 0, 0
+  index: -1
+RightShoulder02
+  rotate: true
+  xy: 753, 1580
+  size: 183, 89
+  orig: 183, 89
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 1275, 2260
+  size: 710, 580
+  orig: 710, 580
+  offset: 0, 0
+  index: -1
+RobeBack
+  rotate: false
+  xy: 1707, 645
+  size: 261, 701
+  orig: 261, 701
+  offset: 0, 0
+  index: -1
+RobeFront
+  rotate: true
+  xy: 1987, 2276
+  size: 564, 654
+  orig: 564, 654
+  offset: 0, 0
+  index: -1
+Tasset
+  rotate: true
+  xy: 1707, 1348
+  size: 438, 267
+  orig: 438, 267
+  offset: 0, 0
+  index: -1
+TassetBack
+  rotate: false
+  xy: 1655, 1788
+  size: 240, 125
+  orig: 240, 125
+  offset: 0, 0
+  index: -1
+Thunder
+  rotate: true
+  xy: 937, 1119
+  size: 191, 382
+  orig: 191, 382
+  offset: 0, 0
+  index: -1

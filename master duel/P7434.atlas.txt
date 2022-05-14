@@ -1,0 +1,69 @@
+
+P7434.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Annmo
+  rotate: true
+  xy: 1140, 2333
+  size: 794, 1257
+  orig: 794, 1257
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2399, 1943
+  size: 1081, 1396
+  orig: 1081, 1396
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 2, 2625
+  size: 1136, 774
+  orig: 1136, 774
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: false
+  xy: 774, 3401
+  size: 701, 394
+  orig: 701, 394
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2824, 3026
+  size: 769, 820
+  orig: 769, 820
+  offset: 0, 0
+  index: -1
+HeadBack
+  rotate: false
+  xy: 2, 3582
+  size: 288, 213
+  orig: 288, 213
+  offset: 0, 0
+  index: -1
+HeadChinBack
+  rotate: false
+  xy: 292, 3468
+  size: 480, 327
+  orig: 480, 327
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1477, 3205
+  size: 648, 590
+  orig: 648, 590
+  offset: 0, 0
+  index: -1
+leftArm
+  rotate: false
+  xy: 2127, 3129
+  size: 695, 666
+  orig: 695, 666
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+P14854.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackArmor
+  rotate: false
+  xy: 928, 1292
+  size: 136, 153
+  orig: 136, 153
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 1112
+  size: 676, 895
+  orig: 676, 895
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1121, 1808
+  size: 143, 199
+  orig: 143, 199
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 927, 1447
+  size: 251, 228
+  orig: 251, 228
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1036, 3
+  size: 374, 265
+  orig: 374, 265
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 641, 2
+  size: 341, 393
+  orig: 341, 393
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 345
+  size: 670, 765
+  orig: 670, 765
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 960, 1820
+  size: 159, 187
+  orig: 159, 187
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 674, 379
+  size: 731, 576
+  orig: 731, 576
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 680, 1700
+  size: 278, 307
+  orig: 278, 307
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 680, 1155
+  size: 261, 246
+  orig: 261, 246
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 680, 1418
+  size: 280, 245
+  orig: 280, 245
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 2, 50
+  size: 293, 637
+  orig: 293, 637
+  offset: 0, 0
+  index: -1

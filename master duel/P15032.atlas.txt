@@ -1,0 +1,111 @@
+
+P15032.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackTasset
+  rotate: false
+  xy: 1431, 88
+  size: 157, 339
+  orig: 157, 339
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1734, 1143
+  size: 283, 291
+  orig: 283, 291
+  offset: 0, 0
+  index: -1
+FrontTasset_01
+  rotate: false
+  xy: 1573, 642
+  size: 162, 357
+  orig: 162, 357
+  offset: 0, 0
+  index: -1
+FrontTasset_02
+  rotate: false
+  xy: 1089, 1411
+  size: 626, 606
+  orig: 626, 606
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1590, 204
+  size: 220, 232
+  orig: 220, 232
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1513, 438
+  size: 202, 280
+  orig: 202, 280
+  offset: 0, 0
+  index: -1
+LeftBackTasset
+  rotate: false
+  xy: 1573, 1001
+  size: 159, 408
+  orig: 159, 408
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1231, 113
+  size: 314, 198
+  orig: 314, 198
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 118
+  size: 466, 880
+  orig: 466, 880
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 884, 130
+  size: 345, 454
+  orig: 345, 454
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1717, 1436
+  size: 224, 262
+  orig: 224, 262
+  offset: 0, 0
+  index: -1
+RightBackTasset
+  rotate: false
+  xy: 1231, 429
+  size: 280, 267
+  orig: 280, 267
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1089, 698
+  size: 482, 711
+  orig: 482, 711
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 1717, 1662
+  size: 266, 355
+  orig: 266, 355
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: false
+  xy: 2, 586
+  size: 1085, 1431
+  orig: 1085, 1431
+  offset: 0, 0
+  index: -1

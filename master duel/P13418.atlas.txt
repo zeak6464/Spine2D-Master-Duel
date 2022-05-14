@@ -1,0 +1,174 @@
+
+P13418.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackCloak
+  rotate: true
+  xy: 1826, 1812
+  size: 225, 183
+  orig: 225, 183
+  offset: 0, 0
+  index: -1
+BackCollar
+  rotate: false
+  xy: 1637, 1919
+  size: 187, 118
+  orig: 187, 118
+  offset: 0, 0
+  index: -1
+BackWeapon
+  rotate: false
+  xy: 404, 1693
+  size: 580, 136
+  orig: 580, 136
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1153, 995
+  size: 332, 717
+  orig: 332, 717
+  offset: 0, 0
+  index: -1
+CenterWeapon
+  rotate: true
+  xy: 663, 2
+  size: 649, 818
+  orig: 649, 818
+  offset: 0, 0
+  index: -1
+FrontCloak
+  rotate: false
+  xy: 1342, 1329
+  size: 467, 320
+  orig: 467, 320
+  offset: 0, 0
+  index: -1
+LeftArm_01
+  rotate: false
+  xy: 326, 1373
+  size: 370, 318
+  orig: 370, 318
+  offset: 0, 0
+  index: -1
+LeftArm_02
+  rotate: true
+  xy: 820, 1831
+  size: 135, 277
+  orig: 135, 277
+  offset: 0, 0
+  index: -1
+LeftBackCloak
+  rotate: true
+  xy: 691, 777
+  size: 465, 457
+  orig: 465, 457
+  offset: 0, 0
+  index: -1
+LeftShield
+  rotate: true
+  xy: 2, 1032
+  size: 339, 687
+  orig: 339, 687
+  offset: 0, 0
+  index: -1
+RightArm_01
+  rotate: true
+  xy: 2, 1472
+  size: 271, 322
+  orig: 271, 322
+  offset: 0, 0
+  index: -1
+RightArm_02
+  rotate: true
+  xy: 698, 1244
+  size: 393, 453
+  orig: 393, 453
+  offset: 0, 0
+  index: -1
+RightBackCloak
+  rotate: false
+  xy: 2, 543
+  size: 659, 487
+  orig: 659, 487
+  offset: 0, 0
+  index: -1
+RightShield
+  rotate: true
+  xy: 1150, 653
+  size: 340, 707
+  orig: 340, 707
+  offset: 0, 0
+  index: -1
+Sword_01
+  rotate: true
+  xy: 2, 1745
+  size: 143, 400
+  orig: 143, 400
+  offset: 0, 0
+  index: -1
+Sword_02
+  rotate: true
+  xy: 415, 1852
+  size: 126, 403
+  orig: 126, 403
+  offset: 0, 0
+  index: -1
+Sword_03
+  rotate: true
+  xy: 2, 1890
+  size: 88, 411
+  orig: 88, 411
+  offset: 0, 0
+  index: -1
+Sword_04
+  rotate: true
+  xy: 821, 1968
+  size: 69, 407
+  orig: 69, 407
+  offset: 0, 0
+  index: -1
+Sword_05
+  rotate: true
+  xy: 412, 1980
+  size: 57, 407
+  orig: 57, 407
+  offset: 0, 0
+  index: -1
+Sword_06
+  rotate: true
+  xy: 2, 1984
+  size: 53, 408
+  orig: 53, 408
+  offset: 0, 0
+  index: -1
+Sword_07
+  rotate: true
+  xy: 1230, 1953
+  size: 84, 405
+  orig: 84, 405
+  offset: 0, 0
+  index: -1
+Sword_08
+  rotate: true
+  xy: 1099, 1811
+  size: 140, 410
+  orig: 140, 410
+  offset: 0, 0
+  index: -1
+Sword_09
+  rotate: true
+  xy: 1511, 1651
+  size: 159, 383
+  orig: 159, 383
+  offset: 0, 0
+  index: -1
+Sword_10
+  rotate: true
+  xy: 986, 1639
+  size: 170, 354
+  orig: 170, 354
+  offset: 0, 0
+  index: -1

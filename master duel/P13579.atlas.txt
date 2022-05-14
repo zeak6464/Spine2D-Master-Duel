@@ -1,0 +1,279 @@
+
+P13579.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackCloth
+  rotate: false
+  xy: 1055, 132
+  size: 155, 307
+  orig: 155, 307
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 990, 955
+  size: 574, 1091
+  orig: 574, 1091
+  offset: 0, 0
+  index: -1
+BodyArmor
+  rotate: false
+  xy: 1521, 442
+  size: 314, 354
+  orig: 314, 354
+  offset: 0, 0
+  index: -1
+FrontCloth
+  rotate: false
+  xy: 851, 126
+  size: 202, 484
+  orig: 202, 484
+  offset: 0, 0
+  index: -1
+HandEffect01
+  rotate: false
+  xy: 2, 612
+  size: 986, 1434
+  orig: 986, 1434
+  offset: 0, 0
+  index: -1
+HandEffect02
+  rotate: false
+  xy: 1843, 1417
+  size: 162, 245
+  orig: 162, 245
+  offset: 0, 0
+  index: -1
+HandEffect03
+  rotate: false
+  xy: 1340, 169
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+HandEffect04
+  rotate: false
+  xy: 1674, 146
+  size: 258, 294
+  orig: 258, 294
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1843, 1814
+  size: 189, 232
+  orig: 189, 232
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1837, 524
+  size: 197, 272
+  orig: 197, 272
+  offset: 0, 0
+  index: -1
+LeftArmBack
+  rotate: false
+  xy: 1340, 9
+  size: 77, 158
+  orig: 77, 158
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 851, 2
+  size: 194, 122
+  orig: 194, 122
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 369, 52
+  size: 292, 558
+  orig: 292, 558
+  offset: 0, 0
+  index: -1
+OrbEffect
+  rotate: false
+  xy: 2, 255
+  size: 365, 355
+  orig: 365, 355
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1055, 441
+  size: 208, 174
+  orig: 208, 174
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1934, 231
+  size: 101, 111
+  orig: 101, 111
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 1843, 1246
+  size: 149, 169
+  orig: 149, 169
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 663, 103
+  size: 186, 507
+  orig: 186, 507
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 1566, 798
+  size: 275, 1248
+  orig: 275, 1248
+  offset: 0, 0
+  index: -1
+SwordEffect01
+  rotate: false
+  xy: 1472, 46
+  size: 200, 394
+  orig: 200, 394
+  offset: 0, 0
+  index: -1
+SwordEffect02
+  rotate: false
+  xy: 1307, 478
+  size: 212, 475
+  orig: 212, 475
+  offset: 0, 0
+  index: -1
+SwordEffect03
+  rotate: false
+  xy: 1212, 383
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+SwordEffect04
+  rotate: false
+  xy: 663, 8
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+SwordEffect05
+  rotate: false
+  xy: 990, 617
+  size: 315, 336
+  orig: 315, 336
+  offset: 0, 0
+  index: -1
+SwordEffect06
+  rotate: false
+  xy: 1830, 42
+  size: 68, 102
+  orig: 68, 102
+  offset: 0, 0
+  index: -1
+SwordEffect07
+  rotate: false
+  xy: 1768, 35
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+SwordEffect08
+  rotate: false
+  xy: 1674, 30
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+SwordEffect09
+  rotate: false
+  xy: 1212, 11
+  size: 126, 221
+  orig: 126, 221
+  offset: 0, 0
+  index: -1
+SwordEffect10
+  rotate: false
+  xy: 1047, 3
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+SwordEffect11
+  rotate: false
+  xy: 1843, 1664
+  size: 177, 148
+  orig: 177, 148
+  offset: 0, 0
+  index: -1
+SwordEffect12
+  rotate: false
+  xy: 363, 7
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+SwordEffect13
+  rotate: false
+  xy: 1837, 445
+  size: 94, 77
+  orig: 94, 77
+  offset: 0, 0
+  index: -1
+SwordEffect14
+  rotate: false
+  xy: 734, 15
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+SwordEffect15
+  rotate: false
+  xy: 1112, 67
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+WaistArmor
+  rotate: false
+  xy: 2, 42
+  size: 359, 211
+  orig: 359, 211
+  offset: 0, 0
+  index: -1
+WaistArmorBack01
+  rotate: false
+  xy: 1843, 1067
+  size: 147, 177
+  orig: 147, 177
+  offset: 0, 0
+  index: -1
+WaistArmorBack02
+  rotate: false
+  xy: 1934, 344
+  size: 96, 178
+  orig: 96, 178
+  offset: 0, 0
+  index: -1
+WingEffect01
+  rotate: false
+  xy: 1265, 234
+  size: 205, 242
+  orig: 205, 242
+  offset: 0, 0
+  index: -1
+WingEffect02
+  rotate: false
+  xy: 1934, 30
+  size: 95, 199
+  orig: 95, 199
+  offset: 0, 0
+  index: -1

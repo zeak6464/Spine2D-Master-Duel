@@ -1,0 +1,139 @@
+
+P15851.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 756, 480
+  size: 255, 554
+  orig: 255, 554
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: true
+  xy: 456, 668
+  size: 815, 298
+  orig: 815, 298
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 977, 291
+  size: 182, 187
+  orig: 182, 187
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1394, 906
+  size: 244, 231
+  orig: 244, 231
+  offset: 0, 0
+  index: -1
+LeftBodyWing
+  rotate: false
+  xy: 1312, 242
+  size: 229, 545
+  orig: 229, 545
+  offset: 0, 0
+  index: -1
+LeftFinger
+  rotate: false
+  xy: 334, 167
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 977, 62
+  size: 173, 227
+  orig: 173, 227
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 654, 74
+  size: 167, 190
+  orig: 167, 190
+  offset: 0, 0
+  index: -1
+LeftWaistWing
+  rotate: true
+  xy: 654, 266
+  size: 212, 321
+  orig: 212, 321
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 756, 737
+  size: 242, 746
+  orig: 242, 746
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 654, 540
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+RightBodyWing
+  rotate: false
+  xy: 2, 876
+  size: 452, 607
+  orig: 452, 607
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 414, 153
+  size: 238, 513
+  orig: 238, 513
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 334, 2
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+RightShoulderWing
+  rotate: true
+  xy: 2, 64
+  size: 172, 330
+  orig: 172, 330
+  offset: 0, 0
+  index: -1
+RightWaistWing
+  rotate: false
+  xy: 1000, 789
+  size: 392, 348
+  orig: 392, 348
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 1023, 1139
+  size: 773, 707
+  orig: 773, 707
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: false
+  xy: 2, 1485
+  size: 1019, 427
+  orig: 1019, 427
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2, 238
+  size: 636, 410
+  orig: 636, 410
+  offset: 0, 0
+  index: -1

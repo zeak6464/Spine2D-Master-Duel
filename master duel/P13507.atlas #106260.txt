@@ -1,0 +1,258 @@
+
+P13507.png
+size: 1472,1472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 983, 1077
+  size: 163, 274
+  orig: 172, 282
+  offset: 4, 4
+  index: -1
+Body_Back
+  rotate: true
+  xy: 2, 19
+  size: 201, 406
+  orig: 206, 415
+  offset: 4, 5
+  index: -1
+Body_Parts
+  rotate: true
+  xy: 1240, 402
+  size: 204, 230
+  orig: 214, 240
+  offset: 5, 5
+  index: -1
+Effect1
+  rotate: true
+  xy: 776, 33
+  size: 121, 111
+  orig: 131, 121
+  offset: 5, 5
+  index: -1
+Effect2
+  rotate: true
+  xy: 889, 42
+  size: 70, 119
+  orig: 80, 129
+  offset: 5, 5
+  index: -1
+Effect3
+  rotate: false
+  xy: 1345, 89
+  size: 82, 158
+  orig: 92, 168
+  offset: 5, 5
+  index: -1
+Effect4
+  rotate: true
+  xy: 1010, 52
+  size: 60, 75
+  orig: 70, 85
+  offset: 5, 5
+  index: -1
+Effect5
+  rotate: false
+  xy: 1116, 97
+  size: 94, 175
+  orig: 104, 185
+  offset: 5, 5
+  index: -1
+Head
+  rotate: false
+  xy: 934, 114
+  size: 180, 158
+  orig: 184, 165
+  offset: 2, 3
+  index: -1
+LeftArm1
+  rotate: false
+  xy: 1249, 854
+  size: 150, 212
+  orig: 158, 221
+  offset: 4, 4
+  index: -1
+LeftArm2
+  rotate: false
+  xy: 410, 159
+  size: 214, 134
+  orig: 221, 141
+  offset: 4, 2
+  index: -1
+LeftCalf
+  rotate: false
+  xy: 983, 1242
+  size: 437, 228
+  orig: 442, 235
+  offset: 0, 3
+  index: -1
+LeftCalf_Back
+  rotate: true
+  xy: 1311, 669
+  size: 183, 120
+  orig: 193, 130
+  offset: 5, 5
+  index: -1
+LeftFoot
+  rotate: true
+  xy: 1013, 608
+  size: 212, 296
+  orig: 221, 303
+  offset: 5, 3
+  index: -1
+LeftGunEffect
+  rotate: true
+  xy: 835, 182
+  size: 153, 97
+  orig: 163, 107
+  offset: 5, 5
+  index: -1
+LeftParts1
+  rotate: false
+  xy: 647, 337
+  size: 296, 301
+  orig: 306, 311
+  offset: 5, 5
+  index: -1
+LeftParts2
+  rotate: false
+  xy: 348, 295
+  size: 297, 343
+  orig: 308, 353
+  offset: 5, 5
+  index: -1
+LeftWing1
+  rotate: false
+  xy: 390, 640
+  size: 621, 191
+  orig: 628, 199
+  offset: 3, 3
+  index: -1
+LeftWing2
+  rotate: false
+  xy: 390, 833
+  size: 639, 242
+  orig: 649, 252
+  offset: 5, 5
+  index: -1
+LeftWing3
+  rotate: false
+  xy: 390, 1077
+  size: 591, 393
+  orig: 601, 403
+  offset: 5, 5
+  index: -1
+LeftWingBody
+  rotate: false
+  xy: 945, 405
+  size: 293, 201
+  orig: 303, 213
+  offset: 5, 7
+  index: -1
+LeftWing_Effect
+  rotate: false
+  xy: 626, 156
+  size: 181, 100
+  orig: 191, 110
+  offset: 5, 5
+  index: -1
+Parts1
+  rotate: false
+  xy: 348, 232
+  size: 60, 61
+  orig: 70, 71
+  offset: 5, 5
+  index: -1
+Parts2
+  rotate: false
+  xy: 2, 765
+  size: 386, 705
+  orig: 397, 715
+  offset: 6, 5
+  index: -1
+Parts3
+  rotate: true
+  xy: 410, 9
+  size: 148, 189
+  orig: 158, 199
+  offset: 5, 5
+  index: -1
+RightArm1
+  rotate: false
+  xy: 1259, 1068
+  size: 167, 172
+  orig: 175, 181
+  offset: 4, 4
+  index: -1
+RightArm2
+  rotate: true
+  xy: 945, 274
+  size: 129, 284
+  orig: 138, 292
+  offset: 4, 4
+  index: -1
+RightArm2_Back
+  rotate: false
+  xy: 1370, 609
+  size: 66, 58
+  orig: 76, 68
+  offset: 5, 5
+  index: -1
+RightFoot
+  rotate: false
+  xy: 2, 222
+  size: 344, 541
+  orig: 349, 547
+  offset: 3, 4
+  index: -1
+RightGunEffect
+  rotate: true
+  xy: 647, 258
+  size: 77, 186
+  orig: 87, 196
+  offset: 5, 5
+  index: -1
+RightParts
+  rotate: false
+  xy: 1031, 822
+  size: 216, 253
+  orig: 226, 263
+  offset: 5, 5
+  index: -1
+RightWing1
+  rotate: false
+  xy: 1401, 899
+  size: 55, 167
+  orig: 65, 177
+  offset: 5, 5
+  index: -1
+RightWing2
+  rotate: false
+  xy: 1212, 103
+  size: 131, 144
+  orig: 141, 154
+  offset: 5, 5
+  index: -1
+RightWing3
+  rotate: false
+  xy: 601, 18
+  size: 173, 136
+  orig: 183, 146
+  offset: 5, 5
+  index: -1
+RightWingBody
+  rotate: false
+  xy: 1231, 249
+  size: 216, 151
+  orig: 226, 161
+  offset: 5, 5
+  index: -1
+RightWing_Effect
+  rotate: false
+  xy: 1311, 608
+  size: 57, 59
+  orig: 67, 69
+  offset: 5, 5
+  index: -1

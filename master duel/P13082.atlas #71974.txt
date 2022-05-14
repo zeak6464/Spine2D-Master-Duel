@@ -1,0 +1,174 @@
+
+P13082.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1392, 2348
+  size: 338, 464
+  orig: 338, 464
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: true
+  xy: 1579, 2717
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1372, 689
+  size: 359, 330
+  orig: 359, 330
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1372, 1403
+  size: 267, 400
+  orig: 267, 400
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1669, 2095
+  size: 251, 245
+  orig: 251, 245
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 816, 3241
+  size: 579, 796
+  orig: 579, 796
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 1397, 3255
+  size: 230, 257
+  orig: 230, 257
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 1641, 1440
+  size: 313, 363
+  orig: 313, 363
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 666
+  size: 1368, 1660
+  orig: 1368, 1660
+  offset: 0, 0
+  index: -1
+LeftWingParts01
+  rotate: true
+  xy: 1372, 1021
+  size: 380, 309
+  orig: 380, 309
+  offset: 0, 0
+  index: -1
+LeftWingParts01Back
+  rotate: false
+  xy: 1757, 3499
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+LeftWingParts02
+  rotate: true
+  xy: 816, 2328
+  size: 335, 574
+  orig: 335, 574
+  offset: 0, 0
+  index: -1
+LeftWingParts03
+  rotate: true
+  xy: 948, 9
+  size: 655, 520
+  orig: 655, 520
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1397, 3487
+  size: 358, 550
+  orig: 358, 550
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1579, 2792
+  size: 461, 317
+  orig: 461, 317
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 816, 2665
+  size: 432, 574
+  orig: 432, 574
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1656, 3281
+  size: 204, 286
+  orig: 204, 286
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 1757, 3630
+  size: 407, 396
+  orig: 407, 396
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 2328
+  size: 812, 1709
+  orig: 812, 1709
+  offset: 0, 0
+  index: -1
+RightWingParts01
+  rotate: false
+  xy: 1683, 1143
+  size: 259, 295
+  orig: 259, 295
+  offset: 0, 0
+  index: -1
+RightWingParts01Back
+  rotate: false
+  xy: 1904, 3503
+  size: 121, 125
+  orig: 121, 125
+  offset: 0, 0
+  index: -1
+RightWingParts02
+  rotate: false
+  xy: 1372, 1805
+  size: 295, 521
+  orig: 295, 521
+  offset: 0, 0
+  index: -1
+RightWingParts03
+  rotate: false
+  xy: 1250, 2688
+  size: 327, 551
+  orig: 327, 551
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 2
+  size: 944, 662
+  orig: 944, 662
+  offset: 0, 0
+  index: -1

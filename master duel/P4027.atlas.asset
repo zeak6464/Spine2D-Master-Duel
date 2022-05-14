@@ -1,0 +1,146 @@
+
+P4027.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1006, 1448
+  size: 533, 532
+  orig: 533, 532
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1006, 895
+  size: 551, 503
+  orig: 551, 503
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 2
+  size: 329, 323
+  orig: 329, 323
+  offset: 0, 0
+  index: -1
+LeftBracelet
+  rotate: true
+  xy: 1587, 145
+  size: 235, 282
+  orig: 235, 282
+  offset: 0, 0
+  index: -1
+LeftChain
+  rotate: false
+  xy: 864, 1141
+  size: 96, 258
+  orig: 96, 258
+  offset: 0, 0
+  index: -1
+LeftHand01
+  rotate: false
+  xy: 1318, 120
+  size: 267, 260
+  orig: 267, 260
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 864, 518
+  size: 486, 375
+  orig: 486, 375
+  offset: 0, 0
+  index: -1
+LeftShoulderBack
+  rotate: true
+  xy: 459, 416
+  size: 486, 403
+  orig: 486, 403
+  offset: 0, 0
+  index: -1
+LeftUpperShoulder
+  rotate: false
+  xy: 1352, 382
+  size: 354, 511
+  orig: 354, 511
+  offset: 0, 0
+  index: -1
+LefttHand02
+  rotate: true
+  xy: 379, 130
+  size: 284, 332
+  orig: 284, 332
+  offset: 0, 0
+  index: -1
+LowerBody
+  rotate: false
+  xy: 2, 1401
+  size: 1002, 580
+  orig: 1002, 580
+  offset: 0, 0
+  index: -1
+MiddleBody
+  rotate: true
+  xy: 2, 830
+  size: 569, 455
+  orig: 569, 455
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1511, 1117
+  size: 329, 323
+  orig: 329, 323
+  offset: 0, 0
+  index: -1
+RightBracelet
+  rotate: false
+  xy: 1708, 564
+  size: 235, 282
+  orig: 235, 282
+  offset: 0, 0
+  index: -1
+RightChain
+  rotate: false
+  xy: 1220, 258
+  size: 96, 258
+  orig: 96, 258
+  offset: 0, 0
+  index: -1
+RightHand01
+  rotate: true
+  xy: 1708, 848
+  size: 267, 260
+  orig: 267, 260
+  offset: 0, 0
+  index: -1
+RightHans02
+  rotate: false
+  xy: 1540, 1649
+  size: 284, 332
+  orig: 284, 332
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 2, 333
+  size: 495, 375
+  orig: 495, 375
+  offset: 0, 0
+  index: -1
+RightShoulderBack
+  rotate: true
+  xy: 459, 904
+  size: 495, 403
+  orig: 495, 403
+  offset: 0, 0
+  index: -1
+RightUpperShoulder
+  rotate: false
+  xy: 864, 5
+  size: 354, 511
+  orig: 354, 511
+  offset: 0, 0
+  index: -1

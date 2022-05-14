@@ -1,0 +1,138 @@
+
+P13602.png
+size: 2065,2065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1566, 1404
+  size: 497, 659
+  orig: 497, 659
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 374, 1129
+  size: 240, 283
+  orig: 240, 283
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 724, 1165
+  size: 337, 622
+  orig: 337, 622
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 1348, 1127
+  size: 139, 375
+  orig: 139, 375
+  offset: 0, 0
+  index: -1
+LeftWingArmor
+  rotate: true
+  xy: 724, 1504
+  size: 559, 840
+  orig: 559, 840
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 2, 1073
+  size: 296, 370
+  orig: 296, 370
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1489, 1045
+  size: 357, 500
+  orig: 357, 500
+  offset: 0, 0
+  index: -1
+RightWingArmor
+  rotate: false
+  xy: 2, 1371
+  size: 720, 692
+  orig: 720, 692
+  offset: 0, 0
+  index: -1
+
+P136022.png
+size: 1793,1793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shader/BodyShader
+  rotate: false
+  xy: 873, 1252
+  size: 397, 539
+  orig: 397, 539
+  offset: 0, 0
+  index: -1
+Shader/BodyShaderReflection
+  rotate: false
+  xy: 1272, 1615
+  size: 153, 176
+  orig: 153, 176
+  offset: 0, 0
+  index: -1
+Shader/LeftArmShader
+  rotate: true
+  xy: 1156, 748
+  size: 205, 260
+  orig: 205, 260
+  offset: 0, 0
+  index: -1
+Shader/LeftLegShader
+  rotate: false
+  xy: 873, 953
+  size: 198, 297
+  orig: 198, 297
+  offset: 0, 0
+  index: -1
+Shader/LeftWingShader
+  rotate: false
+  xy: 2, 851
+  size: 869, 940
+  orig: 869, 940
+  offset: 0, 0
+  index: -1
+Shader/RightArmShader
+  rotate: true
+  xy: 1256, 1007
+  size: 243, 178
+  orig: 243, 178
+  offset: 0, 0
+  index: -1
+Shader/RightLegShader
+  rotate: false
+  xy: 1073, 955
+  size: 181, 295
+  orig: 181, 295
+  offset: 0, 0
+  index: -1
+Shader/RightWingShader
+  rotate: true
+  xy: 2, 2
+  size: 847, 776
+  orig: 847, 776
+  offset: 0, 0
+  index: -1
+Shader/StarShader
+  rotate: true
+  xy: 780, 13
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Shader/TailShader
+  rotate: true
+  xy: 780, 82
+  size: 767, 374
+  orig: 767, 374
+  offset: 0, 0
+  index: -1

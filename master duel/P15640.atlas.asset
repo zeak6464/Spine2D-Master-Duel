@@ -1,0 +1,139 @@
+
+P15640.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 683, 1703
+  size: 325, 633
+  orig: 325, 633
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1741, 1417
+  size: 196, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 1633
+  size: 525, 142
+  orig: 525, 142
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1317, 1354
+  size: 195, 334
+  orig: 195, 334
+  offset: 0, 0
+  index: -1
+LeftRailgun01
+  rotate: false
+  xy: 1318, 1685
+  size: 451, 343
+  orig: 451, 343
+  offset: 0, 0
+  index: -1
+LeftRailgun02
+  rotate: true
+  xy: 1111, 1338
+  size: 126, 173
+  orig: 126, 173
+  offset: 0, 0
+  index: -1
+LeftRailgun03
+  rotate: false
+  xy: 1286, 1243
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1
+LeftShield
+  rotate: true
+  xy: 2, 993
+  size: 345, 390
+  orig: 345, 390
+  offset: 0, 0
+  index: -1
+LeftShieldArm
+  rotate: false
+  xy: 667, 1369
+  size: 442, 332
+  orig: 442, 332
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 529, 1613
+  size: 136, 162
+  orig: 136, 162
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 1771, 1772
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1317, 1551
+  size: 422, 132
+  orig: 422, 132
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1111, 1466
+  size: 235, 204
+  orig: 235, 204
+  offset: 0, 0
+  index: -1
+RightRailgun
+  rotate: false
+  xy: 2, 1340
+  size: 459, 291
+  orig: 459, 291
+  offset: 0, 0
+  index: -1
+RightShield
+  rotate: true
+  xy: 1653, 1100
+  size: 315, 316
+  orig: 315, 316
+  offset: 0, 0
+  index: -1
+RightShieldArm
+  rotate: false
+  xy: 1771, 1614
+  size: 250, 156
+  orig: 250, 156
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1424, 1242
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 463, 1310
+  size: 301, 196
+  orig: 301, 196
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 1777
+  size: 679, 251
+  orig: 679, 251
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+P13500.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoldBody
+  rotate: false
+  xy: 2, 1224
+  size: 287, 821
+  orig: 287, 821
+  offset: 0, 0
+  index: -1
+GoldEye1
+  rotate: true
+  xy: 483, 539
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+GoldEye2
+  rotate: true
+  xy: 564, 539
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+GoldFur
+  rotate: false
+  xy: 340, 8
+  size: 177, 125
+  orig: 177, 125
+  offset: 0, 0
+  index: -1
+GoldHair1
+  rotate: false
+  xy: 859, 1820
+  size: 183, 225
+  orig: 183, 225
+  offset: 0, 0
+  index: -1
+GoldHair2
+  rotate: false
+  xy: 641, 1507
+  size: 78, 538
+  orig: 78, 538
+  offset: 0, 0
+  index: -1
+GoldHair3
+  rotate: false
+  xy: 291, 1369
+  size: 146, 676
+  orig: 146, 676
+  offset: 0, 0
+  index: -1
+GoldHair4
+  rotate: true
+  xy: 758, 26
+  size: 107, 368
+  orig: 107, 368
+  offset: 0, 0
+  index: -1
+GoldHair5
+  rotate: true
+  xy: 800, 1530
+  size: 244, 192
+  orig: 244, 192
+  offset: 0, 0
+  index: -1
+GoldHead
+  rotate: true
+  xy: 291, 1224
+  size: 143, 168
+  orig: 143, 168
+  offset: 0, 0
+  index: -1
+GoldLeftArm
+  rotate: false
+  xy: 625, 681
+  size: 174, 563
+  orig: 174, 563
+  offset: 0, 0
+  index: -1
+GoldLeftCoat
+  rotate: false
+  xy: 148, 45
+  size: 72, 463
+  orig: 72, 463
+  offset: 0, 0
+  index: -1
+GoldLeftCoatBack
+  rotate: false
+  xy: 222, 115
+  size: 97, 393
+  orig: 97, 393
+  offset: 0, 0
+  index: -1
+GoldRightArm
+  rotate: true
+  xy: 321, 135
+  size: 373, 706
+  orig: 373, 706
+  offset: 0, 0
+  index: -1
+GoldRightArmBack
+  rotate: true
+  xy: 178, 16
+  size: 27, 71
+  orig: 27, 71
+  offset: 0, 0
+  index: -1
+GoldRightCoat
+  rotate: false
+  xy: 439, 1392
+  size: 200, 653
+  orig: 200, 653
+  offset: 0, 0
+  index: -1
+WhiteBody
+  rotate: false
+  xy: 2, 510
+  size: 319, 712
+  orig: 319, 712
+  offset: 0, 0
+  index: -1
+WhiteEye1
+  rotate: true
+  xy: 323, 533
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+WhiteEye2
+  rotate: true
+  xy: 403, 533
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+WhiteHair1
+  rotate: true
+  xy: 645, 540
+  size: 139, 216
+  orig: 139, 216
+  offset: 0, 0
+  index: -1
+WhiteHair2
+  rotate: false
+  xy: 721, 1511
+  size: 77, 214
+  orig: 77, 214
+  offset: 0, 0
+  index: -1
+WhiteHair3
+  rotate: false
+  xy: 721, 1727
+  size: 69, 318
+  orig: 69, 318
+  offset: 0, 0
+  index: -1
+WhiteHair4
+  rotate: false
+  xy: 323, 634
+  size: 300, 588
+  orig: 300, 588
+  offset: 0, 0
+  index: -1
+WhiteHairParts
+  rotate: false
+  xy: 251, 2
+  size: 87, 111
+  orig: 87, 111
+  offset: 0, 0
+  index: -1
+WhiteHand
+  rotate: false
+  xy: 639, 1247
+  size: 87, 143
+  orig: 87, 143
+  offset: 0, 0
+  index: -1
+WhiteHead
+  rotate: true
+  xy: 461, 1246
+  size: 144, 176
+  orig: 144, 176
+  offset: 0, 0
+  index: -1
+WhiteLeftArm
+  rotate: true
+  xy: 728, 1279
+  size: 135, 226
+  orig: 135, 226
+  offset: 0, 0
+  index: -1
+WhiteLeftArmCloth
+  rotate: false
+  xy: 2, 12
+  size: 144, 496
+  orig: 144, 496
+  offset: 0, 0
+  index: -1
+WhiteLeftEarring
+  rotate: false
+  xy: 148, 7
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+WhiteRightArm
+  rotate: true
+  xy: 914, 1453
+  size: 75, 198
+  orig: 75, 198
+  offset: 0, 0
+  index: -1
+WhiteRightArmCloth
+  rotate: false
+  xy: 792, 1776
+  size: 65, 269
+  orig: 65, 269
+  offset: 0, 0
+  index: -1
+WhiteRightArmClothBack
+  rotate: true
+  xy: 641, 1416
+  size: 89, 271
+  orig: 89, 271
+  offset: 0, 0
+  index: -1
+WhiteRightEarring
+  rotate: false
+  xy: 222, 88
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+WhiteRightShoulder
+  rotate: true
+  xy: 519, 17
+  size: 116, 237
+  orig: 116, 237
+  offset: 0, 0
+  index: -1

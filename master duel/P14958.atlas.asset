@@ -1,0 +1,271 @@
+
+P14958.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 3538, 3292
+  size: 501, 480
+  orig: 501, 480
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2520, 3387
+  size: 446, 415
+  orig: 446, 415
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3462, 2762
+  size: 608, 528
+  orig: 608, 528
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 171, 3915
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 2, 1229
+  size: 843, 820
+  orig: 843, 820
+  offset: 0, 0
+  index: -1
+LeftShoulderParts
+  rotate: true
+  xy: 1611, 3806
+  size: 264, 509
+  orig: 264, 509
+  offset: 0, 0
+  index: -1
+LeftShoulderPartsBack
+  rotate: true
+  xy: 3424, 3774
+  size: 296, 591
+  orig: 296, 591
+  offset: 0, 0
+  index: -1
+LeftSword
+  rotate: false
+  xy: 847, 1102
+  size: 945, 820
+  orig: 945, 820
+  offset: 0, 0
+  index: -1
+LeftSwordBack
+  rotate: true
+  xy: 2, 2051
+  size: 557, 923
+  orig: 557, 923
+  offset: 0, 0
+  index: -1
+LeftSwordFront
+  rotate: true
+  xy: 2, 3952
+  size: 118, 167
+  orig: 118, 167
+  offset: 0, 0
+  index: -1
+LeftTail
+  rotate: true
+  xy: 2243, 2903
+  size: 410, 1217
+  orig: 410, 1217
+  offset: 0, 0
+  index: -1
+LeftWing01
+  rotate: true
+  xy: 2968, 3315
+  size: 457, 568
+  orig: 457, 568
+  offset: 0, 0
+  index: -1
+LeftWing02
+  rotate: true
+  xy: 3208, 2166
+  size: 594, 600
+  orig: 594, 600
+  offset: 0, 0
+  index: -1
+LeftWing03
+  rotate: false
+  xy: 1816, 2370
+  size: 801, 531
+  orig: 801, 531
+  offset: 0, 0
+  index: -1
+LeftWing04
+  rotate: false
+  xy: 1599, 3418
+  size: 919, 384
+  orig: 919, 384
+  offset: 0, 0
+  index: -1
+LeftWing05
+  rotate: false
+  xy: 2122, 3804
+  size: 983, 266
+  orig: 983, 266
+  offset: 0, 0
+  index: -1
+LeftWing06
+  rotate: false
+  xy: 611, 3831
+  size: 998, 239
+  orig: 998, 239
+  offset: 0, 0
+  index: -1
+LeftWing07
+  rotate: false
+  xy: 405, 3508
+  size: 767, 321
+  orig: 767, 321
+  offset: 0, 0
+  index: -1
+LeftshoulderTaset
+  rotate: true
+  xy: 927, 1924
+  size: 684, 887
+  orig: 684, 887
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 3107, 3777
+  size: 293, 315
+  orig: 293, 315
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 328, 3853
+  size: 217, 281
+  orig: 217, 281
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1174, 3437
+  size: 392, 423
+  orig: 392, 423
+  offset: 0, 0
+  index: -1
+RightShoulderParts
+  rotate: false
+  xy: 1816, 1648
+  size: 928, 718
+  orig: 928, 718
+  offset: 0, 0
+  index: -1
+RightShoulderPartsBack
+  rotate: true
+  xy: 2, 3526
+  size: 325, 401
+  orig: 325, 401
+  offset: 0, 0
+  index: -1
+RightSword
+  rotate: true
+  xy: 2, 2610
+  size: 428, 1812
+  orig: 428, 1812
+  offset: 0, 0
+  index: -1
+RightSwordBack
+  rotate: false
+  xy: 2, 317
+  size: 1491, 783
+  orig: 1491, 783
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 2619, 2368
+  size: 533, 587
+  orig: 533, 587
+  offset: 0, 0
+  index: -1
+RightWing01
+  rotate: false
+  xy: 2746, 1417
+  size: 802, 747
+  orig: 802, 747
+  offset: 0, 0
+  index: -1
+RightWing05
+  rotate: false
+  xy: 1495, 242
+  size: 1914, 606
+  orig: 1914, 606
+  offset: 0, 0
+  index: -1
+RightWing06
+  rotate: false
+  xy: 2, 3040
+  size: 2239, 376
+  orig: 2239, 376
+  offset: 0, 0
+  index: -1
+RightWing07
+  rotate: false
+  xy: 1794, 850
+  size: 1824, 565
+  orig: 1824, 565
+  offset: 0, 0
+  index: -1
+
+P149582.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightLeg
+  rotate: true
+  xy: 2, 1965
+  size: 938, 1180
+  orig: 938, 1180
+  offset: 0, 0
+  index: -1
+RightTail
+  rotate: true
+  xy: 1184, 1825
+  size: 1037, 1247
+  orig: 1037, 1247
+  offset: 0, 0
+  index: -1
+RightWing02
+  rotate: true
+  xy: 1588, 2864
+  size: 872, 947
+  orig: 872, 947
+  offset: 0, 0
+  index: -1
+RightWing03
+  rotate: false
+  xy: 2537, 2812
+  size: 1199, 924
+  orig: 1199, 924
+  offset: 0, 0
+  index: -1
+RightWing04
+  rotate: false
+  xy: 2, 2905
+  size: 1584, 831
+  orig: 1584, 831
+  offset: 0, 0
+  index: -1
+RightshoulderTaset
+  rotate: true
+  xy: 2433, 1711
+  size: 1099, 1221
+  orig: 1099, 1221
+  offset: 0, 0
+  index: -1

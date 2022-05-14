@@ -1,0 +1,321 @@
+
+P15274.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect2
+  rotate: false
+  xy: 2, 133
+  size: 1647, 616
+  orig: 1647, 616
+  offset: 0, 0
+  index: -1
+LeftWaistClothBack
+  rotate: false
+  xy: 1891, 1844
+  size: 91, 173
+  orig: 91, 173
+  offset: 0, 0
+  index: -1
+RightBodyWing
+  rotate: false
+  xy: 1651, 246
+  size: 366, 503
+  orig: 366, 503
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1652, 778
+  size: 237, 1239
+  orig: 237, 1239
+  offset: 0, 0
+  index: -1
+RightWaistCloth
+  rotate: true
+  xy: 1651, 40
+  size: 204, 363
+  orig: 204, 363
+  offset: 0, 0
+  index: -1
+RightWing2
+  rotate: false
+  xy: 2, 751
+  size: 1648, 1266
+  orig: 1648, 1266
+  offset: 0, 0
+  index: -1
+
+P152742.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 737, 686
+  size: 402, 419
+  orig: 402, 419
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 874, 1090
+  size: 390, 500
+  orig: 390, 500
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 1115, 156
+  size: 905, 473
+  orig: 905, 473
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 1204
+  size: 365, 405
+  orig: 365, 405
+  offset: 0, 0
+  index: -1
+HeadBack
+  rotate: false
+  xy: 2, 793
+  size: 733, 401
+  orig: 733, 401
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1158, 631
+  size: 437, 473
+  orig: 437, 473
+  offset: 0, 0
+  index: -1
+LeftBodyWing
+  rotate: true
+  xy: 1496, 1471
+  size: 301, 439
+  orig: 301, 439
+  offset: 0, 0
+  index: -1
+LeftBodyWingBack
+  rotate: false
+  xy: 2, 1859
+  size: 187, 161
+  orig: 187, 161
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 1571
+  size: 231, 1130
+  orig: 231, 1130
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 1134, 1482
+  size: 290, 360
+  orig: 290, 360
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: true
+  xy: 833, 1811
+  size: 209, 288
+  orig: 209, 288
+  offset: 0, 0
+  index: -1
+LeftWaistCloth
+  rotate: true
+  xy: 417, 1820
+  size: 200, 414
+  orig: 200, 414
+  offset: 0, 0
+  index: -1
+LeftWing6
+  rotate: true
+  xy: 2, 255
+  size: 429, 1111
+  orig: 429, 1111
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1376, 1070
+  size: 399, 594
+  orig: 399, 594
+  offset: 0, 0
+  index: -1
+RightBodyWingBack
+  rotate: true
+  xy: 1123, 1804
+  size: 216, 361
+  orig: 216, 361
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1486, 1774
+  size: 246, 323
+  orig: 246, 323
+  offset: 0, 0
+  index: -1
+RightUpperArm
+  rotate: false
+  xy: 191, 1838
+  size: 224, 182
+  orig: 224, 182
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 409, 1196
+  size: 373, 463
+  orig: 373, 463
+  offset: 0, 0
+  index: -1
+
+P152743.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing2
+  rotate: false
+  xy: 2, 796
+  size: 1565, 1217
+  orig: 1565, 1217
+  offset: 0, 0
+  index: -1
+RightWing4
+  rotate: false
+  xy: 2, 2
+  size: 1671, 792
+  orig: 1671, 792
+  offset: 0, 0
+  index: -1
+
+P152744.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing1
+  rotate: false
+  xy: 2, 2
+  size: 1700, 967
+  orig: 1700, 967
+  offset: 0, 0
+  index: -1
+RightWing3
+  rotate: false
+  xy: 2, 971
+  size: 1746, 937
+  orig: 1746, 937
+  offset: 0, 0
+  index: -1
+
+P152745.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing3
+  rotate: true
+  xy: 2, 2
+  size: 916, 1513
+  orig: 916, 1513
+  offset: 0, 0
+  index: -1
+LeftWing4
+  rotate: false
+  xy: 2, 920
+  size: 1711, 934
+  orig: 1711, 934
+  offset: 0, 0
+  index: -1
+
+P152746.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWaistClothBack
+  rotate: false
+  xy: 1247, 1052
+  size: 712, 967
+  orig: 712, 967
+  offset: 0, 0
+  index: -1
+RightWing5
+  rotate: true
+  xy: 995, 277
+  size: 773, 1024
+  orig: 773, 1024
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 2, 1558
+  size: 461, 1243
+  orig: 461, 1243
+  offset: 0, 0
+  index: -1
+WaistCloth
+  rotate: false
+  xy: 2, 951
+  size: 991, 605
+  orig: 991, 605
+  offset: 0, 0
+  index: -1
+
+P152747.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightHand
+  rotate: false
+  xy: 2, 678
+  size: 1143, 1352
+  orig: 1143, 1352
+  offset: 0, 0
+  index: -1
+RightWing1
+  rotate: false
+  xy: 1147, 616
+  size: 883, 1414
+  orig: 883, 1414
+  offset: 0, 0
+  index: -1
+
+P152748.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing5
+  rotate: false
+  xy: 2, 1022
+  size: 1281, 1016
+  orig: 1281, 1016
+  offset: 0, 0
+  index: -1
+RightWing6
+  rotate: false
+  xy: 2, 3
+  size: 1130, 1017
+  orig: 1130, 1017
+  offset: 0, 0
+  index: -1
+WaistClothBack
+  rotate: true
+  xy: 1134, 2
+  size: 1018, 897
+  orig: 1018, 897
+  offset: 0, 0
+  index: -1
