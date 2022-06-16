@@ -6,77 +6,71 @@ filter: Linear,Linear
 repeat: none
 Head
   rotate: true
-  xy: 2, 1686
-  size: 247, 324
-  orig: 247, 324
+  xy: 1878, 1536
+  size: 124, 162
+  orig: 124, 162
   offset: 0, 0
   index: -1
 LeftArm
   rotate: false
-  xy: 1119, 729
-  size: 755, 755
-  orig: 755, 755
+  xy: 1621, 1662
+  size: 378, 378
+  orig: 378, 378
+  offset: 0, 0
+  index: -1
+LeftShin
+  rotate: true
+  xy: 1045, 1775
+  size: 265, 574
+  orig: 265, 574
   offset: 0, 0
   index: -1
 LeftThigh
-  rotate: false
-  xy: 536, 1024
-  size: 581, 470
-  orig: 581, 470
+  rotate: true
+  xy: 1373, 1482
+  size: 291, 235
+  orig: 291, 235
   offset: 0, 0
   index: -1
 Lower
   rotate: false
-  xy: 328, 1500
-  size: 450, 433
-  orig: 450, 433
+  xy: 772, 1488
+  size: 225, 217
+  orig: 225, 217
   offset: 0, 0
   index: -1
 RightArm
   rotate: true
-  xy: 2, 357
-  size: 665, 1045
-  orig: 665, 1045
+  xy: 520, 1707
+  size: 333, 523
+  orig: 333, 523
   offset: 0, 0
   index: -1
 RightArm_2
   rotate: true
-  xy: 1281, 1486
-  size: 447, 652
-  orig: 447, 652
+  xy: 1045, 1549
+  size: 224, 326
+  orig: 224, 326
   offset: 0, 0
   index: -1
 RightShin
   rotate: false
-  xy: 780, 1496
-  size: 499, 437
-  orig: 499, 437
+  xy: 520, 1486
+  size: 250, 219
+  orig: 250, 219
   offset: 0, 0
   index: -1
 RightThigh
   rotate: true
-  xy: 2, 1044
-  size: 454, 532
-  orig: 454, 532
-  offset: 0, 0
-  index: -1
-
-P76982.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-LeftShin
-  rotate: false
-  xy: 1036, 419
-  size: 530, 1147
-  orig: 530, 1147
+  xy: 1610, 1433
+  size: 227, 266
+  orig: 227, 266
   offset: 0, 0
   index: -1
 Upper
   rotate: false
-  xy: 2, 798
-  size: 1032, 768
-  orig: 1032, 768
+  xy: 2, 1656
+  size: 516, 384
+  orig: 516, 384
   offset: 0, 0
   index: -1

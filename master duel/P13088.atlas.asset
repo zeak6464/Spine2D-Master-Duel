@@ -6,113 +6,119 @@ filter: Linear,Linear
 repeat: none
 BackMuffler
   rotate: false
-  xy: 365, 552
-  size: 172, 84
-  orig: 172, 84
+  xy: 504, 1789
+  size: 345, 167
+  orig: 345, 167
   offset: 0, 0
   index: -1
 Bang
-  rotate: false
-  xy: 493, 156
-  size: 145, 149
-  orig: 145, 149
+  rotate: true
+  xy: 1536, 1666
+  size: 290, 298
+  orig: 290, 298
   offset: 0, 0
   index: -1
 Body
-  rotate: true
-  xy: 945, 1041
-  size: 303, 399
-  orig: 303, 399
+  rotate: false
+  xy: 1350, 866
+  size: 606, 798
+  orig: 606, 798
   offset: 0, 0
   index: -1
 Eye_1
   rotate: false
-  xy: 1135, 995
-  size: 83, 44
-  orig: 83, 44
+  xy: 336, 1867
+  size: 166, 89
+  orig: 166, 89
   offset: 0, 0
   index: -1
 Eye_2
   rotate: false
-  xy: 1220, 995
-  size: 83, 44
-  orig: 83, 44
+  xy: 2, 1869
+  size: 165, 87
+  orig: 165, 87
   offset: 0, 0
   index: -1
 Eye_3
   rotate: false
-  xy: 539, 592
-  size: 83, 44
-  orig: 83, 44
+  xy: 169, 1869
+  size: 165, 87
+  orig: 165, 87
   offset: 0, 0
   index: -1
 FrontMuffler
   rotate: false
-  xy: 945, 953
-  size: 188, 86
-  orig: 188, 86
+  xy: 851, 1785
+  size: 376, 171
+  orig: 376, 171
   offset: 0, 0
   index: -1
 Head
   rotate: false
-  xy: 731, 461
-  size: 201, 175
-  orig: 201, 175
+  xy: 2, 1515
+  size: 403, 350
+  orig: 403, 350
   offset: 0, 0
   index: -1
 LeftArm
   rotate: true
-  xy: 731, 116
-  size: 220, 227
-  orig: 220, 227
-  offset: 0, 0
-  index: -1
-LeftMuffler
-  rotate: true
-  xy: 2, 96
-  size: 451, 489
-  orig: 451, 489
-  offset: 0, 0
-  index: -1
-Leg
-  rotate: true
-  xy: 365, 947
-  size: 397, 578
-  orig: 397, 578
+  xy: 407, 1343
+  size: 440, 453
+  orig: 440, 453
   offset: 0, 0
   index: -1
 RightArm
-  rotate: true
-  xy: 493, 307
-  size: 243, 236
-  orig: 243, 236
+  rotate: false
+  xy: 862, 1279
+  size: 486, 472
+  orig: 486, 472
   offset: 0, 0
   index: -1
 RightMuffler
   rotate: true
-  xy: 365, 638
-  size: 307, 664
-  orig: 307, 664
+  xy: 2, 135
+  size: 613, 1328
+  orig: 613, 1328
   offset: 0, 0
   index: -1
 Shield
-  rotate: false
-  xy: 1031, 338
-  size: 264, 613
-  orig: 264, 613
-  offset: 0, 0
-  index: -1
-Sword
-  rotate: false
-  xy: 2, 549
-  size: 361, 795
-  orig: 361, 795
+  rotate: true
+  xy: 2, 750
+  size: 527, 1226
+  orig: 527, 1226
   offset: 0, 0
   index: -1
 Tasset
   rotate: true
-  xy: 731, 358
-  size: 101, 152
-  orig: 101, 152
+  xy: 1229, 1753
+  size: 203, 305
+  orig: 203, 305
+  offset: 0, 0
+  index: -1
+
+P130882.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftMuffler
+  rotate: false
+  xy: 727, 108
+  size: 902, 979
+  orig: 902, 979
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 727, 1089
+  size: 793, 1155
+  orig: 793, 1155
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 2, 292
+  size: 723, 1590
+  orig: 723, 1590
   offset: 0, 0
   index: -1

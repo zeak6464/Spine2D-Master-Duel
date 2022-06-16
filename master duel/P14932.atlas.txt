@@ -4,225 +4,213 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+1stContainer1
+  rotate: false
+  xy: 2, 1469
+  size: 599, 577
+  orig: 599, 577
+  offset: 0, 0
+  index: -1
 1stContainer1Front
   rotate: false
-  xy: 2, 1966
-  size: 161, 65
-  orig: 161, 65
+  xy: 1916, 1575
+  size: 80, 33
+  orig: 80, 33
   offset: 0, 0
   index: -1
 1stContainer2
   rotate: false
-  xy: 1073, 1931
-  size: 83, 100
-  orig: 83, 100
+  xy: 2001, 1914
+  size: 42, 50
+  orig: 42, 50
   offset: 0, 0
   index: -1
 1stContainer3
   rotate: false
-  xy: 238, 1954
-  size: 170, 77
-  orig: 170, 77
+  xy: 1866, 1654
+  size: 85, 38
+  orig: 85, 38
   offset: 0, 0
   index: -1
 1stContainerTire1
   rotate: false
-  xy: 1020, 1694
-  size: 163, 223
-  orig: 163, 223
+  xy: 1837, 1876
+  size: 82, 112
+  orig: 82, 112
   offset: 0, 0
   index: -1
 1stContainerTire2
   rotate: false
-  xy: 863, 1717
-  size: 155, 213
-  orig: 155, 213
+  xy: 1921, 1882
+  size: 78, 106
+  orig: 78, 106
   offset: 0, 0
   index: -1
 1stContainerTire3
   rotate: false
-  xy: 728, 1731
-  size: 133, 199
-  orig: 133, 199
+  xy: 1921, 1781
+  size: 67, 99
+  orig: 67, 99
   offset: 0, 0
   index: -1
 1stContainerTire4
   rotate: false
-  xy: 596, 1749
-  size: 130, 192
-  orig: 130, 192
+  xy: 1837, 1778
+  size: 65, 96
+  orig: 65, 96
   offset: 0, 0
   index: -1
 1stContainerTire5
   rotate: false
-  xy: 410, 1952
-  size: 247, 79
-  orig: 247, 79
+  xy: 1624, 1691
+  size: 124, 39
+  orig: 124, 39
   offset: 0, 0
   index: -1
 2ndContainer1
   rotate: false
-  xy: 2, 361
-  size: 535, 855
-  orig: 535, 855
+  xy: 1110, 1619
+  size: 268, 427
+  orig: 268, 427
   offset: 0, 0
   index: -1
 2ndContainer2
   rotate: false
-  xy: 659, 1943
-  size: 82, 88
-  orig: 82, 88
+  xy: 2005, 2002
+  size: 41, 44
+  orig: 41, 44
   offset: 0, 0
   index: -1
 2ndContainerBack
   rotate: false
-  xy: 743, 1932
-  size: 328, 99
-  orig: 328, 99
+  xy: 1624, 1732
+  size: 164, 49
+  orig: 164, 49
   offset: 0, 0
   index: -1
 2ndContainerTire1
   rotate: false
-  xy: 462, 1780
-  size: 132, 170
-  orig: 132, 170
+  xy: 1904, 1694
+  size: 66, 85
+  orig: 66, 85
   offset: 0, 0
   index: -1
 2ndContainerTire2
   rotate: false
-  xy: 343, 1795
-  size: 117, 155
-  orig: 117, 155
+  xy: 1790, 1699
+  size: 58, 77
+  orig: 58, 77
   offset: 0, 0
   index: -1
 2ndContainerTire3
   rotate: false
-  xy: 137, 1812
-  size: 109, 140
-  orig: 109, 140
+  xy: 1990, 1810
+  size: 54, 70
+  orig: 54, 70
   offset: 0, 0
   index: -1
 2ndContainerTire4
   rotate: false
-  xy: 1926, 1897
-  size: 105, 134
-  orig: 105, 134
+  xy: 1990, 1741
+  size: 53, 67
+  orig: 53, 67
   offset: 0, 0
   index: -1
 3rdContainer1
   rotate: false
-  xy: 1292, 802
-  size: 484, 675
-  orig: 484, 675
+  xy: 1380, 1709
+  size: 242, 337
+  orig: 242, 337
   offset: 0, 0
   index: -1
 3rdContainer2
   rotate: false
-  xy: 165, 1963
-  size: 71, 68
-  orig: 71, 68
+  xy: 2005, 1966
+  size: 35, 34
+  orig: 35, 34
   offset: 0, 0
   index: -1
 3rdContainerBack
   rotate: false
-  xy: 1158, 1919
-  size: 332, 112
-  orig: 332, 112
+  xy: 1837, 1990
+  size: 166, 56
+  orig: 166, 56
   offset: 0, 0
   index: -1
 3rdContainerTire1
   rotate: false
-  xy: 1807, 1903
-  size: 117, 128
-  orig: 117, 128
+  xy: 1750, 1633
+  size: 59, 64
+  orig: 59, 64
   offset: 0, 0
   index: -1
 3rdContainerTire2
   rotate: false
-  xy: 1700, 1906
-  size: 105, 125
-  orig: 105, 125
+  xy: 1811, 1635
+  size: 53, 62
+  orig: 53, 62
   offset: 0, 0
   index: -1
 3rdContainerTire3
   rotate: false
-  xy: 1590, 1915
-  size: 108, 116
-  orig: 108, 116
+  xy: 1953, 1610
+  size: 54, 58
+  orig: 54, 58
   offset: 0, 0
   index: -1
 3rdContainerTire4
   rotate: false
-  xy: 1492, 1917
-  size: 96, 114
-  orig: 96, 114
+  xy: 1866, 1595
+  size: 48, 57
+  orig: 48, 57
   offset: 0, 0
   index: -1
 LeftCaterpillar
   rotate: false
-  xy: 1185, 1479
-  size: 457, 434
-  orig: 457, 434
+  xy: 1596, 1414
+  size: 229, 217
+  orig: 229, 217
   offset: 0, 0
   index: -1
 LeftCaterpillarFender
   rotate: false
-  xy: 440, 1218
-  size: 427, 497
-  orig: 427, 497
+  xy: 1380, 1458
+  size: 214, 249
+  orig: 214, 249
   offset: 0, 0
   index: -1
 RightCaterpillar
   rotate: false
-  xy: 2, 1329
-  size: 436, 464
-  orig: 436, 464
+  xy: 1110, 1385
+  size: 218, 232
+  orig: 218, 232
   offset: 0, 0
   index: -1
 RightCaterpillarBack
   rotate: false
-  xy: 2, 1826
-  size: 133, 138
-  orig: 133, 138
+  xy: 1972, 1670
+  size: 67, 69
+  orig: 67, 69
   offset: 0, 0
   index: -1
 RightCaterpillarFender
   rotate: false
-  xy: 869, 951
-  size: 421, 526
-  orig: 421, 526
+  xy: 1624, 1783
+  size: 211, 263
+  orig: 211, 263
+  offset: 0, 0
+  index: -1
+Tractor
+  rotate: false
+  xy: 603, 1515
+  size: 505, 531
+  orig: 505, 531
   offset: 0, 0
   index: -1
 TractorBack
   rotate: false
-  xy: 248, 1798
-  size: 93, 154
-  orig: 93, 154
-  offset: 0, 0
-  index: -1
-
-P149322.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-Tractor
-  rotate: false
-  xy: 2, 2
-  size: 1010, 1061
-  orig: 1010, 1061
-  offset: 0, 0
-  index: -1
-
-P149323.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-1stContainer1
-  rotate: false
-  xy: 2, 47
-  size: 1198, 1153
-  orig: 1198, 1153
+  xy: 1850, 1699
+  size: 46, 77
+  orig: 46, 77
   offset: 0, 0
   index: -1

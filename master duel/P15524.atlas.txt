@@ -1,174 +1,174 @@
 
 P15524.png
-size: 2048,2048
+size: 4096,4096
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
-  rotate: true
-  xy: 754, 28
-  size: 282, 454
-  orig: 282, 454
+  rotate: false
+  xy: 636, 1073
+  size: 576, 926
+  orig: 576, 926
   offset: 0, 0
   index: -1
 BodyEffect
   rotate: false
-  xy: 1353, 1610
-  size: 280, 112
-  orig: 280, 112
+  xy: 2794, 1054
+  size: 571, 228
+  orig: 571, 228
   offset: 0, 0
   index: -1
 LeftArm
   rotate: true
-  xy: 1568, 1336
-  size: 272, 266
-  orig: 272, 266
+  xy: 1930, 2007
+  size: 554, 543
+  orig: 554, 543
   offset: 0, 0
   index: -1
 LeftHand
   rotate: false
-  xy: 1563, 854
-  size: 143, 162
-  orig: 143, 162
+  xy: 2099, 811
+  size: 291, 330
+  orig: 291, 330
   offset: 0, 0
   index: -1
 LeftLeg
-  rotate: false
-  xy: 1066, 622
-  size: 217, 389
-  orig: 217, 389
+  rotate: true
+  xy: 636, 630
+  size: 441, 794
+  orig: 441, 794
   offset: 0, 0
   index: -1
 LeftLegEffect
   rotate: true
-  xy: 1305, 1018
-  size: 261, 296
-  orig: 261, 296
+  xy: 2475, 2029
+  size: 532, 603
+  orig: 532, 603
   offset: 0, 0
   index: -1
 LeftThruster
-  rotate: true
-  xy: 1649, 1771
-  size: 250, 261
-  orig: 250, 261
+  rotate: false
+  xy: 2894, 1465
+  size: 510, 532
+  orig: 510, 532
   offset: 0, 0
   index: -1
 LeftThrusterEffect1
-  rotate: false
-  xy: 1285, 647
-  size: 148, 72
-  orig: 148, 72
+  rotate: true
+  xy: 2392, 981
+  size: 301, 147
+  orig: 301, 147
   offset: 0, 0
   index: -1
 LeftThrusterEffect2
-  rotate: true
-  xy: 1574, 11
-  size: 183, 296
-  orig: 183, 296
+  rotate: false
+  xy: 602, 4
+  size: 372, 604
+  orig: 372, 604
   offset: 0, 0
   index: -1
 LeftThrusterEffect3
-  rotate: false
-  xy: 2, 2
-  size: 750, 991
-  orig: 750, 991
+  rotate: true
+  xy: 1930, 2563
+  size: 1530, 2019
+  orig: 1530, 2019
   offset: 0, 0
   index: -1
 LeftWing1
-  rotate: true
-  xy: 1263, 1281
-  size: 318, 303
-  orig: 318, 303
+  rotate: false
+  xy: 976, 11
+  size: 649, 617
+  orig: 649, 617
   offset: 0, 0
   index: -1
 LeftWing2
-  rotate: true
-  xy: 1066, 364
-  size: 256, 328
-  orig: 256, 328
+  rotate: false
+  xy: 2595, 314
+  size: 522, 668
+  orig: 522, 668
   offset: 0, 0
   index: -1
 LeftWing3
-  rotate: true
-  xy: 1210, 33
-  size: 161, 362
-  orig: 161, 362
+  rotate: false
+  xy: 2264, 71
+  size: 329, 738
+  orig: 329, 738
   offset: 0, 0
   index: -1
 RightArm
-  rotate: false
-  xy: 1285, 721
-  size: 276, 290
-  orig: 276, 290
+  rotate: true
+  xy: 3367, 1999
+  size: 562, 591
+  orig: 562, 591
   offset: 0, 0
   index: -1
 RightHand
-  rotate: true
-  xy: 1649, 1630
-  size: 139, 191
-  orig: 139, 191
+  rotate: false
+  xy: 1813, 752
+  size: 284, 389
+  orig: 284, 389
   offset: 0, 0
   index: -1
 RightLeg
   rotate: false
-  xy: 949, 1601
-  size: 402, 420
-  orig: 402, 420
+  xy: 1555, 1143
+  size: 820, 856
+  orig: 820, 856
   offset: 0, 0
   index: -1
 RightLegEffect
-  rotate: true
-  xy: 1210, 196
-  size: 166, 429
-  orig: 166, 429
+  rotate: false
+  xy: 1214, 1125
+  size: 339, 874
+  orig: 339, 874
   offset: 0, 0
   index: -1
 RightThruster
   rotate: true
-  xy: 1353, 1724
-  size: 297, 294
-  orig: 297, 294
+  xy: 2, 2
+  size: 606, 598
+  orig: 606, 598
   offset: 0, 0
   index: -1
 RightThrusterEffect1
   rotate: true
-  xy: 1563, 706
-  size: 146, 123
-  orig: 146, 123
+  xy: 2541, 984
+  size: 298, 251
+  orig: 298, 251
   offset: 0, 0
   index: -1
 RightThrusterEffect2
   rotate: true
-  xy: 1396, 434
-  size: 211, 186
-  orig: 211, 186
+  xy: 1432, 693
+  size: 430, 379
+  orig: 430, 379
   offset: 0, 0
   index: -1
 RightThrusterEffect3
   rotate: false
-  xy: 2, 995
-  size: 945, 1026
-  orig: 945, 1026
+  xy: 2, 2001
+  size: 1926, 2092
+  orig: 1926, 2092
   offset: 0, 0
   index: -1
 RightWing1
   rotate: true
-  xy: 754, 312
-  size: 681, 310
-  orig: 681, 310
+  xy: 2, 610
+  size: 1389, 632
+  orig: 1389, 632
   offset: 0, 0
   index: -1
 RightWing2
   rotate: true
-  xy: 949, 1268
-  size: 331, 312
-  orig: 331, 312
+  xy: 1627, 16
+  size: 675, 635
+  orig: 675, 635
   offset: 0, 0
   index: -1
 RightWing3
-  rotate: true
-  xy: 949, 1013
-  size: 253, 354
-  orig: 253, 354
+  rotate: false
+  xy: 2377, 1284
+  size: 515, 721
+  orig: 515, 721
   offset: 0, 0
   index: -1

@@ -6,208 +6,190 @@ filter: Linear,Linear
 repeat: none
 BackNeck
   rotate: false
-  xy: 604, 1815
-  size: 265, 194
-  orig: 265, 194
+  xy: 557, 1328
+  size: 132, 97
+  orig: 132, 97
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 444, 1427
+  size: 389, 619
+  orig: 389, 619
   offset: 0, 0
   index: -1
 Face
   rotate: true
-  xy: 405, 1838
-  size: 171, 197
-  orig: 171, 197
+  xy: 359, 592
+  size: 85, 98
+  orig: 85, 98
   offset: 0, 0
   index: -1
 Hat
-  rotate: false
-  xy: 892, 1417
-  size: 450, 322
-  orig: 450, 322
+  rotate: true
+  xy: 631, 599
+  size: 225, 161
+  orig: 225, 161
   offset: 0, 0
   index: -1
 LeftArm1
-  rotate: true
-  xy: 871, 1787
-  size: 222, 224
-  orig: 222, 224
+  rotate: false
+  xy: 444, 1313
+  size: 111, 112
+  orig: 111, 112
   offset: 0, 0
   index: -1
 LeftArm2
   rotate: false
-  xy: 2, 1258
-  size: 342, 341
-  orig: 342, 341
+  xy: 1217, 1432
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
 LeftHair
-  rotate: false
-  xy: 1097, 1741
-  size: 444, 268
-  orig: 444, 268
+  rotate: true
+  xy: 794, 602
+  size: 222, 134
+  orig: 222, 134
   offset: 0, 0
   index: -1
 LeftLeg1
-  rotate: false
-  xy: 923, 169
-  size: 918, 561
-  orig: 918, 561
+  rotate: true
+  xy: 968, 146
+  size: 459, 280
+  orig: 459, 280
   offset: 0, 0
   index: -1
 LeftLeg2
+  rotate: false
+  xy: 1169, 1763
+  size: 203, 283
+  orig: 203, 283
+  offset: 0, 0
+  index: -1
+LeftLeg3
   rotate: true
-  xy: 874, 984
-  size: 407, 566
-  orig: 407, 566
+  xy: 359, 679
+  size: 627, 270
+  orig: 627, 270
+  offset: 0, 0
+  index: -1
+LeftLeg4
+  rotate: false
+  xy: 2, 1308
+  size: 440, 738
+  orig: 440, 738
+  offset: 0, 0
+  index: -1
+LeftLeg5
+  rotate: true
+  xy: 2, 50
+  size: 540, 341
+  orig: 540, 341
+  offset: 0, 0
+  index: -1
+LeftLeg6
+  rotate: true
+  xy: 345, 51
+  size: 539, 361
+  orig: 539, 361
+  offset: 0, 0
+  index: -1
+LeftLeg7
+  rotate: false
+  xy: 631, 826
+  size: 299, 500
+  orig: 299, 500
   offset: 0, 0
   index: -1
 LeftSideHear
   rotate: true
-  xy: 2, 1927
-  size: 82, 130
-  orig: 82, 130
+  xy: 83, 7
+  size: 41, 65
+  orig: 41, 65
   offset: 0, 0
   index: -1
 Neck
   rotate: false
-  xy: 356, 1508
-  size: 534, 277
-  orig: 534, 277
+  xy: 968, 5
+  size: 267, 139
+  orig: 267, 139
   offset: 0, 0
   index: -1
 Necklace
   rotate: false
-  xy: 134, 1925
-  size: 159, 84
-  orig: 159, 84
+  xy: 2, 6
+  size: 79, 42
+  orig: 79, 42
   offset: 0, 0
   index: -1
 RightArm
   rotate: false
-  xy: 2, 1601
-  size: 352, 313
-  orig: 352, 313
+  xy: 1169, 1605
+  size: 176, 156
+  orig: 176, 156
   offset: 0, 0
   index: -1
 RightHair
-  rotate: false
-  xy: 1344, 1393
-  size: 509, 340
-  orig: 509, 340
-  offset: 0, 0
-  index: -1
-RightLeg2
   rotate: true
-  xy: 346, 1089
-  size: 417, 526
-  orig: 417, 526
-  offset: 0, 0
-  index: -1
-RightLeg5
-  rotate: true
-  xy: 1543, 1735
-  size: 274, 434
-  orig: 274, 434
-  offset: 0, 0
-  index: -1
-RightLeg6
-  rotate: true
-  xy: 2, 467
-  size: 515, 919
-  orig: 515, 919
-  offset: 0, 0
-  index: -1
-RightSideHear
-  rotate: true
-  xy: 295, 1916
-  size: 93, 108
-  orig: 93, 108
-  offset: 0, 0
-  index: -1
-Weapon
-  rotate: false
-  xy: 1442, 732
-  size: 567, 659
-  orig: 567, 659
-  offset: 0, 0
-  index: -1
-
-P95972.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-LeftLeg3
-  rotate: false
-  xy: 2, 1496
-  size: 1254, 541
-  orig: 1254, 541
-  offset: 0, 0
-  index: -1
-LeftLeg7
-  rotate: true
-  xy: 2, 895
-  size: 599, 1000
-  orig: 599, 1000
+  xy: 1045, 1339
+  size: 254, 170
+  orig: 254, 170
   offset: 0, 0
   index: -1
 RightLeg1
-  rotate: true
-  xy: 1258, 1311
-  size: 726, 779
-  orig: 726, 779
+  rotate: false
+  xy: 932, 938
+  size: 363, 390
+  orig: 363, 390
+  offset: 0, 0
+  index: -1
+RightLeg2
+  rotate: false
+  xy: 835, 1330
+  size: 208, 263
+  orig: 208, 263
   offset: 0, 0
   index: -1
 RightLeg3
-  rotate: false
-  xy: 1004, 645
-  size: 903, 664
-  orig: 903, 664
-  offset: 0, 0
-  index: -1
-
-P95973.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-LeftLeg4
-  rotate: false
-  xy: 2, 117
-  size: 879, 1477
-  orig: 879, 1477
+  rotate: true
+  xy: 835, 1595
+  size: 451, 332
+  orig: 451, 332
   offset: 0, 0
   index: -1
 RightLeg4
   rotate: false
-  xy: 883, 165
-  size: 711, 1429
-  orig: 711, 1429
+  xy: 2, 592
+  size: 355, 714
+  orig: 355, 714
   offset: 0, 0
   index: -1
-
-P95974.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-Body
+RightLeg5
   rotate: false
-  xy: 2, 622
-  size: 777, 1239
-  orig: 777, 1239
+  xy: 930, 607
+  size: 137, 217
+  orig: 137, 217
   offset: 0, 0
   index: -1
-LeftLeg5
+RightLeg6
   rotate: false
-  xy: 781, 456
-  size: 1080, 682
-  orig: 1080, 682
+  xy: 708, 137
+  size: 258, 460
+  orig: 258, 460
   offset: 0, 0
   index: -1
-LeftLeg6
+RightSideHear
+  rotate: true
+  xy: 345, 2
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Weapon
   rotate: false
-  xy: 781, 1140
-  size: 1077, 721
-  orig: 1077, 721
+  xy: 1069, 607
+  size: 284, 329
+  orig: 284, 329
   offset: 0, 0
   index: -1

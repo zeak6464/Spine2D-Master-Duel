@@ -1,125 +1,125 @@
 
 P13090.png
-size: 793,2099
+size: 4026,1650
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 HorseBody
-  rotate: false
-  xy: 2, 732
-  size: 477, 441
-  orig: 487, 451
-  offset: 5, 5
+  rotate: true
+  xy: 1841, 694
+  size: 954, 882
+  orig: 974, 902
+  offset: 10, 10
   index: -1
 HorseHead
   rotate: true
-  xy: 2, 362
-  size: 368, 431
-  orig: 380, 436
-  offset: 7, 2
+  xy: 3086, 912
+  size: 736, 861
+  orig: 760, 871
+  offset: 14, 5
   index: -1
 HorseLeftArm
   rotate: false
-  xy: 546, 1277
-  size: 245, 402
-  orig: 246, 412
-  offset: 0, 5
+  xy: 3534, 107
+  size: 490, 803
+  orig: 491, 824
+  offset: 0, 10
   index: -1
 HorseLeftLeg
-  rotate: true
-  xy: 2, 1175
-  size: 231, 510
-  orig: 244, 517
-  offset: 7, 1
+  rotate: false
+  xy: 1378, 629
+  size: 461, 1019
+  orig: 488, 1033
+  offset: 14, 3
   index: -1
 HorseRightArm
-  rotate: true
-  xy: 481, 605
-  size: 357, 299
-  orig: 363, 300
-  offset: 2, 0
+  rotate: false
+  xy: 2372, 95
+  size: 712, 597
+  orig: 725, 600
+  offset: 5, 0
   index: -1
 HorseRightLeg
-  rotate: true
-  xy: 2, 1708
-  size: 389, 586
-  orig: 407, 589
-  offset: 5, 0
+  rotate: false
+  xy: 2, 476
+  size: 777, 1172
+  orig: 813, 1177
+  offset: 10, 0
   index: -1
 HorseTail
   rotate: false
-  xy: 435, 366
-  size: 354, 237
-  orig: 366, 258
-  offset: 7, 15
+  xy: 2, 2
+  size: 707, 472
+  orig: 731, 516
+  offset: 15, 31
   index: -1
 KnightBody
-  rotate: false
-  xy: 435, 2
-  size: 236, 362
-  orig: 243, 370
-  offset: 4, 5
+  rotate: true
+  xy: 711, 3
+  size: 471, 723
+  orig: 486, 740
+  offset: 8, 10
   index: -1
 KnightLeftArm
   rotate: false
-  xy: 2, 32
-  size: 92, 210
-  orig: 102, 220
-  offset: 5, 5
+  xy: 3086, 23
+  size: 183, 419
+  orig: 203, 439
+  offset: 10, 10
   index: -1
 KnightLeftLance
   rotate: false
-  xy: 514, 964
-  size: 271, 311
-  orig: 281, 321
-  offset: 5, 5
+  xy: 1436, 5
+  size: 542, 622
+  orig: 562, 642
+  offset: 10, 10
   index: -1
 KnightLeftLeg
   rotate: true
-  xy: 96, 134
-  size: 108, 287
-  orig: 118, 297
-  offset: 5, 5
+  xy: 2725, 694
+  size: 216, 573
+  orig: 236, 593
+  offset: 10, 10
   index: -1
 KnightRightArm
   rotate: false
-  xy: 590, 1787
-  size: 195, 310
-  orig: 201, 314
-  offset: 3, 2
+  xy: 1980, 73
+  size: 390, 619
+  orig: 402, 627
+  offset: 6, 5
   index: -1
 KnightRightLance
-  rotate: false
-  xy: 2, 1408
-  size: 542, 298
-  orig: 547, 315
-  offset: 3, 7
+  rotate: true
+  xy: 781, 566
+  size: 1082, 595
+  orig: 1093, 630
+  offset: 7, 14
   index: -1
 KnightRightLeg
-  rotate: true
-  xy: 2, 244
-  size: 116, 421
-  orig: 126, 431
-  offset: 5, 5
+  rotate: false
+  xy: 3300, 69
+  size: 232, 841
+  orig: 252, 861
+  offset: 10, 10
   index: -1
 KnightRightThigh
   rotate: true
-  xy: 673, 25
-  size: 224, 114
-  orig: 234, 128
-  offset: 5, 9
+  xy: 2725, 1200
+  size: 448, 236
+  orig: 468, 256
+  offset: 10, 10
   index: -1
 KnightTasset
-  rotate: false
-  xy: 590, 1681
-  size: 125, 104
-  orig: 128, 109
-  offset: 0, 2
+  rotate: true
+  xy: 3086, 444
+  size: 248, 206
+  orig: 255, 218
+  offset: 1, 5
   index: -1
 KnightTassetBack
-  rotate: false
-  xy: 673, 251
-  size: 118, 113
-  orig: 128, 123
-  offset: 5, 5
+  rotate: true
+  xy: 2725, 962
+  size: 236, 226
+  orig: 256, 246
+  offset: 10, 10
   index: -1

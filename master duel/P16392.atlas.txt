@@ -4,185 +4,209 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Hair
-  rotate: false
-  xy: 791, 650
-  size: 525, 561
-  orig: 525, 561
-  offset: 0, 0
-  index: -1
 Head
   rotate: true
-  xy: 1318, 743
-  size: 132, 135
-  orig: 132, 135
+  xy: 288, 1652
+  size: 265, 270
+  orig: 265, 270
   offset: 0, 0
   index: -1
 Helmet
-  rotate: true
-  xy: 321, 294
-  size: 292, 193
-  orig: 292, 193
+  rotate: false
+  xy: 461, 1211
+  size: 584, 386
+  orig: 584, 386
   offset: 0, 0
   index: -1
 HelmetBack
-  rotate: false
-  xy: 1442, 504
-  size: 85, 146
-  orig: 85, 146
+  rotate: true
+  xy: 1425, 1845
+  size: 169, 291
+  orig: 169, 291
   offset: 0, 0
   index: -1
 LeftHeadHair
   rotate: true
-  xy: 1455, 788
-  size: 87, 145
-  orig: 87, 145
+  xy: 1718, 1839
+  size: 175, 289
+  orig: 175, 289
   offset: 0, 0
   index: -1
 LeftLeg
-  rotate: false
-  xy: 516, 191
-  size: 237, 299
-  orig: 237, 299
+  rotate: true
+  xy: 2, 735
+  size: 474, 598
+  orig: 474, 598
   offset: 0, 0
   index: -1
 LeftShoulder
   rotate: true
-  xy: 1318, 877
-  size: 158, 266
-  orig: 158, 266
+  xy: 560, 1599
+  size: 316, 531
+  orig: 316, 531
   offset: 0, 0
   index: -1
 LeftShoulderParts1
   rotate: true
-  xy: 1462, 694
-  size: 48, 133
-  orig: 48, 133
+  xy: 364, 1919
+  size: 95, 266
+  orig: 95, 266
   offset: 0, 0
   index: -1
 LeftShoulderParts2
-  rotate: false
-  xy: 724, 495
-  size: 37, 90
-  orig: 37, 90
+  rotate: true
+  xy: 2, 1941
+  size: 73, 181
+  orig: 73, 181
   offset: 0, 0
   index: -1
 LeftShoulderParts3
   rotate: true
-  xy: 1455, 744
-  size: 42, 88
-  orig: 42, 88
+  xy: 185, 1930
+  size: 84, 177
+  orig: 84, 177
   offset: 0, 0
   index: -1
 LeftTail
-  rotate: false
-  xy: 534, 492
-  size: 188, 376
-  orig: 188, 376
+  rotate: true
+  xy: 1047, 1074
+  size: 375, 753
+  orig: 375, 753
   offset: 0, 0
   index: -1
 LeftThigh
-  rotate: false
-  xy: 321, 588
-  size: 210, 229
-  orig: 210, 229
-  offset: 0, 0
-  index: -1
-LeftWing
   rotate: true
-  xy: 813, 1213
-  size: 771, 720
-  orig: 771, 720
+  xy: 2, 1230
+  size: 420, 457
+  orig: 420, 457
   offset: 0, 0
   index: -1
 RightArm
-  rotate: true
-  xy: 534, 870
-  size: 521, 255
-  orig: 521, 255
+  rotate: false
+  xy: 602, 561
+  size: 1042, 511
+  orig: 1042, 511
   offset: 0, 0
   index: -1
 RightHeadHair
-  rotate: false
-  xy: 724, 723
-  size: 56, 145
-  orig: 56, 145
+  rotate: true
+  xy: 1134, 1902
+  size: 112, 289
+  orig: 112, 289
   offset: 0, 0
   index: -1
 RightLeg
   rotate: true
-  xy: 1318, 1037
-  size: 174, 226
-  orig: 174, 226
+  xy: 1093, 1495
+  size: 348, 453
+  orig: 348, 453
   offset: 0, 0
   index: -1
 RightShoulder
-  rotate: false
-  xy: 287, 83
-  size: 193, 209
-  orig: 193, 209
+  rotate: true
+  xy: 1548, 1451
+  size: 386, 417
+  orig: 386, 417
   offset: 0, 0
   index: -1
 RightShoulderParts1
-  rotate: false
-  xy: 724, 587
-  size: 49, 134
-  orig: 49, 134
+  rotate: true
+  xy: 865, 1917
+  size: 97, 267
+  orig: 97, 267
   offset: 0, 0
   index: -1
 RightShoulderParts2
   rotate: true
-  xy: 1442, 455
-  size: 47, 116
-  orig: 47, 116
+  xy: 632, 1919
+  size: 95, 231
+  orig: 95, 231
   offset: 0, 0
   index: -1
 RightTail
-  rotate: false
-  xy: 775, 367
-  size: 321, 281
-  orig: 321, 281
-  offset: 0, 0
-  index: -1
-RightWing
-  rotate: false
-  xy: 2, 1393
-  size: 809, 591
-  orig: 809, 591
-  offset: 0, 0
-  index: -1
-UnderBody
   rotate: true
-  xy: 2, 2
-  size: 440, 283
-  orig: 440, 283
+  xy: 2, 92
+  size: 641, 562
+  orig: 641, 562
   offset: 0, 0
   index: -1
 UnderBodyBack
   rotate: true
-  xy: 1318, 652
-  size: 89, 142
-  orig: 89, 142
-  offset: 0, 0
-  index: -1
-UpperBody
-  rotate: true
-  xy: 2, 819
-  size: 572, 530
-  orig: 572, 530
-  offset: 0, 0
-  index: -1
-WaistCloth
-  rotate: true
-  xy: 2, 444
-  size: 373, 317
-  orig: 373, 317
+  xy: 2, 1749
+  size: 179, 284
+  orig: 179, 284
   offset: 0, 0
   index: -1
 centerTail
   rotate: true
-  xy: 1098, 370
-  size: 278, 342
-  orig: 278, 342
+  xy: 566, 2
+  size: 557, 683
+  orig: 557, 683
+  offset: 0, 0
+  index: -1
+
+P163922.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hair
+  rotate: true
+  xy: 2, 2
+  size: 1051, 1123
+  orig: 1051, 1123
+  offset: 0, 0
+  index: -1
+UnderBody
+  rotate: false
+  xy: 2, 1124
+  size: 879, 565
+  orig: 879, 565
+  offset: 0, 0
+  index: -1
+WaistCloth
+  rotate: false
+  xy: 883, 1055
+  size: 745, 634
+  orig: 745, 634
+  offset: 0, 0
+  index: -1
+
+P163923.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UpperBody
+  rotate: false
+  xy: 2, 87
+  size: 1144, 1059
+  orig: 1144, 1059
+  offset: 0, 0
+  index: -1
+
+P163924.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWing
+  rotate: false
+  xy: 2, 440
+  size: 1619, 1181
+  orig: 1619, 1181
+  offset: 0, 0
+  index: -1
+
+P163925.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 2, 105
+  size: 1543, 1440
+  orig: 1543, 1440
   offset: 0, 0
   index: -1

@@ -44,9 +44,9 @@
                         .map((af) => af.name.replace(/P(\d+)\.atlas\.asset$/, '$1'))
                         .filter((id) => assetFiles.findIndex((af) => af.name === `P${id}JS.asset`) !== -1);
 
-        selector.innerHTML = assetIds.map((id) => `<option value="${id}">${id}</option>`).join('');
+        selector.innerHTML = assetIds.map((id) => `<option value="${id}">${id}</>`).join('');
+		
         loadAsset(assetIds[0]);
     }
-
     retrieveAssetIds();
 </script>

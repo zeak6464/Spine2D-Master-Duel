@@ -1,76 +1,76 @@
 
 P11296.png
-size: 2048,2048
+size: 4096,4096
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 BackBody
   rotate: false
-  xy: 1334, 571
-  size: 399, 439
-  orig: 399, 439
+  xy: 2660, 1137
+  size: 797, 878
+  orig: 797, 878
   offset: 0, 0
   index: -1
 Body
   rotate: true
-  xy: 385, 1012
-  size: 924, 1150
-  orig: 924, 1150
+  xy: 765, 2017
+  size: 1847, 2299
+  orig: 1847, 2299
   offset: 0, 0
   index: -1
 Effect
   rotate: true
-  xy: 791, 575
-  size: 435, 541
-  orig: 435, 541
+  xy: 1577, 1146
+  size: 869, 1081
+  orig: 869, 1081
   offset: 0, 0
   index: -1
 LeftArm
   rotate: true
   xy: 2, 2
-  size: 185, 285
-  orig: 185, 285
+  size: 369, 570
+  orig: 369, 570
   offset: 0, 0
   index: -1
 LeftHand
   rotate: false
-  xy: 289, 8
-  size: 261, 179
-  orig: 261, 179
+  xy: 574, 14
+  size: 522, 357
+  orig: 522, 357
   offset: 0, 0
   index: -1
 LeftUpperArm
   rotate: false
-  xy: 791, 112
-  size: 383, 461
-  orig: 383, 461
+  xy: 1577, 222
+  size: 766, 922
+  orig: 766, 922
   offset: 0, 0
   index: -1
 RightArm
   rotate: true
-  xy: 552, 4
-  size: 183, 174
-  orig: 183, 174
+  xy: 1098, 6
+  size: 365, 347
+  orig: 365, 347
   offset: 0, 0
   index: -1
 RightHand
   rotate: false
-  xy: 2, 654
-  size: 381, 1282
-  orig: 381, 1282
+  xy: 2, 1300
+  size: 761, 2564
+  orig: 761, 2564
   offset: 0, 0
   index: -1
 RightUpperArm
   rotate: true
-  xy: 385, 771
-  size: 239, 384
-  orig: 239, 384
+  xy: 765, 1537
+  size: 478, 768
+  orig: 478, 768
   offset: 0, 0
   index: -1
 Tasset
   rotate: false
-  xy: 2, 189
-  size: 787, 463
-  orig: 787, 463
+  xy: 2, 373
+  size: 1573, 925
+  orig: 1573, 925
   offset: 0, 0
   index: -1

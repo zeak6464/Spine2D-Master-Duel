@@ -1,174 +1,174 @@
 
 P13082.png
-size: 2048,2048
+size: 4096,4096
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
-  rotate: false
-  xy: 882, 1789
-  size: 169, 232
-  orig: 169, 232
+  rotate: true
+  xy: 1392, 2348
+  size: 338, 464
+  orig: 338, 464
   offset: 0, 0
   index: -1
 Chin
   rotate: true
-  xy: 882, 1750
-  size: 37, 62
-  orig: 37, 62
+  xy: 1579, 2717
+  size: 73, 125
+  orig: 73, 125
   offset: 0, 0
   index: -1
 Head
   rotate: false
-  xy: 410, 1167
-  size: 180, 165
-  orig: 180, 165
+  xy: 1372, 689
+  size: 359, 330
+  orig: 359, 330
   offset: 0, 0
   index: -1
 LeftArm
   rotate: false
-  xy: 849, 967
-  size: 134, 200
-  orig: 134, 200
+  xy: 1372, 1403
+  size: 267, 400
+  orig: 267, 400
   offset: 0, 0
   index: -1
 LeftHand
   rotate: true
-  xy: 1053, 1895
-  size: 126, 122
-  orig: 126, 122
+  xy: 1669, 2095
+  size: 251, 245
+  orig: 251, 245
   offset: 0, 0
   index: -1
 LeftLeg
   rotate: false
-  xy: 410, 1623
-  size: 289, 398
-  orig: 289, 398
+  xy: 816, 3241
+  size: 579, 796
+  orig: 579, 796
   offset: 0, 0
   index: -1
 LeftShoulder
   rotate: true
-  xy: 701, 1629
-  size: 115, 128
-  orig: 115, 128
+  xy: 1397, 3255
+  size: 230, 257
+  orig: 230, 257
   offset: 0, 0
   index: -1
 LeftThigh
   rotate: false
-  xy: 947, 1458
-  size: 157, 182
-  orig: 157, 182
+  xy: 1641, 1440
+  size: 313, 363
+  orig: 313, 363
   offset: 0, 0
   index: -1
 LeftWing
   rotate: false
-  xy: 2, 335
-  size: 684, 830
-  orig: 684, 830
+  xy: 2, 666
+  size: 1368, 1660
+  orig: 1368, 1660
   offset: 0, 0
   index: -1
 LeftWingParts01
   rotate: true
-  xy: 870, 1174
-  size: 190, 155
-  orig: 190, 155
+  xy: 1372, 1021
+  size: 380, 309
+  orig: 380, 309
   offset: 0, 0
   index: -1
 LeftWingParts01Back
-  rotate: true
-  xy: 947, 1384
-  size: 72, 65
-  orig: 72, 65
+  rotate: false
+  xy: 1757, 3499
+  size: 145, 129
+  orig: 145, 129
   offset: 0, 0
   index: -1
 LeftWingParts02
-  rotate: false
-  xy: 628, 1334
-  size: 168, 287
-  orig: 168, 287
+  rotate: true
+  xy: 816, 2328
+  size: 335, 574
+  orig: 335, 574
   offset: 0, 0
   index: -1
 LeftWingParts03
   rotate: true
-  xy: 476, 6
-  size: 327, 260
-  orig: 327, 260
+  xy: 948, 9
+  size: 655, 520
+  orig: 655, 520
   offset: 0, 0
   index: -1
 Neck
   rotate: false
-  xy: 701, 1746
-  size: 179, 275
-  orig: 179, 275
+  xy: 1397, 3487
+  size: 358, 550
+  orig: 358, 550
   offset: 0, 0
   index: -1
 RightArm
   rotate: true
-  xy: 688, 936
-  size: 231, 159
-  orig: 231, 159
+  xy: 1579, 2792
+  size: 461, 317
+  orig: 461, 317
   offset: 0, 0
   index: -1
 RightLeg
   rotate: false
-  xy: 410, 1334
-  size: 216, 287
-  orig: 216, 287
+  xy: 816, 2665
+  size: 432, 574
+  orig: 432, 574
   offset: 0, 0
   index: -1
 RightShoulder
   rotate: true
-  xy: 831, 1642
-  size: 102, 143
-  orig: 102, 143
+  xy: 1656, 3281
+  size: 204, 286
+  orig: 204, 286
   offset: 0, 0
   index: -1
 RightThigh
   rotate: true
-  xy: 688, 730
-  size: 204, 198
-  orig: 204, 198
+  xy: 1757, 3630
+  size: 407, 396
+  orig: 407, 396
   offset: 0, 0
   index: -1
 RightWing
   rotate: false
-  xy: 2, 1167
-  size: 406, 854
-  orig: 406, 854
+  xy: 2, 2328
+  size: 812, 1709
+  orig: 812, 1709
   offset: 0, 0
   index: -1
 RightWingParts01
-  rotate: true
-  xy: 976, 1658
-  size: 129, 148
-  orig: 129, 148
+  rotate: false
+  xy: 1683, 1143
+  size: 259, 295
+  orig: 259, 295
   offset: 0, 0
   index: -1
 RightWingParts01Back
   rotate: false
-  xy: 1014, 1393
-  size: 61, 63
-  orig: 61, 63
+  xy: 1904, 3503
+  size: 121, 125
+  orig: 121, 125
   offset: 0, 0
   index: -1
 RightWingParts02
   rotate: false
-  xy: 798, 1366
-  size: 147, 261
-  orig: 147, 261
+  xy: 1372, 1805
+  size: 295, 521
+  orig: 295, 521
   offset: 0, 0
   index: -1
 RightWingParts03
-  rotate: true
-  xy: 592, 1169
-  size: 163, 276
-  orig: 163, 276
+  rotate: false
+  xy: 1250, 2688
+  size: 327, 551
+  orig: 327, 551
   offset: 0, 0
   index: -1
 Tail
   rotate: false
   xy: 2, 2
-  size: 472, 331
-  orig: 472, 331
+  size: 944, 662
+  orig: 944, 662
   offset: 0, 0
   index: -1

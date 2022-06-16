@@ -1,0 +1,306 @@
+
+P16091.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2686
+  size: 631, 1052
+  orig: 631, 1052
+  offset: 0, 0
+  index: -1
+CaneLight
+  rotate: true
+  xy: 959, 3319
+  size: 430, 488
+  orig: 430, 488
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 291, 4027
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+FrontHair
+  rotate: false
+  xy: 2071, 3657
+  size: 548, 288
+  orig: 548, 288
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2227, 3963
+  size: 129, 156
+  orig: 129, 156
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3145, 3606
+  size: 341, 323
+  orig: 341, 323
+  offset: 0, 0
+  index: -1
+LeftCollar
+  rotate: true
+  xy: 2874, 3945
+  size: 147, 207
+  orig: 147, 207
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 2385, 3958
+  size: 145, 134
+  orig: 145, 134
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1226, 3751
+  size: 215, 843
+  orig: 215, 843
+  offset: 0, 0
+  index: -1
+LeftMiddleHair
+  rotate: false
+  xy: 2621, 3641
+  size: 522, 298
+  orig: 522, 298
+  offset: 0, 0
+  index: -1
+LeftRibbon
+  rotate: false
+  xy: 460, 3398
+  size: 497, 358
+  orig: 497, 358
+  offset: 0, 0
+  index: -1
+MiddleSkirt
+  rotate: true
+  xy: 1449, 3289
+  size: 460, 499
+  orig: 460, 499
+  offset: 0, 0
+  index: -1
+NoteA
+  rotate: true
+  xy: 392, 4025
+  size: 67, 198
+  orig: 67, 198
+  offset: 0, 0
+  index: -1
+NoteB
+  rotate: true
+  xy: 3083, 3941
+  size: 151, 247
+  orig: 151, 247
+  offset: 0, 0
+  index: -1
+NoteC
+  rotate: true
+  xy: 81, 4034
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+NoteD
+  rotate: false
+  xy: 168, 3859
+  size: 179, 166
+  orig: 179, 166
+  offset: 0, 0
+  index: -1
+RearHair1
+  rotate: false
+  xy: 349, 3809
+  size: 320, 192
+  orig: 320, 192
+  offset: 0, 0
+  index: -1
+RearHair2
+  rotate: false
+  xy: 1927, 2455
+  size: 1011, 676
+  orig: 1011, 676
+  offset: 0, 0
+  index: -1
+RearSkirt
+  rotate: false
+  xy: 1056, 2552
+  size: 869, 735
+  orig: 869, 735
+  offset: 0, 0
+  index: -1
+RghitLeg
+  rotate: true
+  xy: 3332, 3931
+  size: 161, 760
+  orig: 161, 760
+  offset: 0, 0
+  index: -1
+RightArm1
+  rotate: false
+  xy: 592, 4003
+  size: 221, 89
+  orig: 221, 89
+  offset: 0, 0
+  index: -1
+RightArm2
+  rotate: true
+  xy: 952, 3758
+  size: 234, 272
+  orig: 234, 272
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 815, 3994
+  size: 98, 418
+  orig: 98, 418
+  offset: 0, 0
+  index: -1
+RightMiddleHair
+  rotate: false
+  xy: 2466, 3133
+  size: 527, 506
+  orig: 527, 506
+  offset: 0, 0
+  index: -1
+RightRibbon
+  rotate: false
+  xy: 1950, 3189
+  size: 514, 466
+  orig: 514, 466
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: true
+  xy: 2, 3871
+  size: 161, 164
+  orig: 161, 164
+  offset: 0, 0
+  index: -1
+Sheath
+  rotate: true
+  xy: 1711, 3968
+  size: 124, 373
+  orig: 124, 373
+  offset: 0, 0
+  index: -1
+YoBody
+  rotate: true
+  xy: 2532, 3947
+  size: 145, 175
+  orig: 145, 175
+  offset: 0, 0
+  index: -1
+YoCloud
+  rotate: false
+  xy: 2, 3472
+  size: 456, 335
+  orig: 456, 335
+  offset: 0, 0
+  index: -1
+YoEf
+  rotate: false
+  xy: 2995, 3089
+  size: 565, 510
+  orig: 565, 510
+  offset: 0, 0
+  index: -1
+YoEye
+  rotate: false
+  xy: 2, 4043
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+YoHead
+  rotate: false
+  xy: 2086, 3965
+  size: 139, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+YoLeftHand
+  rotate: true
+  xy: 1347, 3972
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+YoRightArm
+  rotate: false
+  xy: 187, 4030
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+YoRightHand
+  rotate: false
+  xy: 671, 3769
+  size: 279, 223
+  orig: 279, 223
+  offset: 0, 0
+  index: -1
+YoViolin
+  rotate: false
+  xy: 3488, 3601
+  size: 348, 328
+  orig: 348, 328
+  offset: 0, 0
+  index: -1
+yoFrontHair
+  rotate: false
+  xy: 1235, 3988
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+yoRearHair
+  rotate: false
+  xy: 2709, 3947
+  size: 163, 145
+  orig: 163, 145
+  offset: 0, 0
+  index: -1
+yoRearHairOrnaments
+  rotate: false
+  xy: 1516, 3969
+  size: 193, 123
+  orig: 193, 123
+  offset: 0, 0
+  index: -1
+
+P160912.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Staff/StaffA
+  rotate: false
+  xy: 1138, 796
+  size: 682, 567
+  orig: 682, 567
+  offset: 0, 0
+  index: -1
+Staff/StaffB
+  rotate: false
+  xy: 2, 998
+  size: 1134, 924
+  orig: 1134, 924
+  offset: 0, 0
+  index: -1
+Staff/StaffC
+  rotate: false
+  xy: 1138, 1365
+  size: 784, 557
+  orig: 784, 557
+  offset: 0, 0
+  index: -1

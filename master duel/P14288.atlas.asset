@@ -5,64 +5,58 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
+  rotate: false
+  xy: 695, 652
+  size: 193, 361
+  orig: 193, 361
+  offset: 0, 0
+  index: -1
+BottomBody
   rotate: true
-  xy: 1201, 748
-  size: 385, 722
-  orig: 385, 722
+  xy: 211, 1015
+  size: 455, 756
+  orig: 455, 756
   offset: 0, 0
   index: -1
 BottomHead
-  rotate: false
-  xy: 1201, 1430
-  size: 361, 592
-  orig: 361, 592
+  rotate: true
+  xy: 211, 832
+  size: 181, 296
+  orig: 181, 296
   offset: 0, 0
   index: -1
 BottomNeck
-  rotate: false
-  xy: 1737, 1135
-  size: 285, 396
-  orig: 285, 396
-  offset: 0, 0
-  index: -1
-RightArm
-  rotate: false
-  xy: 1737, 1533
-  size: 267, 489
-  orig: 267, 489
-  offset: 0, 0
-  index: -1
-Shield
   rotate: true
-  xy: 2, 225
-  size: 413, 1733
-  orig: 413, 1733
-  offset: 0, 0
-  index: -1
-Spear
-  rotate: false
-  xy: 2, 640
-  size: 1197, 1382
-  orig: 1197, 1382
-  offset: 0, 0
-  index: -1
-
-P142882.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-BottomBody
-  rotate: false
-  xy: 2, 339
-  size: 910, 1512
-  orig: 910, 1512
+  xy: 458, 646
+  size: 143, 198
+  orig: 143, 198
   offset: 0, 0
   index: -1
 LeftArm
+  rotate: false
+  xy: 509, 791
+  size: 168, 222
+  orig: 168, 222
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 211, 696
+  size: 134, 245
+  orig: 134, 245
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 603
+  size: 207, 867
+  orig: 207, 867
+  offset: 0, 0
+  index: -1
+Spear
   rotate: true
   xy: 2, 2
-  size: 335, 444
-  orig: 335, 444
+  size: 599, 691
+  orig: 599, 691
   offset: 0, 0
   index: -1

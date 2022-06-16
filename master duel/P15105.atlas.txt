@@ -1,118 +1,118 @@
 
 P15105.png
-size: 2048,2048
+size: 4096,4096
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body1-1
   rotate: true
-  xy: 677, 1240
-  size: 160, 446
-  orig: 160, 446
+  xy: 1350, 2512
+  size: 321, 893
+  orig: 321, 893
   offset: 0, 0
   index: -1
 Body2-1
   rotate: false
-  xy: 1419, 1258
-  size: 489, 344
-  orig: 489, 344
+  xy: 2832, 2547
+  size: 978, 687
+  orig: 978, 687
   offset: 0, 0
   index: -1
 BodyBack1
   rotate: false
-  xy: 677, 1402
-  size: 459, 186
-  orig: 459, 186
+  xy: 1350, 2835
+  size: 918, 373
+  orig: 918, 373
   offset: 0, 0
   index: -1
 BodyBack2
   rotate: false
-  xy: 1125, 960
-  size: 286, 407
-  orig: 286, 407
+  xy: 2245, 1955
+  size: 572, 813
+  orig: 572, 813
   offset: 0, 0
   index: -1
 BodyBack3
   rotate: true
-  xy: 1419, 1604
-  size: 427, 491
-  orig: 427, 491
+  xy: 2832, 3236
+  size: 855, 982
+  orig: 855, 982
   offset: 0, 0
   index: -1
 Head
   rotate: false
-  xy: 1138, 1369
-  size: 273, 219
-  orig: 273, 219
+  xy: 2270, 2770
+  size: 545, 438
+  orig: 545, 438
   offset: 0, 0
   index: -1
 LefLeg
   rotate: true
-  xy: 1413, 1056
-  size: 200, 223
-  orig: 200, 223
+  xy: 2819, 2145
+  size: 400, 446
+  orig: 400, 446
   offset: 0, 0
   index: -1
 LeftArm
   rotate: true
-  xy: 677, 940
-  size: 298, 315
-  orig: 298, 315
+  xy: 1350, 1915
+  size: 595, 630
+  orig: 595, 630
   offset: 0, 0
   index: -1
 LeftWing
   rotate: true
-  xy: 731, 1590
-  size: 441, 686
-  orig: 441, 686
+  xy: 1458, 3210
+  size: 881, 1372
+  orig: 881, 1372
   offset: 0, 0
   index: -1
 Person
   rotate: true
-  xy: 1912, 1692
-  size: 75, 87
-  orig: 75, 87
+  xy: 3812, 3000
+  size: 151, 174
+  orig: 151, 174
   offset: 0, 0
   index: -1
 PersonEffect
   rotate: false
-  xy: 1912, 1769
-  size: 103, 103
-  orig: 103, 103
+  xy: 3816, 3153
+  size: 206, 206
+  orig: 206, 206
   offset: 0, 0
   index: -1
 RightArm
   rotate: true
-  xy: 1912, 1874
-  size: 157, 119
-  orig: 157, 119
+  xy: 3816, 3361
+  size: 313, 238
+  orig: 313, 238
   offset: 0, 0
   index: -1
 RightHand
   rotate: true
-  xy: 1847, 1088
-  size: 168, 181
-  orig: 168, 181
+  xy: 3267, 2208
+  size: 337, 362
+  orig: 337, 362
   offset: 0, 0
   index: -1
 RightShoulder
-  rotate: false
-  xy: 1638, 1118
-  size: 207, 138
-  orig: 207, 138
+  rotate: true
+  xy: 3816, 3676
+  size: 415, 275
+  orig: 415, 275
   offset: 0, 0
   index: -1
 RightWing
   rotate: true
-  xy: 2, 1152
-  size: 544, 673
-  orig: 544, 673
+  xy: 2, 2334
+  size: 1088, 1346
+  orig: 1088, 1346
   offset: 0, 0
   index: -1
 Tail
   rotate: false
-  xy: 2, 1698
-  size: 727, 333
-  orig: 727, 333
+  xy: 2, 3424
+  size: 1454, 667
+  orig: 1454, 667
   offset: 0, 0
   index: -1

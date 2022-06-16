@@ -5,149 +5,161 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body1
-  rotate: false
-  xy: 208, 288
-  size: 124, 136
-  orig: 124, 136
+  rotate: true
+  xy: 1595, 1754
+  size: 249, 272
+  orig: 249, 272
   offset: 0, 0
   index: -1
 Body2
   rotate: false
-  xy: 337, 668
-  size: 307, 367
-  orig: 307, 367
+  xy: 720, 281
+  size: 615, 734
+  orig: 615, 734
   offset: 0, 0
   index: -1
 Bouquet
-  rotate: false
-  xy: 646, 677
-  size: 235, 358
-  orig: 235, 358
+  rotate: true
+  xy: 2, 545
+  size: 470, 716
+  orig: 470, 716
   offset: 0, 0
   index: -1
 Crystal1
-  rotate: false
-  xy: 337, 409
-  size: 210, 257
-  orig: 210, 257
+  rotate: true
+  xy: 2, 1109
+  size: 420, 515
+  orig: 420, 515
   offset: 0, 0
   index: -1
 Crystal2
-  rotate: false
-  xy: 2, 426
-  size: 207, 239
-  orig: 207, 239
+  rotate: true
+  xy: 1524, 1337
+  size: 415, 477
+  orig: 415, 477
   offset: 0, 0
   index: -1
 Crystal3
-  rotate: false
-  xy: 208, 82
-  size: 163, 204
-  orig: 163, 204
-  offset: 0, 0
-  index: -1
-Dress
-  rotate: false
-  xy: 2, 1037
-  size: 910, 792
-  orig: 910, 792
-  offset: 0, 0
-  index: -1
-DressLace
   rotate: true
-  xy: 914, 784
-  size: 546, 371
-  orig: 546, 371
+  xy: 318, 1531
+  size: 327, 408
+  orig: 327, 408
   offset: 0, 0
   index: -1
 Face
-  rotate: false
-  xy: 211, 543
-  size: 109, 122
-  orig: 109, 122
+  rotate: true
+  xy: 1350, 1786
+  size: 217, 243
+  orig: 217, 243
   offset: 0, 0
   index: -1
 Hair
-  rotate: false
-  xy: 549, 269
-  size: 179, 397
-  orig: 179, 397
+  rotate: true
+  xy: 728, 1426
+  size: 358, 794
+  orig: 358, 794
   offset: 0, 0
   index: -1
 HairOrnaments
   rotate: true
-  xy: 211, 443
-  size: 98, 117
-  orig: 98, 117
+  xy: 1113, 1806
+  size: 197, 235
+  orig: 197, 235
   offset: 0, 0
   index: -1
 Head
-  rotate: true
-  xy: 730, 476
-  size: 93, 54
-  orig: 93, 54
+  rotate: false
+  xy: 487, 1896
+  size: 187, 107
+  orig: 187, 107
   offset: 0, 0
   index: -1
 LeftArm
-  rotate: false
-  xy: 373, 151
-  size: 129, 157
-  orig: 129, 157
+  rotate: true
+  xy: 2, 1665
+  size: 259, 314
+  orig: 259, 314
   offset: 0, 0
   index: -1
 LeftSideHair
-  rotate: false
-  xy: 504, 165
-  size: 37, 130
-  orig: 37, 130
+  rotate: true
+  xy: 2, 1930
+  size: 73, 260
+  orig: 73, 260
   offset: 0, 0
   index: -1
 Neck
-  rotate: false
-  xy: 730, 571
-  size: 72, 104
-  orig: 72, 104
+  rotate: true
+  xy: 676, 1860
+  size: 143, 207
+  orig: 143, 207
   offset: 0, 0
   index: -1
 RightSideHair
-  rotate: false
-  xy: 504, 297
-  size: 39, 110
-  orig: 39, 110
+  rotate: true
+  xy: 264, 1926
+  size: 77, 221
+  orig: 77, 221
   offset: 0, 0
   index: -1
 Tiara
   rotate: true
-  xy: 334, 310
-  size: 97, 113
-  orig: 97, 113
+  xy: 885, 1810
+  size: 193, 226
+  orig: 193, 226
   offset: 0, 0
   index: -1
 Umbrella01
   rotate: true
-  xy: 2, 667
-  size: 368, 333
-  orig: 368, 333
-  offset: 0, 0
-  index: -1
-Umbrella02
-  rotate: false
-  xy: 914, 1332
-  size: 413, 497
-  orig: 413, 497
+  xy: 1337, 39
+  size: 735, 666
+  orig: 735, 666
   offset: 0, 0
   index: -1
 Umbrella03
   rotate: false
-  xy: 883, 502
-  size: 318, 280
-  orig: 318, 280
+  xy: 1365, 776
+  size: 636, 559
+  orig: 636, 559
   offset: 0, 0
   index: -1
 Veil
+  rotate: true
+  xy: 519, 1017
+  size: 407, 844
+  orig: 407, 844
+  offset: 0, 0
+  index: -1
+
+P151182.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DressLace
   rotate: false
-  xy: 2, 2
-  size: 204, 422
-  orig: 204, 422
+  xy: 2, 1181
+  size: 1092, 741
+  orig: 1092, 741
+  offset: 0, 0
+  index: -1
+Umbrella02
+  rotate: false
+  xy: 1096, 929
+  size: 826, 993
+  orig: 826, 993
+  offset: 0, 0
+  index: -1
+
+P151183.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dress
+  rotate: false
+  xy: 2, 238
+  size: 1819, 1583
+  orig: 1819, 1583
   offset: 0, 0
   index: -1

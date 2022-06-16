@@ -6,92 +6,104 @@ filter: Linear,Linear
 repeat: none
 BackHair
   rotate: false
-  xy: 2, 1939
-  size: 252, 103
-  orig: 252, 174
-  offset: 0, 20
+  xy: 2, 1769
+  size: 360, 146
+  orig: 360, 249
+  offset: 0, 29
   index: -1
 Body
   rotate: true
-  xy: 2, 1262
-  size: 270, 1071
-  orig: 270, 1072
+  xy: 2, 464
+  size: 386, 1530
+  orig: 386, 1531
   offset: 0, 0
   index: -1
 Dragon
   rotate: false
-  xy: 256, 1903
-  size: 188, 139
-  orig: 194, 145
-  offset: 4, 2
+  xy: 364, 1717
+  size: 270, 198
+  orig: 277, 207
+  offset: 5, 4
   index: -1
 DragonYarnUp1
   rotate: true
-  xy: 760, 1805
-  size: 237, 300
-  orig: 237, 300
-  offset: 0, 0
+  xy: 1082, 1578
+  size: 337, 429
+  orig: 338, 429
+  offset: 1, 0
   index: -1
 DragonYarnUp2
   rotate: true
-  xy: 2, 1647
-  size: 254, 275
-  orig: 256, 276
+  xy: 1513, 1552
+  size: 363, 393
+  orig: 365, 394
   offset: 0, 0
   index: -1
 LeftArm
   rotate: false
-  xy: 446, 1892
-  size: 156, 150
-  orig: 158, 152
+  xy: 636, 1701
+  size: 222, 214
+  orig: 225, 217
   offset: 0, 0
   index: -1
 LeftHand
   rotate: true
-  xy: 1062, 1796
-  size: 246, 382
-  orig: 246, 382
+  xy: 2, 1364
+  size: 351, 545
+  orig: 351, 545
   offset: 0, 0
   index: -1
 LeftSkirt
   rotate: true
-  xy: 854, 1534
-  size: 260, 573
-  orig: 263, 573
-  offset: 3, 0
-  index: -1
-LeftYarm
-  rotate: true
-  xy: 2, 483
-  size: 777, 984
-  orig: 777, 984
-  offset: 0, 0
+  xy: 2, 852
+  size: 371, 819
+  orig: 376, 819
+  offset: 5, 0
   index: -1
 RightArm
   rotate: false
-  xy: 604, 1892
-  size: 154, 150
-  orig: 155, 150
+  xy: 860, 1701
+  size: 220, 214
+  orig: 222, 214
   offset: 1, 0
   index: -1
 RightHand
   rotate: true
-  xy: 1446, 1796
-  size: 246, 382
-  orig: 246, 382
+  xy: 549, 1225
+  size: 351, 545
+  orig: 351, 545
   offset: 0, 0
   index: -1
 RightSkirt
   rotate: true
-  xy: 279, 1544
-  size: 259, 573
-  orig: 260, 573
+  xy: 1096, 1181
+  size: 369, 819
+  orig: 372, 819
   offset: 0, 0
   index: -1
+
+P112582.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
 RightYarm
   rotate: true
-  xy: 1075, 789
-  size: 743, 967
-  orig: 743, 967
+  xy: 2, 323
+  size: 1061, 1382
+  orig: 1061, 1382
+  offset: 0, 0
+  index: -1
+
+P112583.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftYarm
+  rotate: false
+  xy: 2, 2
+  size: 1110, 1405
+  orig: 1110, 1405
   offset: 0, 0
   index: -1

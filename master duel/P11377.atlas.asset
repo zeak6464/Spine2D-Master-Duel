@@ -4,381 +4,387 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Body
-  rotate: false
-  xy: 279, 1034
-  size: 309, 467
-  orig: 309, 467
-  offset: 0, 0
-  index: -1
 LeftArm
   rotate: false
-  xy: 1774, 1668
-  size: 185, 185
-  orig: 185, 185
+  xy: 1650, 733
+  size: 370, 371
+  orig: 370, 371
   offset: 0, 0
   index: -1
 LeftBodyArm
   rotate: false
-  xy: 1348, 1986
-  size: 76, 60
-  orig: 76, 60
+  xy: 139, 1859
+  size: 152, 121
+  orig: 152, 121
   offset: 0, 0
   index: -1
 LeftBodyHand
   rotate: false
-  xy: 466, 1998
-  size: 38, 48
-  orig: 38, 48
+  xy: 1156, 1943
+  size: 76, 96
+  orig: 76, 96
   offset: 0, 0
   index: -1
 LeftBodyShoulder
   rotate: false
-  xy: 1426, 1984
-  size: 72, 62
-  orig: 72, 62
+  xy: 293, 1851
+  size: 144, 124
+  orig: 144, 124
   offset: 0, 0
   index: -1
 LeftFrontWing
   rotate: false
-  xy: 1998, 1788
-  size: 48, 179
-  orig: 48, 179
+  xy: 1551, 747
+  size: 97, 357
+  orig: 97, 357
   offset: 0, 0
   index: -1
 LeftHand
   rotate: false
-  xy: 1028, 1894
-  size: 123, 94
-  orig: 123, 94
+  xy: 1653, 1589
+  size: 246, 187
+  orig: 246, 187
   offset: 0, 0
   index: -1
 LeftHeadWing
   rotate: false
-  xy: 495, 1790
-  size: 101, 126
-  orig: 101, 126
-  offset: 0, 0
-  index: -1
-LeftLeg
-  rotate: false
-  xy: 2, 1110
-  size: 275, 449
-  orig: 275, 449
+  xy: 382, 1235
+  size: 202, 252
+  orig: 202, 252
   offset: 0, 0
   index: -1
 LeftShoulderTasset
   rotate: false
-  xy: 1687, 1865
-  size: 118, 108
-  orig: 118, 108
+  xy: 1381, 1408
+  size: 236, 217
+  orig: 236, 217
   offset: 0, 0
   index: -1
 LeftThigh
   rotate: false
-  xy: 256, 1924
-  size: 74, 82
-  orig: 74, 82
-  offset: 0, 0
-  index: -1
-LeftWaistWing
-  rotate: false
-  xy: 992, 1419
-  size: 188, 303
-  orig: 188, 303
-  offset: 0, 0
-  index: -1
-LeftWing01
-  rotate: false
-  xy: 1182, 1330
-  size: 326, 384
-  orig: 326, 384
+  xy: 2, 1693
+  size: 148, 164
+  orig: 148, 164
   offset: 0, 0
   index: -1
 LeftWing02
   rotate: false
-  xy: 546, 1503
-  size: 318, 257
-  orig: 318, 257
+  xy: 1084, 217
+  size: 636, 514
+  orig: 636, 514
   offset: 0, 0
   index: -1
 LeftWing03
   rotate: false
-  xy: 193, 1797
-  size: 300, 124
-  orig: 300, 124
+  xy: 1370, 1106
+  size: 601, 249
+  orig: 601, 249
   offset: 0, 0
   index: -1
 LeftWing04
   rotate: false
-  xy: 1664, 1975
-  size: 286, 71
-  orig: 286, 71
+  xy: 152, 1687
+  size: 571, 141
+  orig: 571, 141
   offset: 0, 0
   index: -1
 LeftWing05
   rotate: false
-  xy: 1002, 1990
-  size: 274, 56
-  orig: 274, 56
+  xy: 597, 1830
+  size: 547, 112
+  orig: 547, 112
   offset: 0, 0
   index: -1
 LeftWing06
   rotate: false
-  xy: 798, 1908
-  size: 228, 80
-  orig: 228, 80
+  xy: 2, 1526
+  size: 457, 159
+  orig: 457, 159
   offset: 0, 0
   index: -1
 LeftWing07
   rotate: false
-  xy: 1807, 1855
-  size: 189, 112
-  orig: 189, 112
+  xy: 1619, 1357
+  size: 377, 224
+  orig: 377, 224
   offset: 0, 0
   index: -1
 LeftWing08
   rotate: false
-  xy: 993, 1745
-  size: 155, 147
-  orig: 155, 147
+  xy: 2, 996
+  size: 310, 294
+  orig: 310, 294
   offset: 0, 0
   index: -1
 LeftWing09
   rotate: false
-  xy: 1526, 1699
-  size: 115, 169
-  orig: 115, 169
+  xy: 1062, 788
+  size: 230, 339
+  orig: 230, 339
   offset: 0, 0
   index: -1
 LeftWing10
   rotate: false
-  xy: 2, 1633
-  size: 80, 185
-  orig: 80, 185
+  xy: 2, 623
+  size: 160, 371
+  orig: 160, 371
   offset: 0, 0
   index: -1
 RightArm
   rotate: false
-  xy: 372, 1539
-  size: 172, 249
-  orig: 172, 249
+  xy: 164, 409
+  size: 345, 497
+  orig: 345, 497
   offset: 0, 0
   index: -1
 RightBodyArm
   rotate: false
-  xy: 1580, 1980
-  size: 82, 66
-  orig: 82, 66
+  xy: 1146, 1806
+  size: 163, 132
+  orig: 163, 132
   offset: 0, 0
   index: -1
 RightBodyHand
   rotate: false
-  xy: 421, 2004
-  size: 43, 42
-  orig: 43, 42
+  xy: 834, 1955
+  size: 86, 84
+  orig: 86, 84
   offset: 0, 0
   index: -1
 RightBodyShoulder
   rotate: false
-  xy: 1500, 1981
-  size: 78, 65
-  orig: 78, 65
+  xy: 439, 1831
+  size: 156, 130
+  orig: 156, 130
   offset: 0, 0
   index: -1
 RightFrontWing
   rotate: false
-  xy: 1643, 1690
-  size: 57, 173
-  orig: 57, 173
+  xy: 1294, 758
+  size: 114, 346
+  orig: 114, 346
   offset: 0, 0
   index: -1
 RightHand
   rotate: false
-  xy: 1278, 1989
-  size: 68, 57
-  orig: 68, 57
+  xy: 2, 1872
+  size: 135, 114
+  orig: 135, 114
   offset: 0, 0
   index: -1
 RightHeadWing
   rotate: false
-  xy: 1224, 1889
-  size: 86, 98
-  orig: 86, 98
-  offset: 0, 0
-  index: -1
-RightLeg
-  rotate: false
-  xy: 1510, 1228
-  size: 266, 438
-  orig: 266, 438
+  xy: 461, 1489
+  size: 172, 196
+  orig: 172, 196
   offset: 0, 0
   index: -1
 RightShoulder
   rotate: false
-  xy: 714, 1774
-  size: 135, 132
-  orig: 135, 132
+  xy: 816, 1192
+  size: 271, 265
+  orig: 271, 265
   offset: 0, 0
   index: -1
 RightShoulderTasset
   rotate: false
-  xy: 1153, 1892
-  size: 69, 96
-  orig: 69, 96
+  xy: 1901, 1583
+  size: 138, 193
+  orig: 138, 193
   offset: 0, 0
   index: -1
 RightThigh
   rotate: false
-  xy: 1952, 1969
-  size: 71, 77
-  orig: 71, 77
+  xy: 1560, 1784
+  size: 141, 154
+  orig: 141, 154
   offset: 0, 0
   index: -1
 RightWaistWing
   rotate: false
-  xy: 866, 1477
-  size: 124, 283
-  orig: 124, 283
+  xy: 1722, 165
+  size: 248, 566
+  orig: 248, 566
   offset: 0, 0
   index: -1
 RightWing01
   rotate: false
-  xy: 84, 1561
-  size: 286, 234
-  orig: 286, 234
+  xy: 511, 318
+  size: 571, 468
+  orig: 571, 468
   offset: 0, 0
   index: -1
 RightWing02
   rotate: false
-  xy: 1253, 1716
-  size: 271, 163
-  orig: 271, 163
+  xy: 518, 864
+  size: 542, 326
+  orig: 542, 326
   offset: 0, 0
   index: -1
 RightWing03
   rotate: false
-  xy: 1312, 1881
-  size: 243, 98
-  orig: 243, 98
+  xy: 635, 1459
+  size: 486, 197
+  orig: 486, 197
   offset: 0, 0
   index: -1
 RightWing04
   rotate: false
-  xy: 332, 1923
-  size: 233, 73
-  orig: 233, 73
+  xy: 725, 1658
+  size: 466, 146
+  orig: 466, 146
   offset: 0, 0
   index: -1
 RightWing05
   rotate: false
-  xy: 624, 1997
-  size: 248, 49
-  orig: 248, 49
+  xy: 1234, 1940
+  size: 496, 99
+  orig: 496, 99
   offset: 0, 0
   index: -1
 RightWing06
   rotate: false
-  xy: 567, 1918
-  size: 229, 77
-  orig: 229, 77
+  xy: 1193, 1627
+  size: 458, 155
+  orig: 458, 155
   offset: 0, 0
   index: -1
 RightWing07
   rotate: false
-  xy: 2, 1820
-  size: 189, 116
-  orig: 189, 116
+  xy: 2, 1292
+  size: 378, 232
+  orig: 378, 232
   offset: 0, 0
   index: -1
 RightWing08
   rotate: false
-  xy: 851, 1762
-  size: 140, 144
-  orig: 140, 144
+  xy: 1089, 1129
+  size: 279, 289
+  orig: 279, 289
   offset: 0, 0
   index: -1
 RightWing09
   rotate: false
-  xy: 1150, 1724
-  size: 101, 163
-  orig: 101, 163
+  xy: 314, 908
+  size: 202, 325
+  orig: 202, 325
   offset: 0, 0
   index: -1
 RightWing10
   rotate: false
-  xy: 1702, 1687
-  size: 70, 176
-  orig: 70, 176
+  xy: 1410, 753
+  size: 139, 351
+  orig: 139, 351
   offset: 0, 0
   index: -1
 SmallLeftWing01
   rotate: false
-  xy: 598, 1788
-  size: 114, 128
-  orig: 114, 128
+  xy: 586, 1201
+  size: 228, 256
+  orig: 228, 256
   offset: 0, 0
   index: -1
 SmallLeftWing02
   rotate: false
-  xy: 2, 1943
-  size: 123, 73
-  orig: 123, 73
+  xy: 1311, 1791
+  size: 247, 147
+  orig: 247, 147
   offset: 0, 0
   index: -1
 SmallLeftWing03
   rotate: false
-  xy: 874, 1992
-  size: 126, 54
-  orig: 126, 54
+  xy: 1732, 1931
+  size: 252, 108
+  orig: 252, 108
   offset: 0, 0
   index: -1
 SmallLeftWing04
   rotate: false
-  xy: 297, 2008
-  size: 122, 38
-  orig: 122, 38
+  xy: 587, 1963
+  size: 245, 76
+  orig: 245, 76
   offset: 0, 0
   index: -1
 SmallLeftWing05
   rotate: false
-  xy: 91, 2018
-  size: 101, 28
-  orig: 101, 28
+  xy: 179, 1982
+  size: 202, 57
+  orig: 202, 57
   offset: 0, 0
   index: -1
 SmallRightWing01
   rotate: false
-  xy: 1557, 1870
-  size: 128, 103
-  orig: 128, 103
+  xy: 1123, 1420
+  size: 256, 205
+  orig: 256, 205
   offset: 0, 0
   index: -1
 SmallRightWing02
   rotate: false
-  xy: 127, 1938
-  size: 127, 75
-  orig: 127, 75
+  xy: 1703, 1778
+  size: 254, 151
+  orig: 254, 151
   offset: 0, 0
   index: -1
 SmallRightWing03
   rotate: false
-  xy: 506, 1998
-  size: 116, 48
-  orig: 116, 48
+  xy: 922, 1944
+  size: 232, 95
+  orig: 232, 95
   offset: 0, 0
   index: -1
 SmallRightWing04
   rotate: false
-  xy: 194, 2015
-  size: 101, 31
-  orig: 101, 31
+  xy: 383, 1977
+  size: 202, 62
+  orig: 202, 62
   offset: 0, 0
   index: -1
 SmallRightWing05
   rotate: false
-  xy: 2, 2021
-  size: 87, 25
-  orig: 87, 25
+  xy: 2, 1988
+  size: 175, 51
+  orig: 175, 51
+  offset: 0, 0
+  index: -1
+
+P113772.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 844
+  size: 618, 934
+  orig: 618, 934
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 622, 880
+  size: 549, 898
+  orig: 549, 898
+  offset: 0, 0
+  index: -1
+LeftWaistWing
+  rotate: false
+  xy: 1173, 1171
+  size: 376, 607
+  orig: 376, 607
+  offset: 0, 0
+  index: -1
+LeftWing01
+  rotate: false
+  xy: 2, 73
+  size: 653, 769
+  orig: 653, 769
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 657, 2
+  size: 532, 876
+  orig: 532, 876
   offset: 0, 0
   index: -1

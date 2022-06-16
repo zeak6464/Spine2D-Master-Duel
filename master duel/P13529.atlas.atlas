@@ -1,90 +1,90 @@
 
 P13529.png
-size: 3824,2278
+size: 2117,1097
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
   rotate: true
-  xy: 1437, 52
-  size: 493, 808
-  orig: 502, 822
-  offset: 4, 6
+  xy: 228, 13
+  size: 247, 404
+  orig: 251, 411
+  offset: 2, 3
   index: -1
 EyeEffect
-  rotate: false
-  xy: 2745, 195
-  size: 291, 233
-  orig: 311, 253
-  offset: 10, 10
+  rotate: true
+  xy: 543, 263
+  size: 146, 117
+  orig: 156, 127
+  offset: 5, 5
   index: -1
 Head
-  rotate: false
-  xy: 2247, 4
-  size: 496, 447
-  orig: 516, 467
-  offset: 9, 13
+  rotate: true
+  xy: 2, 11
+  size: 249, 224
+  orig: 258, 234
+  offset: 4, 6
   index: -1
 LeftArm
   rotate: false
-  xy: 3040, 1462
-  size: 742, 814
-  orig: 760, 829
-  offset: 12, 10
+  xy: 662, 2
+  size: 371, 407
+  orig: 380, 415
+  offset: 6, 5
   index: -1
 LeftCable01
   rotate: false
-  xy: 2, 361
-  size: 1132, 1197
-  orig: 1142, 1211
-  offset: 1, 10
+  xy: 1548, 496
+  size: 567, 599
+  orig: 571, 606
+  offset: 0, 5
   index: -1
 LeftCable02
-  rotate: true
-  xy: 1670, 1502
-  size: 774, 1368
-  orig: 783, 1383
-  offset: 0, 8
+  rotate: false
+  xy: 543, 411
+  size: 387, 684
+  orig: 392, 692
+  offset: 0, 4
   index: -1
 LeftLeg
   rotate: false
-  xy: 3553, 135
-  size: 269, 1325
-  orig: 278, 1337
-  offset: 5, 9
+  xy: 932, 432
+  size: 135, 663
+  orig: 139, 669
+  offset: 2, 4
   index: -1
 RightArm
-  rotate: false
-  xy: 2967, 430
-  size: 584, 1030
-  orig: 609, 1045
-  offset: 8, 8
+  rotate: true
+  xy: 1561, 202
+  size: 292, 515
+  orig: 305, 523
+  offset: 4, 4
   index: -1
 RightCable01
-  rotate: true
-  xy: 2357, 453
-  size: 1047, 608
-  orig: 1065, 624
-  offset: 9, 10
+  rotate: false
+  xy: 1035, 126
+  size: 524, 304
+  orig: 533, 312
+  offset: 4, 5
   index: -1
 RightCable02
-  rotate: true
-  xy: 1136, 547
-  size: 953, 1219
-  orig: 963, 1237
-  offset: 3, 10
+  rotate: false
+  xy: 1069, 485
+  size: 477, 610
+  orig: 482, 619
+  offset: 1, 5
   index: -1
 RightLeg
-  rotate: true
-  xy: 2, 2
-  size: 357, 1433
-  orig: 365, 1440
-  offset: 7, 7
+  rotate: false
+  xy: 362, 378
+  size: 179, 717
+  orig: 183, 720
+  offset: 3, 3
   index: -1
 Weapon
-  rotate: false
-  xy: 2, 1560
-  size: 1666, 716
-  orig: 1666, 726
-  offset: 0, 6
+  rotate: true
+  xy: 2, 262
+  size: 833, 358
+  orig: 833, 363
+  offset: 0, 3
   index: -1

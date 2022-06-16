@@ -5,93 +5,111 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 BackArmor
-  rotate: false
-  xy: 928, 1292
-  size: 136, 153
-  orig: 136, 153
-  offset: 0, 0
-  index: -1
-Body
-  rotate: false
-  xy: 2, 1112
-  size: 676, 895
-  orig: 676, 895
+  rotate: true
+  xy: 2, 1559
+  size: 273, 306
+  orig: 273, 306
   offset: 0, 0
   index: -1
 Head
-  rotate: false
-  xy: 1121, 1808
-  size: 143, 199
-  orig: 143, 199
+  rotate: true
+  xy: 310, 1546
+  size: 286, 399
+  orig: 286, 399
   offset: 0, 0
   index: -1
 LeftArm
-  rotate: true
-  xy: 927, 1447
-  size: 251, 228
-  orig: 251, 228
+  rotate: false
+  xy: 1087, 1375
+  size: 502, 457
+  orig: 502, 457
   offset: 0, 0
   index: -1
 LeftHand
-  rotate: true
-  xy: 1036, 3
-  size: 374, 265
-  orig: 374, 265
-  offset: 0, 0
-  index: -1
-LeftShoulder
-  rotate: true
-  xy: 641, 2
-  size: 341, 393
-  orig: 341, 393
-  offset: 0, 0
-  index: -1
-LeftWing
   rotate: false
-  xy: 2, 345
-  size: 670, 765
-  orig: 670, 765
+  xy: 1058, 842
+  size: 747, 531
+  orig: 747, 531
   offset: 0, 0
   index: -1
 RightArm
-  rotate: false
-  xy: 960, 1820
-  size: 159, 187
-  orig: 159, 187
-  offset: 0, 0
-  index: -1
-RightHand
   rotate: true
-  xy: 674, 379
-  size: 731, 576
-  orig: 731, 576
+  xy: 711, 1514
+  size: 318, 374
+  orig: 318, 374
   offset: 0, 0
   index: -1
 RightLeg
   rotate: false
-  xy: 680, 1700
-  size: 278, 307
-  orig: 278, 307
+  xy: 2, 439
+  size: 555, 614
+  orig: 555, 614
   offset: 0, 0
   index: -1
 RightShoulder
   rotate: true
-  xy: 680, 1155
-  size: 261, 246
-  orig: 261, 246
+  xy: 565, 990
+  size: 522, 491
+  orig: 522, 491
   offset: 0, 0
   index: -1
 RightThigh
-  rotate: true
-  xy: 680, 1418
-  size: 280, 245
-  orig: 280, 245
+  rotate: false
+  xy: 2, 1055
+  size: 561, 489
+  orig: 561, 489
   offset: 0, 0
   index: -1
 RightWing
   rotate: true
-  xy: 2, 50
-  size: 293, 637
-  orig: 293, 637
+  xy: 559, 255
+  size: 585, 1273
+  orig: 585, 1273
+  offset: 0, 0
+  index: -1
+
+P148542.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftShoulder
+  rotate: true
+  xy: 2, 1260
+  size: 682, 786
+  orig: 682, 786
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 790, 480
+  size: 1462, 1152
+  orig: 1462, 1152
+  offset: 0, 0
+  index: -1
+
+P148543.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: true
+  xy: 2, 192
+  size: 1340, 1530
+  orig: 1340, 1530
+  offset: 0, 0
+  index: -1
+
+P148544.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1352, 1790
+  orig: 1352, 1790
   offset: 0, 0
   index: -1

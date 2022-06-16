@@ -4,234 +4,258 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-DBody
-  rotate: false
-  xy: 103, 1556
-  size: 557, 455
-  orig: 557, 455
-  offset: 0, 0
-  index: -1
 DBodyEf
   rotate: false
-  xy: 103, 1058
-  size: 130, 92
-  orig: 130, 92
+  xy: 1013, 1837
+  size: 261, 183
+  orig: 261, 183
   offset: 0, 0
   index: -1
 DHeadB
-  rotate: false
-  xy: 679, 144
-  size: 49, 53
-  orig: 49, 53
+  rotate: true
+  xy: 2, 1921
+  size: 99, 106
+  orig: 99, 106
   offset: 0, 0
   index: -1
 DHeadChin
   rotate: true
-  xy: 1511, 1523
-  size: 207, 259
-  orig: 207, 259
-  offset: 0, 0
-  index: -1
-DHeadF
-  rotate: true
-  xy: 972, 255
-  size: 372, 451
-  orig: 372, 451
-  offset: 0, 0
-  index: -1
-DTail
-  rotate: true
-  xy: 2, 13
-  size: 333, 397
-  orig: 333, 397
-  offset: 0, 0
-  index: -1
-LeftDArm
-  rotate: false
-  xy: 1258, 1030
-  size: 328, 315
-  orig: 328, 315
+  xy: 1171, 993
+  size: 414, 517
+  orig: 414, 517
   offset: 0, 0
   index: -1
 LeftDArmEf
   rotate: false
-  xy: 235, 1058
-  size: 93, 92
-  orig: 93, 92
+  xy: 1276, 1836
+  size: 185, 184
+  orig: 185, 184
   offset: 0, 0
   index: -1
 LeftDFoot
   rotate: true
-  xy: 1258, 918
-  size: 110, 296
-  orig: 110, 296
+  xy: 2, 1625
+  size: 221, 592
+  orig: 221, 592
   offset: 0, 0
   index: -1
 LeftDFootEf
-  rotate: true
-  xy: 564, 1077
-  size: 73, 64
-  orig: 73, 64
-  offset: 0, 0
-  index: -1
-LeftDWing
-  rotate: true
-  xy: 401, 2
-  size: 344, 276
-  orig: 344, 276
+  rotate: false
+  xy: 403, 1893
+  size: 146, 127
+  orig: 146, 127
   offset: 0, 0
   index: -1
 LeftDleg
   rotate: true
-  xy: 1588, 1164
-  size: 184, 194
-  orig: 184, 194
+  xy: 1410, 1409
+  size: 368, 387
+  orig: 368, 387
   offset: 0, 0
   index: -1
 LeftMArm
   rotate: false
-  xy: 1511, 1350
-  size: 239, 171
-  orig: 239, 171
+  xy: 931, 1492
+  size: 477, 342
+  orig: 477, 342
   offset: 0, 0
   index: -1
 LeftMHand
-  rotate: true
-  xy: 679, 269
-  size: 77, 63
-  orig: 77, 63
+  rotate: false
+  xy: 247, 1894
+  size: 154, 126
+  orig: 154, 126
   offset: 0, 0
   index: -1
 MBody
-  rotate: false
-  xy: 755, 383
-  size: 215, 448
-  orig: 215, 448
+  rotate: true
+  xy: 2, 2
+  size: 430, 897
+  orig: 430, 897
   offset: 0, 0
   index: -1
 MCane
   rotate: true
-  xy: 967, 75
-  size: 178, 617
-  orig: 178, 617
+  xy: 2, 434
+  size: 357, 1235
+  orig: 357, 1235
   offset: 0, 0
   index: -1
 MCaneEf
   rotate: false
-  xy: 1258, 639
-  size: 167, 154
-  orig: 167, 154
+  xy: 596, 1528
+  size: 333, 309
+  orig: 333, 309
   offset: 0, 0
   index: -1
 MCloak
-  rotate: true
-  xy: 755, 22
-  size: 359, 210
-  orig: 359, 210
+  rotate: false
+  xy: 1239, 371
+  size: 718, 420
+  orig: 718, 420
   offset: 0, 0
   index: -1
 MFace
   rotate: true
-  xy: 445, 1064
-  size: 86, 117
-  orig: 86, 117
-  offset: 0, 0
-  index: -1
-MHair
-  rotate: false
-  xy: 755, 833
-  size: 232, 245
-  orig: 232, 245
-  offset: 0, 0
-  index: -1
-RghitDArm
-  rotate: false
-  xy: 662, 1327
-  size: 416, 403
-  orig: 416, 403
+  xy: 551, 1848
+  size: 172, 233
+  orig: 172, 233
   offset: 0, 0
   index: -1
 RghitDFoot
-  rotate: false
-  xy: 1556, 699
-  size: 163, 329
-  orig: 163, 329
+  rotate: true
+  xy: 511, 1164
+  size: 326, 658
+  orig: 326, 658
   offset: 0, 0
   index: -1
 RghitDLeg
   rotate: true
-  xy: 1613, 1807
-  size: 204, 253
-  orig: 204, 253
+  xy: 2, 1215
+  size: 408, 507
+  orig: 408, 507
   offset: 0, 0
   index: -1
 RightDArmEf
   rotate: false
-  xy: 330, 1059
-  size: 113, 91
-  orig: 113, 91
+  xy: 786, 1839
+  size: 225, 181
+  orig: 225, 181
   offset: 0, 0
   index: -1
 RightDFootEf
-  rotate: false
-  xy: 679, 199
-  size: 60, 68
-  orig: 60, 68
-  offset: 0, 0
-  index: -1
-RightDWing
-  rotate: false
-  xy: 103, 1152
-  size: 537, 402
-  orig: 537, 402
+  rotate: true
+  xy: 110, 1899
+  size: 121, 135
+  orig: 121, 135
   offset: 0, 0
   index: -1
 RightMArm
   rotate: false
-  xy: 1258, 795
-  size: 204, 121
-  orig: 204, 121
+  xy: 1463, 1779
+  size: 409, 241
+  orig: 409, 241
+  offset: 0, 0
+  index: -1
+String2
+  rotate: true
+  xy: 2, 793
+  size: 198, 1927
+  orig: 198, 1927
+  offset: 0, 0
+  index: -1
+
+P112572.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftDWing
+  rotate: false
+  xy: 739, 858
+  size: 688, 552
+  orig: 688, 552
+  offset: 0, 0
+  index: -1
+MHair
+  rotate: true
+  xy: 2, 1436
+  size: 464, 490
+  orig: 464, 490
   offset: 0, 0
   index: -1
 String1
   rotate: true
-  xy: 662, 1732
-  size: 279, 949
-  orig: 279, 949
-  offset: 0, 0
-  index: -1
-String2
-  rotate: false
-  xy: 2, 1048
-  size: 99, 963
-  orig: 99, 963
-  offset: 0, 0
-  index: -1
-String3
-  rotate: false
-  xy: 1080, 1347
-  size: 429, 383
-  orig: 429, 383
-  offset: 0, 0
-  index: -1
-String4
-  rotate: true
-  xy: 2, 348
-  size: 698, 751
-  orig: 698, 751
+  xy: 2, 298
+  size: 558, 1898
+  orig: 558, 1898
   offset: 0, 0
   index: -1
 String5
   rotate: true
-  xy: 642, 1080
-  size: 245, 368
-  orig: 245, 368
+  xy: 2, 919
+  size: 491, 735
+  orig: 491, 735
   offset: 0, 0
   index: -1
 String6
+  rotate: true
+  xy: 494, 1412
+  size: 488, 1392
+  orig: 488, 1392
+  offset: 0, 0
+  index: -1
+
+P112573.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DHeadF
+  rotate: true
+  xy: 2, 351
+  size: 745, 902
+  orig: 745, 902
+  offset: 0, 0
+  index: -1
+DTail
+  rotate: true
+  xy: 661, 1098
+  size: 666, 794
+  orig: 666, 794
+  offset: 0, 0
+  index: -1
+LeftDArm
   rotate: false
-  xy: 1012, 629
-  size: 244, 696
-  orig: 244, 696
+  xy: 2, 1135
+  size: 657, 629
+  orig: 657, 629
+  offset: 0, 0
+  index: -1
+String3
+  rotate: false
+  xy: 906, 331
+  size: 858, 765
+  orig: 858, 765
+  offset: 0, 0
+  index: -1
+
+P112574.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+String4
+  rotate: false
+  xy: 2, 2
+  size: 1397, 1502
+  orig: 1397, 1502
+  offset: 0, 0
+  index: -1
+
+P112575.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DBody
+  rotate: false
+  xy: 2, 192
+  size: 1114, 909
+  orig: 1114, 909
+  offset: 0, 0
+  index: -1
+RghitDArm
+  rotate: false
+  xy: 1078, 1103
+  size: 831, 806
+  orig: 831, 806
+  offset: 0, 0
+  index: -1
+RightDWing
+  rotate: false
+  xy: 2, 1105
+  size: 1074, 804
+  orig: 1074, 804
   offset: 0, 0
   index: -1

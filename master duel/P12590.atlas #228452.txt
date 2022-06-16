@@ -1,0 +1,262 @@
+
+P12590.png
+size: 2033,2033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electrical1
+  rotate: true
+  xy: 1536, 1350
+  size: 258, 389
+  orig: 284, 415
+  offset: 13, 13
+  index: -1
+Electrical10
+  rotate: false
+  xy: 438, 1145
+  size: 343, 260
+  orig: 368, 285
+  offset: 13, 12
+  index: -1
+Electrical11
+  rotate: true
+  xy: 2, 1741
+  size: 223, 248
+  orig: 249, 274
+  offset: 14, 13
+  index: -1
+Electrical12
+  rotate: false
+  xy: 1171, 1854
+  size: 234, 177
+  orig: 259, 203
+  offset: 13, 14
+  index: -1
+Electrical13
+  rotate: false
+  xy: 783, 1072
+  size: 341, 314
+  orig: 367, 340
+  offset: 13, 13
+  index: -1
+Electrical15
+  rotate: true
+  xy: 253, 1906
+  size: 125, 203
+  orig: 152, 229
+  offset: 14, 13
+  index: -1
+Electrical16
+  rotate: true
+  xy: 990, 1388
+  size: 254, 544
+  orig: 276, 566
+  offset: 9, 9
+  index: -1
+Electrical2
+  rotate: true
+  xy: 1688, 1837
+  size: 194, 262
+  orig: 221, 288
+  offset: 13, 13
+  index: -1
+Electrical3
+  rotate: false
+  xy: 1489, 1025
+  size: 374, 323
+  orig: 400, 355
+  offset: 13, 14
+  index: -1
+Electrical4
+  rotate: true
+  xy: 1585, 1610
+  size: 225, 354
+  orig: 247, 381
+  offset: 9, 13
+  index: -1
+Electrical5
+  rotate: false
+  xy: 2, 1167
+  size: 434, 260
+  orig: 460, 285
+  offset: 13, 10
+  index: -1
+Electrical6
+  rotate: false
+  xy: 797, 1856
+  size: 372, 175
+  orig: 398, 199
+  offset: 13, 10
+  index: -1
+Electrical7
+  rotate: false
+  xy: 458, 1869
+  size: 337, 162
+  orig: 363, 190
+  offset: 13, 13
+  index: -1
+Electrical8
+  rotate: true
+  xy: 1126, 1067
+  size: 319, 361
+  orig: 345, 389
+  offset: 13, 13
+  index: -1
+Electrical9
+  rotate: false
+  xy: 1160, 1644
+  size: 423, 207
+  orig: 445, 232
+  offset: 13, 13
+  index: -1
+LeftBody
+  rotate: true
+  xy: 2, 825
+  size: 318, 561
+  orig: 334, 577
+  offset: 8, 8
+  index: -1
+LeftCaterpillar
+  rotate: false
+  xy: 717, 1659
+  size: 441, 195
+  orig: 459, 212
+  offset: 9, 8
+  index: -1
+LeftHead
+  rotate: false
+  xy: 513, 1407
+  size: 475, 250
+  orig: 481, 265
+  offset: 3, 7
+  index: -1
+LeftHead_Back
+  rotate: false
+  xy: 1407, 1853
+  size: 279, 178
+  orig: 296, 191
+  offset: 8, 8
+  index: -1
+LeftMissile
+  rotate: false
+  xy: 1100, 327
+  size: 423, 359
+  orig: 439, 376
+  offset: 8, 8
+  index: -1
+LeftNeck
+  rotate: true
+  xy: 487, 411
+  size: 349, 611
+  orig: 362, 628
+  offset: 7, 9
+  index: -1
+RightBody
+  rotate: true
+  xy: 2, 480
+  size: 343, 483
+  orig: 361, 500
+  offset: 9, 9
+  index: -1
+RightCaterpillar
+  rotate: false
+  xy: 252, 1680
+  size: 463, 187
+  orig: 481, 204
+  offset: 9, 8
+  index: -1
+RightGun
+  rotate: false
+  xy: 565, 762
+  size: 837, 303
+  orig: 849, 319
+  offset: 4, 9
+  index: -1
+RightHead
+  rotate: false
+  xy: 2, 1429
+  size: 509, 249
+  orig: 511, 257
+  offset: 1, 1
+  index: -1
+RightHead_Back
+  rotate: false
+  xy: 2, 1966
+  size: 249, 65
+  orig: 267, 82
+  offset: 9, 9
+  index: -1
+RightMissile
+  rotate: false
+  xy: 1404, 688
+  size: 443, 335
+  orig: 460, 353
+  offset: 9, 9
+  index: -1
+RightNeck
+  rotate: true
+  xy: 1525, 233
+  size: 453, 506
+  orig: 466, 521
+  offset: 5, 9
+  index: -1
+
+P125902.png
+size: 2004,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: false
+  xy: 2, 651
+  size: 1946, 542
+  orig: 1963, 560
+  offset: 8, 9
+  index: -1
+Body2
+  rotate: false
+  xy: 1397, 1195
+  size: 605, 807
+  orig: 617, 816
+  offset: 5, 1
+  index: -1
+Electrical14
+  rotate: true
+  xy: 2, 1486
+  size: 516, 541
+  orig: 541, 567
+  offset: 13, 13
+  index: -1
+LeftGun
+  rotate: true
+  xy: 545, 1467
+  size: 535, 850
+  orig: 549, 860
+  offset: 6, 7
+  index: -1
+
+P125903.png
+size: 991,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWing
+  rotate: false
+  xy: 2, 23
+  size: 987, 966
+  orig: 996, 973
+  offset: 2, 0
+  index: -1
+
+P125904.png
+size: 1530,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 2, 277
+  size: 1526, 1251
+  orig: 1529, 1257
+  offset: 0, 2
+  index: -1

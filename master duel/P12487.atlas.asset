@@ -4,59 +4,77 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Body
-  rotate: false
-  xy: 407, 472
-  size: 629, 721
-  orig: 629, 721
-  offset: 0, 0
-  index: -1
 Head
-  rotate: true
-  xy: 2, 179
-  size: 248, 141
-  orig: 248, 141
+  rotate: false
+  xy: 2, 1478
+  size: 496, 281
+  orig: 496, 281
   offset: 0, 0
   index: -1
 Left_Arm
   rotate: true
-  xy: 188, 15
-  size: 171, 204
-  orig: 171, 204
-  offset: 0, 0
-  index: -1
-Left_Wing
-  rotate: false
-  xy: 2, 1195
-  size: 768, 849
-  orig: 768, 849
+  xy: 500, 1416
+  size: 343, 408
+  orig: 343, 408
   offset: 0, 0
   index: -1
 Neck
   rotate: false
-  xy: 2, 2
-  size: 184, 175
-  orig: 184, 175
+  xy: 910, 1409
+  size: 368, 350
+  orig: 368, 350
   offset: 0, 0
   index: -1
 Right_Arm
-  rotate: true
-  xy: 145, 188
-  size: 239, 189
-  orig: 239, 189
-  offset: 0, 0
-  index: -1
-Right_Wing
-  rotate: true
-  xy: 407, 24
-  size: 446, 527
-  orig: 446, 527
+  rotate: false
+  xy: 1280, 1381
+  size: 479, 378
+  orig: 479, 378
   offset: 0, 0
   index: -1
 Tail
+  rotate: false
+  xy: 2, 573
+  size: 1528, 806
+  orig: 1528, 806
+  offset: 0, 0
+  index: -1
+
+P124872.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Right_Wing
   rotate: true
-  xy: 2, 429
-  size: 764, 403
-  orig: 764, 403
+  xy: 2, 165
+  size: 891, 1054
+  orig: 891, 1054
+  offset: 0, 0
+  index: -1
+
+P124873.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 186
+  size: 1257, 1441
+  orig: 1257, 1441
+  offset: 0, 0
+  index: -1
+
+P124874.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left_Wing
+  rotate: false
+  xy: 2, 2
+  size: 1536, 1698
+  orig: 1536, 1698
   offset: 0, 0
   index: -1

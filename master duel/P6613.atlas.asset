@@ -1,90 +1,90 @@
 
 P6613.png
-size: 2048,2048
+size: 4096,4096
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
-  rotate: false
-  xy: 1317, 42
-  size: 452, 861
-  orig: 452, 861
+  rotate: true
+  xy: 2253, 2653
+  size: 903, 1721
+  orig: 903, 1721
   offset: 0, 0
   index: -1
 Cloak
   rotate: false
-  xy: 2, 1227
-  size: 1729, 799
-  orig: 1729, 799
+  xy: 2, 2
+  size: 3458, 1597
+  orig: 3458, 1597
   offset: 0, 0
   index: -1
 Hand
   rotate: false
-  xy: 2, 700
-  size: 1313, 525
-  orig: 1313, 525
+  xy: 2, 1601
+  size: 2625, 1050
+  orig: 2625, 1050
   offset: 0, 0
   index: -1
 Head
-  rotate: true
-  xy: 2, 139
-  size: 281, 162
-  orig: 281, 162
+  rotate: false
+  xy: 373, 3741
+  size: 562, 323
+  orig: 562, 323
   offset: 0, 0
   index: -1
 LeftArm
-  rotate: false
-  xy: 2, 422
-  size: 184, 276
-  orig: 184, 276
+  rotate: true
+  xy: 937, 3697
+  size: 367, 552
+  orig: 367, 552
   offset: 0, 0
   index: -1
 LeftShoulder
-  rotate: false
-  xy: 1771, 580
-  size: 244, 323
-  orig: 244, 323
+  rotate: true
+  xy: 2138, 3576
+  size: 488, 645
+  orig: 488, 645
   offset: 0, 0
   index: -1
 LeftWaist
-  rotate: false
-  xy: 1733, 1609
-  size: 258, 417
-  orig: 258, 417
+  rotate: true
+  xy: 1418, 3058
+  size: 516, 833
+  orig: 516, 833
   offset: 0, 0
   index: -1
 Neck
-  rotate: true
-  xy: 1771, 68
-  size: 185, 103
-  orig: 185, 103
+  rotate: false
+  xy: 2, 3858
+  size: 369, 206
+  orig: 369, 206
   offset: 0, 0
   index: -1
 RightArm
-  rotate: false
-  xy: 1771, 255
-  size: 240, 323
-  orig: 240, 323
+  rotate: true
+  xy: 1491, 3585
+  size: 479, 645
+  orig: 479, 645
   offset: 0, 0
   index: -1
 RightShoulder
   rotate: true
-  xy: 1317, 967
-  size: 258, 405
-  orig: 258, 405
+  xy: 2, 3224
+  size: 515, 809
+  orig: 515, 809
   offset: 0, 0
   index: -1
 RightWaist
-  rotate: false
-  xy: 1733, 1193
-  size: 253, 414
-  orig: 253, 414
+  rotate: true
+  xy: 2785, 3558
+  size: 506, 827
+  orig: 506, 827
   offset: 0, 0
   index: -1
 WaistBack
   rotate: false
-  xy: 1724, 905
-  size: 302, 286
-  orig: 302, 286
+  xy: 813, 3123
+  size: 603, 572
+  orig: 603, 572
   offset: 0, 0
   index: -1
