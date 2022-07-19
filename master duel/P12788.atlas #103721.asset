@@ -1,0 +1,139 @@
+
+P12788.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackOrnament1-1
+  rotate: false
+  xy: 2, 3885
+  size: 193, 135
+  orig: 193, 135
+  offset: 0, 0
+  index: -1
+BackOrnament2-1
+  rotate: true
+  xy: 197, 3884
+  size: 136, 178
+  orig: 136, 178
+  offset: 0, 0
+  index: -1
+BackWaist
+  rotate: false
+  xy: 377, 3851
+  size: 175, 169
+  orig: 175, 169
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 3414
+  size: 433, 587
+  orig: 433, 587
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 852, 1984
+  size: 1335, 1194
+  orig: 1335, 1194
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3511, 3541
+  size: 509, 479
+  orig: 509, 479
+  offset: 0, 0
+  index: -1
+Lance
+  rotate: false
+  xy: 2, 313
+  size: 3239, 1669
+  orig: 3239, 1669
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 554, 3849
+  size: 171, 307
+  orig: 171, 307
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 2686, 3695
+  size: 325, 345
+  orig: 325, 345
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1463, 3180
+  size: 556, 964
+  orig: 556, 964
+  offset: 0, 0
+  index: -1
+LeftSleeve
+  rotate: true
+  xy: 863, 3797
+  size: 223, 496
+  orig: 223, 496
+  offset: 0, 0
+  index: -1
+LetfUpperArm
+  rotate: true
+  xy: 3033, 3665
+  size: 355, 476
+  orig: 355, 476
+  offset: 0, 0
+  index: -1
+Ornament
+  rotate: true
+  xy: 1707, 3761
+  size: 259, 454
+  orig: 259, 454
+  offset: 0, 0
+  index: -1
+RgiftFinger1-1
+  rotate: false
+  xy: 2163, 3738
+  size: 521, 282
+  orig: 521, 282
+  offset: 0, 0
+  index: -1
+RgiftFinger2-1
+  rotate: true
+  xy: 2429, 3051
+  size: 612, 632
+  orig: 612, 632
+  offset: 0, 0
+  index: -1
+RgiftHand
+  rotate: true
+  xy: 2, 2506
+  size: 847, 848
+  orig: 847, 848
+  offset: 0, 0
+  index: -1
+RgiftUpperArm
+  rotate: true
+  xy: 1361, 3763
+  size: 257, 344
+  orig: 257, 344
+  offset: 0, 0
+  index: -1
+RgihtLeg
+  rotate: true
+  xy: 591, 3355
+  size: 406, 870
+  orig: 406, 870
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 3063, 2711
+  size: 828, 840
+  orig: 828, 840
+  offset: 0, 0
+  index: -1

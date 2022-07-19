@@ -1,0 +1,279 @@
+
+P10001.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2571, 519
+  size: 686, 1443
+  orig: 686, 1443
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 1097, 1958
+  size: 1387, 2132
+  orig: 1387, 2132
+  offset: 0, 0
+  index: -1
+ClothFront
+  rotate: false
+  xy: 2056, 86
+  size: 513, 1870
+  orig: 513, 1870
+  offset: 0, 0
+  index: -1
+ClothParts
+  rotate: false
+  xy: 676, 996
+  size: 269, 236
+  orig: 269, 236
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 1736, 37
+  size: 160, 107
+  orig: 160, 107
+  offset: 0, 0
+  index: -1
+Effect10
+  rotate: false
+  xy: 676, 633
+  size: 125, 361
+  orig: 125, 361
+  offset: 0, 0
+  index: -1
+Effect11
+  rotate: false
+  xy: 3044, 222
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Effect12
+  rotate: false
+  xy: 1543, 18
+  size: 191, 126
+  orig: 191, 126
+  offset: 0, 0
+  index: -1
+Effect13
+  rotate: false
+  xy: 3044, 331
+  size: 196, 186
+  orig: 196, 186
+  offset: 0, 0
+  index: -1
+Effect14
+  rotate: false
+  xy: 867, 4
+  size: 150, 223
+  orig: 150, 223
+  offset: 0, 0
+  index: -1
+Effect15
+  rotate: false
+  xy: 803, 592
+  size: 137, 252
+  orig: 137, 252
+  offset: 0, 0
+  index: -1
+Effect16
+  rotate: false
+  xy: 2736, 280
+  size: 135, 237
+  orig: 135, 237
+  offset: 0, 0
+  index: -1
+Effect17
+  rotate: false
+  xy: 1019, 2
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+Effect18
+  rotate: false
+  xy: 2736, 171
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Effect2
+  rotate: false
+  xy: 803, 846
+  size: 209, 148
+  orig: 209, 148
+  offset: 0, 0
+  index: -1
+Effect3
+  rotate: false
+  xy: 1128, 4
+  size: 107, 140
+  orig: 107, 140
+  offset: 0, 0
+  index: -1
+Effect4
+  rotate: false
+  xy: 2571, 269
+  size: 163, 248
+  orig: 163, 248
+  offset: 0, 0
+  index: -1
+Effect5
+  rotate: false
+  xy: 1898, 37
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+Effect6
+  rotate: false
+  xy: 3242, 332
+  size: 120, 185
+  orig: 120, 185
+  offset: 0, 0
+  index: -1
+Effect7
+  rotate: false
+  xy: 1237, 12
+  size: 196, 132
+  orig: 196, 132
+  offset: 0, 0
+  index: -1
+Effect8
+  rotate: false
+  xy: 867, 229
+  size: 172, 138
+  orig: 172, 138
+  offset: 0, 0
+  index: -1
+Effect9
+  rotate: false
+  xy: 2873, 309
+  size: 169, 208
+  orig: 169, 208
+  offset: 0, 0
+  index: -1
+HandEffect
+  rotate: false
+  xy: 2, 558
+  size: 672, 653
+  orig: 672, 653
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 616, 2246
+  size: 463, 445
+  orig: 463, 445
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 616, 2693
+  size: 473, 448
+  orig: 473, 448
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 2902, 1971
+  size: 372, 383
+  orig: 372, 383
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 1048, 146
+  size: 1006, 1810
+  orig: 1006, 1810
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 616, 3143
+  size: 479, 947
+  orig: 479, 947
+  offset: 0, 0
+  index: -1
+LeftWaist
+  rotate: false
+  xy: 616, 1528
+  size: 430, 716
+  orig: 430, 716
+  offset: 0, 0
+  index: -1
+LeftWaistBack
+  rotate: false
+  xy: 3242, 151
+  size: 192, 179
+  orig: 192, 179
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2, 15
+  size: 372, 541
+  orig: 372, 541
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2, 1213
+  size: 612, 2877
+  orig: 612, 2877
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 2486, 2356
+  size: 557, 1734
+  orig: 557, 1734
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 376, 46
+  size: 489, 510
+  orig: 489, 510
+  offset: 0, 0
+  index: -1
+RightUpperArm
+  rotate: false
+  xy: 616, 1234
+  size: 332, 292
+  orig: 332, 292
+  offset: 0, 0
+  index: -1
+RightWaist
+  rotate: false
+  xy: 3259, 1201
+  size: 267, 768
+  orig: 267, 768
+  offset: 0, 0
+  index: -1
+RightWaistBack1
+  rotate: false
+  xy: 1435, 14
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+RightWaistBack2
+  rotate: false
+  xy: 867, 369
+  size: 179, 221
+  orig: 179, 221
+  offset: 0, 0
+  index: -1
+WaistBack
+  rotate: false
+  xy: 2486, 1964
+  size: 414, 390
+  orig: 414, 390
+  offset: 0, 0
+  index: -1

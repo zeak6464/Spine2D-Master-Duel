@@ -1,0 +1,167 @@
+
+P7096.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 597, 122
+  size: 375, 425
+  orig: 375, 425
+  offset: 0, 0
+  index: -1
+Breastplate
+  rotate: false
+  xy: 1429, 1293
+  size: 498, 137
+  orig: 498, 137
+  offset: 0, 0
+  index: -1
+CenterClaw
+  rotate: true
+  xy: 597, 10
+  size: 110, 347
+  orig: 110, 347
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1099, 526
+  size: 282, 287
+  orig: 282, 287
+  offset: 0, 0
+  index: -1
+LeftArmClaw
+  rotate: false
+  xy: 1734, 1170
+  size: 156, 121
+  orig: 156, 121
+  offset: 0, 0
+  index: -1
+LeftClaw
+  rotate: false
+  xy: 1371, 865
+  size: 255, 293
+  orig: 255, 293
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1433, 1432
+  size: 254, 510
+  orig: 254, 510
+  offset: 0, 0
+  index: -1
+LeftShoulderBack
+  rotate: false
+  xy: 1089, 442
+  size: 190, 82
+  orig: 190, 82
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 1429, 1160
+  size: 131, 303
+  orig: 131, 303
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: false
+  xy: 974, 146
+  size: 105, 202
+  orig: 105, 202
+  offset: 0, 0
+  index: -1
+LeftWing01
+  rotate: false
+  xy: 2, 1243
+  size: 611, 774
+  orig: 611, 774
+  offset: 0, 0
+  index: -1
+LeftWing02
+  rotate: true
+  xy: 615, 1573
+  size: 444, 816
+  orig: 444, 816
+  offset: 0, 0
+  index: -1
+RighUpperArm
+  rotate: false
+  xy: 974, 350
+  size: 113, 197
+  orig: 113, 197
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1433, 1688
+  size: 329, 569
+  orig: 329, 569
+  offset: 0, 0
+  index: -1
+RightClaw
+  rotate: false
+  xy: 1383, 589
+  size: 218, 274
+  orig: 218, 274
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 566, 549
+  size: 264, 531
+  orig: 264, 531
+  offset: 0, 0
+  index: -1
+RightShoulderBack
+  rotate: false
+  xy: 1089, 357
+  size: 188, 83
+  orig: 188, 83
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 1628, 863
+  size: 139, 295
+  orig: 139, 295
+  offset: 0, 0
+  index: -1
+RightThumb
+  rotate: false
+  xy: 1769, 1020
+  size: 102, 148
+  orig: 102, 148
+  offset: 0, 0
+  index: -1
+RightWing01
+  rotate: false
+  xy: 2, 487
+  size: 562, 754
+  orig: 562, 754
+  offset: 0, 0
+  index: -1
+RightWing02
+  rotate: true
+  xy: 615, 1163
+  size: 408, 812
+  orig: 408, 812
+  offset: 0, 0
+  index: -1
+Tail01
+  rotate: true
+  xy: 2, 2
+  size: 483, 593
+  orig: 483, 593
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 566, 815
+  size: 803, 346
+  orig: 803, 346
+  offset: 0, 0
+  index: -1

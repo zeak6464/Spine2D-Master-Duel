@@ -1,0 +1,146 @@
+
+P14586.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2077, 2287
+  size: 765, 1795
+  orig: 765, 1795
+  offset: 0, 0
+  index: -1
+BodyThorn1
+  rotate: false
+  xy: 1818, 811
+  size: 616, 250
+  orig: 616, 250
+  offset: 0, 0
+  index: -1
+BodyThorn2
+  rotate: false
+  xy: 2775, 763
+  size: 597, 711
+  orig: 597, 711
+  offset: 0, 0
+  index: -1
+BodyThorn3
+  rotate: false
+  xy: 3409, 131
+  size: 369, 317
+  orig: 369, 317
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 2, 2363
+  size: 2073, 1719
+  orig: 2073, 1719
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2612, 265
+  size: 447, 496
+  orig: 447, 496
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3409, 450
+  size: 390, 355
+  orig: 390, 355
+  offset: 0, 0
+  index: -1
+LeftArmBack
+  rotate: false
+  xy: 3784, 3380
+  size: 298, 328
+  orig: 298, 328
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 2, 19
+  size: 198, 220
+  orig: 198, 220
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 1728, 239
+  size: 493, 570
+  orig: 493, 570
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 3061, 241
+  size: 346, 520
+  orig: 346, 520
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 3374, 807
+  size: 567, 667
+  orig: 567, 667
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2844, 2672
+  size: 938, 1410
+  orig: 938, 1410
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2844, 1476
+  size: 935, 1194
+  orig: 935, 1194
+  offset: 0, 0
+  index: -1
+RightArmBack
+  rotate: false
+  xy: 3784, 3117
+  size: 282, 261
+  orig: 282, 261
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 3784, 3710
+  size: 295, 372
+  orig: 295, 372
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1818, 1063
+  size: 955, 1222
+  orig: 955, 1222
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 2223, 286
+  size: 387, 523
+  orig: 387, 523
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 998
+  size: 1814, 1363
+  orig: 1814, 1363
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 241
+  size: 1724, 755
+  orig: 1724, 755
+  offset: 0, 0
+  index: -1

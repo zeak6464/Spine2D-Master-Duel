@@ -1,0 +1,62 @@
+
+P14297.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2147, 1663
+  size: 1467, 2086
+  orig: 1467, 2086
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3005, 1179
+  size: 396, 482
+  orig: 396, 482
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1991, 906
+  size: 307, 365
+  orig: 307, 365
+  offset: 0, 0
+  index: -1
+Mantle
+  rotate: false
+  xy: 2, 1902
+  size: 2143, 1847
+  orig: 2143, 1847
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 2, 2
+  size: 1898, 1313
+  orig: 1898, 1313
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1991, 1273
+  size: 388, 1012
+  orig: 388, 1012
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1317, 853
+  size: 345, 261
+  orig: 345, 261
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 1317, 1200
+  size: 700, 672
+  orig: 700, 672
+  offset: 0, 0
+  index: -1

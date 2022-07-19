@@ -1,0 +1,300 @@
+
+P15523.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alpaca_Body
+  rotate: false
+  xy: 2, 466
+  size: 201, 288
+  orig: 201, 288
+  offset: 0, 0
+  index: -1
+Alpaca_Manga
+  rotate: true
+  xy: 790, 995
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Alpaca_Tail
+  rotate: true
+  xy: 382, 767
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+Cat_Body
+  rotate: true
+  xy: 490, 840
+  size: 240, 207
+  orig: 240, 207
+  offset: 0, 0
+  index: -1
+Cat_Furutsu
+  rotate: true
+  xy: 530, 500
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Cat_Head
+  rotate: false
+  xy: 161, 180
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+Cat_Manga
+  rotate: true
+  xy: 579, 500
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Dog_Body
+  rotate: true
+  xy: 407, 551
+  size: 214, 186
+  orig: 214, 186
+  offset: 0, 0
+  index: -1
+Dog_RightHand
+  rotate: true
+  xy: 657, 796
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Dog_Tail
+  rotate: true
+  xy: 692, 482
+  size: 116, 134
+  orig: 116, 134
+  offset: 0, 0
+  index: -1
+Fox_Body
+  rotate: false
+  xy: 2, 193
+  size: 157, 271
+  orig: 157, 271
+  offset: 0, 0
+  index: -1
+Fox_Hand
+  rotate: true
+  xy: 699, 961
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+Fox_LeftEar
+  rotate: false
+  xy: 595, 638
+  size: 99, 149
+  orig: 99, 149
+  offset: 0, 0
+  index: -1
+Fox_RightEar
+  rotate: true
+  xy: 828, 522
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+Fox_Tail
+  rotate: false
+  xy: 371, 299
+  size: 157, 250
+  orig: 157, 250
+  offset: 0, 0
+  index: -1
+Furutsu
+  rotate: true
+  xy: 816, 954
+  size: 617, 343
+  orig: 617, 343
+  offset: 0, 0
+  index: -1
+Horse_Body
+  rotate: false
+  xy: 262, 828
+  size: 226, 252
+  orig: 226, 252
+  offset: 0, 0
+  index: -1
+Horse_Furutsu
+  rotate: true
+  xy: 161, 412
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Horse_LeftEar
+  rotate: false
+  xy: 161, 359
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+Horse_Manga
+  rotate: false
+  xy: 790, 969
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Horse_RightEar
+  rotate: true
+  xy: 548, 789
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Horse_Tail
+  rotate: true
+  xy: 957, 878
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+Mouse_Body
+  rotate: false
+  xy: 262, 756
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+Mouse_Manga1
+  rotate: false
+  xy: 448, 784
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Mouse_Manga2
+  rotate: true
+  xy: 161, 325
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Mouse_Tail
+  rotate: false
+  xy: 601, 790
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+Panda_Body
+  rotate: true
+  xy: 2, 2
+  size: 189, 133
+  orig: 189, 133
+  offset: 0, 0
+  index: -1
+Panda_Furutsu
+  rotate: false
+  xy: 303, 285
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Panda_Manga1
+  rotate: false
+  xy: 790, 1023
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Panda_Manga2
+  rotate: true
+  xy: 618, 502
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Panda_Manga3
+  rotate: false
+  xy: 530, 305
+  size: 107, 193
+  orig: 107, 193
+  offset: 0, 0
+  index: -1
+Panda_Manga4
+  rotate: true
+  xy: 876, 877
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Panda_RightHand
+  rotate: true
+  xy: 639, 441
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+Panda_Tail
+  rotate: true
+  xy: 490, 784
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Rabbit_Body
+  rotate: false
+  xy: 699, 600
+  size: 175, 352
+  orig: 175, 352
+  offset: 0, 0
+  index: -1
+Rabbit_Hand
+  rotate: false
+  xy: 957, 804
+  size: 135, 72
+  orig: 135, 72
+  offset: 0, 0
+  index: -1
+Rabbit_Manga
+  rotate: true
+  xy: 790, 1053
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Rabbit_Tail
+  rotate: false
+  xy: 595, 531
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+Raccoon_Body
+  rotate: false
+  xy: 2, 756
+  size: 258, 324
+  orig: 258, 324
+  offset: 0, 0
+  index: -1
+Raccoon_Head
+  rotate: true
+  xy: 205, 341
+  size: 210, 164
+  orig: 210, 164
+  offset: 0, 0
+  index: -1
+Raccoon_Tail
+  rotate: false
+  xy: 205, 553
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+Stump
+  rotate: false
+  xy: 2, 1082
+  size: 812, 489
+  orig: 812, 489
+  offset: 0, 0
+  index: -1

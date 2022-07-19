@@ -1,0 +1,157 @@
+
+P14209.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Back1
+  rotate: false
+  xy: 2, 747
+  size: 460, 566
+  orig: 460, 566
+  offset: 0, 0
+  index: -1
+Body_Back2
+  rotate: false
+  xy: 1474, 1072
+  size: 434, 525
+  orig: 434, 525
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: false
+  xy: 97, 1765
+  size: 189, 145
+  orig: 189, 145
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 2, 1797
+  size: 93, 113
+  orig: 93, 113
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 1454, 1599
+  size: 435, 311
+  orig: 435, 311
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 742, 1648
+  size: 325, 262
+  orig: 325, 262
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 464, 477
+  size: 823, 658
+  orig: 823, 658
+  offset: 0, 0
+  index: -1
+LeftCollar
+  rotate: false
+  xy: 562, 1295
+  size: 503, 351
+  orig: 503, 351
+  offset: 0, 0
+  index: -1
+LeftCollar_Back
+  rotate: false
+  xy: 1289, 310
+  size: 621, 760
+  orig: 621, 760
+  offset: 0, 0
+  index: -1
+LeftHand1
+  rotate: false
+  xy: 2, 1347
+  size: 237, 416
+  orig: 237, 416
+  offset: 0, 0
+  index: -1
+LeftHand2
+  rotate: false
+  xy: 241, 1315
+  size: 319, 358
+  orig: 319, 358
+  offset: 0, 0
+  index: -1
+RightCollar
+  rotate: false
+  xy: 1067, 1137
+  size: 405, 460
+  orig: 405, 460
+  offset: 0, 0
+  index: -1
+Scarf1
+  rotate: false
+  xy: 1069, 1643
+  size: 383, 267
+  orig: 383, 267
+  offset: 0, 0
+  index: -1
+Scarf2
+  rotate: false
+  xy: 288, 1675
+  size: 452, 235
+  orig: 452, 235
+  offset: 0, 0
+  index: -1
+
+P142092.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun
+  rotate: false
+  xy: 2, 1124
+  size: 955, 719
+  orig: 955, 719
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 1387, 477
+  size: 456, 1366
+  orig: 456, 1366
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 959, 729
+  size: 426, 1114
+  orig: 426, 1114
+  offset: 0, 0
+  index: -1
+
+P142093.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scarf3
+  rotate: false
+  xy: 2, 739
+  size: 1610, 873
+  orig: 1610, 873
+  offset: 0, 0
+  index: -1
+
+P142094.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1043, 1304
+  orig: 1043, 1304
+  offset: 0, 0
+  index: -1

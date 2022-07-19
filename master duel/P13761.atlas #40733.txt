@@ -1,0 +1,188 @@
+
+P13761.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair
+  rotate: false
+  xy: 1940, 3802
+  size: 804, 292
+  orig: 804, 292
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 2975
+  size: 372, 442
+  orig: 372, 442
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: true
+  xy: 3341, 2303
+  size: 554, 629
+  orig: 554, 629
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1019, 2597
+  size: 328, 349
+  orig: 328, 349
+  offset: 0, 0
+  index: -1
+Lance
+  rotate: false
+  xy: 1049, 3512
+  size: 889, 582
+  orig: 889, 582
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 798, 2651
+  size: 219, 298
+  orig: 219, 298
+  offset: 0, 0
+  index: -1
+LeftForefoot01
+  rotate: true
+  xy: 1938, 2747
+  size: 436, 701
+  orig: 436, 701
+  offset: 0, 0
+  index: -1
+LeftForefoot02
+  rotate: true
+  xy: 3546, 3283
+  size: 319, 479
+  orig: 319, 479
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 873, 3157
+  size: 190, 166
+  orig: 190, 166
+  offset: 0, 0
+  index: -1
+LeftHindLegs01
+  rotate: true
+  xy: 2667, 3001
+  size: 383, 719
+  orig: 383, 719
+  offset: 0, 0
+  index: -1
+LeftHindLegs02
+  rotate: true
+  xy: 3388, 2859
+  size: 422, 706
+  orig: 422, 706
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 1768, 3158
+  size: 352, 168
+  orig: 352, 168
+  offset: 0, 0
+  index: -1
+LeftShoulderArmor
+  rotate: false
+  xy: 1041, 2927
+  size: 412, 266
+  orig: 412, 266
+  offset: 0, 0
+  index: -1
+LeftShoulderArmorBack
+  rotate: false
+  xy: 294, 2668
+  size: 249, 183
+  orig: 249, 183
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 873, 2951
+  size: 204, 142
+  orig: 204, 142
+  offset: 0, 0
+  index: -1
+RightForefoot01
+  rotate: true
+  xy: 1455, 2836
+  size: 357, 303
+  orig: 357, 303
+  offset: 0, 0
+  index: -1
+RightForefoot02
+  rotate: true
+  xy: 3546, 3604
+  size: 490, 538
+  orig: 490, 538
+  offset: 0, 0
+  index: -1
+RightForefootKnee
+  rotate: true
+  xy: 446, 2853
+  size: 251, 350
+  orig: 251, 350
+  offset: 0, 0
+  index: -1
+RightHindLegs01
+  rotate: true
+  xy: 2641, 2645
+  size: 354, 698
+  orig: 354, 698
+  offset: 0, 0
+  index: -1
+RightHindLegs02
+  rotate: true
+  xy: 1049, 3195
+  size: 315, 717
+  orig: 315, 717
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1760, 2900
+  size: 256, 175
+  orig: 256, 175
+  offset: 0, 0
+  index: -1
+RightShoulderArmor
+  rotate: false
+  xy: 2, 2705
+  size: 290, 268
+  orig: 290, 268
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2746, 3386
+  size: 708, 798
+  orig: 708, 798
+  offset: 0, 0
+  index: -1
+Waist01
+  rotate: false
+  xy: 1940, 3185
+  size: 725, 615
+  orig: 725, 615
+  offset: 0, 0
+  index: -1
+Waist02
+  rotate: false
+  xy: 2, 3349
+  size: 1045, 745
+  orig: 1045, 745
+  offset: 0, 0
+  index: -1
+WaistArmor
+  rotate: true
+  xy: 446, 3106
+  size: 241, 425
+  orig: 241, 425
+  offset: 0, 0
+  index: -1

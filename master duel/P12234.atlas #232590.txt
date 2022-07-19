@@ -1,0 +1,198 @@
+
+P12234.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chin
+  rotate: false
+  xy: 1622, 1687
+  size: 126, 278
+  orig: 126, 278
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1336, 412
+  size: 629, 729
+  orig: 629, 729
+  offset: 0, 0
+  index: -1
+HeadFire01
+  rotate: false
+  xy: 987, 1847
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+HeadFire02
+  rotate: false
+  xy: 530, 1871
+  size: 157, 94
+  orig: 157, 94
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 843, 759
+  size: 491, 544
+  orig: 491, 544
+  offset: 0, 0
+  index: -1
+LeftTailFire01
+  rotate: false
+  xy: 1157, 1779
+  size: 177, 186
+  orig: 177, 186
+  offset: 0, 0
+  index: -1
+LeftTailFire02
+  rotate: false
+  xy: 2, 1568
+  size: 851, 279
+  orig: 851, 279
+  offset: 0, 0
+  index: -1
+LeftWingFire01
+  rotate: false
+  xy: 2, 1936
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+LeftWingFire02
+  rotate: false
+  xy: 291, 1876
+  size: 237, 89
+  orig: 237, 89
+  offset: 0, 0
+  index: -1
+LeftWingFire03
+  rotate: false
+  xy: 124, 1919
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+LeftWingFire04
+  rotate: false
+  xy: 177, 1891
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1580, 1143
+  size: 375, 542
+  orig: 375, 542
+  offset: 0, 0
+  index: -1
+RightArmBack
+  rotate: false
+  xy: 855, 1423
+  size: 325, 354
+  orig: 325, 354
+  offset: 0, 0
+  index: -1
+RightTailFire01
+  rotate: false
+  xy: 2, 1035
+  size: 839, 531
+  orig: 839, 531
+  offset: 0, 0
+  index: -1
+RightTailFire02
+  rotate: false
+  xy: 1182, 1305
+  size: 396, 391
+  orig: 396, 391
+  offset: 0, 0
+  index: -1
+RightWingFire01
+  rotate: false
+  xy: 689, 1849
+  size: 296, 116
+  orig: 296, 116
+  offset: 0, 0
+  index: -1
+RightWingFire02
+  rotate: false
+  xy: 54, 1930
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+RightWingFire03
+  rotate: false
+  xy: 1336, 1698
+  size: 284, 267
+  orig: 284, 267
+  offset: 0, 0
+  index: -1
+RightWingFire04
+  rotate: false
+  xy: 1053, 1811
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1
+
+P122342.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 2, 87
+  size: 1343, 1258
+  orig: 1343, 1258
+  offset: 0, 0
+  index: -1
+
+P122343.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightTail
+  rotate: false
+  xy: 2, 2
+  size: 1464, 1710
+  orig: 1464, 1710
+  offset: 0, 0
+  index: -1
+
+P122344.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWing
+  rotate: false
+  xy: 2, 2
+  size: 1289, 1459
+  orig: 1289, 1459
+  offset: 0, 0
+  index: -1
+
+P122345.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 894, 612
+  size: 1006, 1288
+  orig: 1006, 1288
+  offset: 0, 0
+  index: -1
+LeftTail
+  rotate: false
+  xy: 2, 480
+  size: 890, 1420
+  orig: 890, 1420
+  offset: 0, 0
+  index: -1
