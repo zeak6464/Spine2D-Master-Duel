@@ -1,0 +1,48 @@
+
+P12055.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BladeBack
+  rotate: false
+  xy: 2, 466
+  size: 2203, 2468
+  orig: 2203, 2468
+  offset: 0, 0
+  index: -1
+BladeFront
+  rotate: true
+  xy: 519, 61
+  size: 403, 442
+  orig: 403, 442
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1501, 189
+  size: 275, 389
+  orig: 275, 389
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1892, 308
+  size: 156, 214
+  orig: 156, 214
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 2
+  size: 515, 462
+  orig: 515, 462
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 963, 185
+  size: 536, 279
+  orig: 536, 279
+  offset: 0, 0
+  index: -1

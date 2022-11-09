@@ -1,300 +1,104 @@
-
 P15628.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.305
 Goggles
-  rotate: false
-  xy: 680, 642
-  size: 99, 84
-  orig: 99, 84
-  offset: 0, 0
-  index: -1
+bounds:1583,136,99,84
 Hat
-  rotate: false
-  xy: 1029, 726
-  size: 349, 477
-  orig: 349, 477
-  offset: 0, 0
-  index: -1
+bounds:1032,726,349,477
 HatBack
-  rotate: true
-  xy: 2, 26
-  size: 112, 347
-  orig: 112, 347
-  offset: 0, 0
-  index: -1
+bounds:2,26,112,347
+rotate:90
 Jabot
-  rotate: false
-  xy: 1380, 750
-  size: 97, 95
-  orig: 97, 95
-  offset: 0, 0
-  index: -1
+bounds:1484,125,97,95
 KisikilBody
-  rotate: true
-  xy: 1231, 1340
-  size: 251, 608
-  orig: 251, 608
-  offset: 0, 0
-  index: -1
+bounds:1231,1340,251,608
+rotate:90
 KisikilEye1
-  rotate: true
-  xy: 495, 7
-  size: 61, 53
-  orig: 61, 53
-  offset: 0, 0
-  index: -1
+bounds:1989,1157,61,53
+rotate:90
 KisikilEye2
-  rotate: false
-  xy: 554, 80
-  size: 61, 53
-  orig: 61, 53
-  offset: 0, 0
-  index: -1
+bounds:1989,1094,61,53
+rotate:90
 KisikilHair
-  rotate: false
-  xy: 865, 76
-  size: 340, 186
-  orig: 340, 186
-  offset: 0, 0
-  index: -1
+bounds:942,250,340,186
 KisikilHair1
-  rotate: true
-  xy: 1834, 175
-  size: 59, 128
-  orig: 59, 128
-  offset: 0, 0
-  index: -1
+bounds:495,10,59,128
 KisikilHair2
-  rotate: true
-  xy: 1231, 1205
-  size: 133, 111
-  orig: 133, 111
-  offset: 0, 0
-  index: -1
+bounds:1231,1205,133,111
+rotate:90
 KisikilHair3
-  rotate: true
-  xy: 1982, 248
-  size: 45, 64
-  orig: 45, 64
-  offset: 0, 0
-  index: -1
+bounds:2000,1982,45,64
 KisikilHead
-  rotate: false
-  xy: 1382, 107
-  size: 157, 252
-  orig: 157, 252
-  offset: 0, 0
-  index: -1
+bounds:1688,271,157,252
 KisikilLeftLeg
-  rotate: true
-  xy: 560, 135
-  size: 472, 303
-  orig: 472, 303
-  offset: 0, 0
-  index: -1
+bounds:1684,866,472,303
+rotate:90
 KisikilLeftWing
-  rotate: false
-  xy: 2, 140
-  size: 556, 467
-  orig: 556, 467
-  offset: 0, 0
-  index: -1
+bounds:2,140,556,467
 KisikilRibbon
-  rotate: false
-  xy: 1380, 847
-  size: 299, 491
-  orig: 299, 491
-  offset: 0, 0
-  index: -1
+bounds:1383,847,299,491
 KisikilRightArm
-  rotate: false
-  xy: 1207, 95
-  size: 173, 270
-  orig: 173, 270
-  offset: 0, 0
-  index: -1
+bounds:923,75,173,270
+rotate:90
 KisikilRightHand
-  rotate: true
-  xy: 781, 636
-  size: 90, 76
-  orig: 90, 76
-  offset: 0, 0
-  index: -1
+bounds:1484,47,90,76
 KisikilRightLeg
-  rotate: true
-  xy: 1153, 367
-  size: 357, 282
-  orig: 357, 282
-  offset: 0, 0
-  index: -1
+bounds:1404,488,357,282
+rotate:90
 KisikilRightWing
-  rotate: false
-  xy: 2, 1288
-  size: 649, 758
-  orig: 649, 758
-  offset: 0, 0
-  index: -1
+bounds:2,1288,649,758
 KisikilTail
-  rotate: false
-  xy: 1681, 1013
-  size: 365, 325
-  orig: 365, 325
-  offset: 0, 0
-  index: -1
+bounds:575,401,365,325
 LillaBody
-  rotate: false
-  xy: 2, 609
-  size: 568, 677
-  orig: 568, 677
-  offset: 0, 0
-  index: -1
+bounds:2,609,571,677
 LillaEye1
-  rotate: false
-  xy: 1479, 764
-  size: 89, 81
-  orig: 89, 81
-  offset: 0, 0
-  index: -1
+bounds:1688,188,89,81
 LillaEye2
-  rotate: false
-  xy: 1570, 764
-  size: 89, 81
-  orig: 89, 81
-  offset: 0, 0
-  index: -1
+bounds:1779,188,89,81
 LillaHair
-  rotate: false
-  xy: 1982, 295
-  size: 53, 107
-  orig: 53, 107
-  offset: 0, 0
-  index: -1
+bounds:1284,268,53,107
+rotate:90
 LillaHatParts
-  rotate: false
-  xy: 572, 1227
-  size: 70, 59
-  orig: 70, 59
-  offset: 0, 0
-  index: -1
+bounds:575,1227,70,59
 LillaHead
-  rotate: false
-  xy: 1541, 140
-  size: 150, 219
-  orig: 150, 219
-  offset: 0, 0
-  index: -1
+bounds:1847,304,150,219
 LillaHeadParts
-  rotate: true
-  xy: 1841, 1359
-  size: 232, 188
-  orig: 232, 188
-  offset: 0, 0
-  index: -1
+bounds:1841,1359,232,188
+rotate:90
 LillaHeadPartsFront
-  rotate: false
-  xy: 2000, 1990
-  size: 30, 56
-  orig: 30, 56
-  offset: 0, 0
-  index: -1
+bounds:1344,1282,30,56
 LillaLeftLeg
-  rotate: false
-  xy: 653, 1610
-  size: 731, 436
-  orig: 731, 436
-  offset: 0, 0
-  index: -1
+bounds:653,1610,731,436
 LillaLeftWing1
-  rotate: true
-  xy: 1778, 404
-  size: 282, 264
-  orig: 282, 264
-  offset: 0, 0
-  index: -1
+bounds:1404,222,282,264
 LillaLeftWing2
-  rotate: true
-  xy: 1386, 1593
-  size: 453, 612
-  orig: 453, 612
-  offset: 0, 0
-  index: -1
+bounds:1386,1593,453,612
+rotate:90
 LillaRibbon1
-  rotate: false
-  xy: 572, 613
-  size: 106, 113
-  orig: 106, 113
-  offset: 0, 0
-  index: -1
+bounds:1284,323,106,113
 LillaRibbon2
-  rotate: false
-  xy: 865, 264
-  size: 286, 460
-  orig: 286, 460
-  offset: 0, 0
-  index: -1
+bounds:942,438,286,460
+rotate:90
 LillaRibbon3
-  rotate: false
-  xy: 1681, 688
-  size: 361, 323
-  orig: 361, 323
-  offset: 0, 0
-  index: -1
+bounds:560,76,361,323
 LillaRibbon4
-  rotate: false
-  xy: 1834, 236
-  size: 146, 166
-  orig: 146, 166
-  offset: 0, 0
-  index: -1
+bounds:1336,54,146,166
 LillaRightBodyBack
-  rotate: true
-  xy: 351, 6
-  size: 132, 142
-  orig: 132, 142
-  offset: 0, 0
-  index: -1
+bounds:351,6,132,142
+rotate:90
 LillaRightHand
-  rotate: true
-  xy: 495, 70
-  size: 68, 57
-  orig: 68, 57
-  offset: 0, 0
-  index: -1
+bounds:1989,1289,68,57
+rotate:90
 LillaRightHandBack
-  rotate: false
-  xy: 1153, 298
-  size: 51, 67
-  orig: 51, 67
-  offset: 0, 0
-  index: -1
+bounds:1989,1220,51,67
 LillaRightLeg
-  rotate: false
-  xy: 572, 728
-  size: 455, 475
-  orig: 455, 475
-  offset: 0, 0
-  index: -1
+bounds:575,728,455,475
 LillaRightWing
-  rotate: false
-  xy: 653, 1205
-  size: 576, 403
-  orig: 576, 403
-  offset: 0, 0
-  index: -1
+bounds:653,1205,576,403
 LillaShoulderBack
-  rotate: false
-  xy: 1693, 134
-  size: 139, 225
-  orig: 139, 225
-  offset: 0, 0
-  index: -1
+bounds:1195,23,139,225
 LillaTail
-  rotate: false
-  xy: 1437, 361
-  size: 339, 325
-  orig: 339, 325
-  offset: 0, 0
-  index: -1
+bounds:1688,525,339,325
+rotate:90

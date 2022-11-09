@@ -1,321 +1,133 @@
-
 P16198.png
-size: 4096,4096
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.812
 Belt
-  rotate: false
-  xy: 1369, 3278
-  size: 458, 405
-  orig: 458, 405
-  offset: 0, 0
-  index: -1
-Body
-  rotate: false
-  xy: 996, 1528
-  size: 1144, 1011
-  orig: 1144, 1011
-  offset: 0, 0
-  index: -1
+bounds:417,878,458,405
 BodyBack
-  rotate: false
-  xy: 1829, 3166
-  size: 738, 464
-  orig: 738, 464
-  offset: 0, 0
-  index: -1
+bounds:2,412,738,464
 Effect1
-  rotate: true
-  xy: 3151, 3518
-  size: 370, 374
-  orig: 370, 374
-  offset: 0, 0
-  index: -1
+bounds:1175,1114,370,374
+rotate:90
 Effect2
-  rotate: true
-  xy: 2, 3431
-  size: 374, 413
-  orig: 374, 413
-  offset: 0, 0
-  index: -1
+bounds:2,969,374,413
+rotate:90
 Effect3
-  rotate: true
-  xy: 3527, 3513
-  size: 373, 374
-  orig: 373, 374
-  offset: 0, 0
-  index: -1
+bounds:1551,1082,373,374
+rotate:90
 Hair1
-  rotate: true
-  xy: 1912, 3935
-  size: 146, 192
-  orig: 146, 192
-  offset: 0, 0
-  index: -1
+bounds:2,1830,146,192
+rotate:90
 Hair1Back
-  rotate: false
-  xy: 1978, 3670
-  size: 574, 245
-  orig: 574, 245
-  offset: 0, 0
-  index: -1
+bounds:2,1345,574,245
 Hair2
-  rotate: true
-  xy: 1224, 3974
-  size: 107, 252
-  orig: 107, 252
-  offset: 0, 0
-  index: -1
+bounds:1224,1934,107,252
+rotate:90
 Hair3
-  rotate: true
-  xy: 743, 3999
-  size: 82, 183
-  orig: 82, 183
-  offset: 0, 0
-  index: -1
+bounds:743,1959,82,183
+rotate:90
 Hair4
-  rotate: false
-  xy: 2606, 3911
-  size: 313, 170
-  orig: 313, 170
-  offset: 0, 0
-  index: -1
-Hair5
-  rotate: true
-  xy: 2, 1704
-  size: 1031, 992
-  orig: 1031, 992
-  offset: 0, 0
-  index: -1
+bounds:696,1785,313,170
 Hair5Back
-  rotate: true
-  xy: 2554, 3632
-  size: 277, 297
-  orig: 277, 297
-  offset: 0, 0
-  index: -1
+bounds:578,1285,277,297
+rotate:90
 Hat
-  rotate: false
-  xy: 2569, 2978
-  size: 739, 538
-  orig: 739, 538
-  offset: 0, 0
-  index: -1
+bounds:742,182,739,538
 HatBack1
-  rotate: true
-  xy: 158, 4018
-  size: 63, 114
-  orig: 63, 114
-  offset: 0, 0
-  index: -1
+bounds:158,1978,63,114
+rotate:90
 HatBack2
-  rotate: false
-  xy: 928, 3997
-  size: 151, 84
-  orig: 151, 84
-  offset: 0, 0
-  index: -1
+bounds:928,1957,151,84
 HatBack3
-  rotate: true
-  xy: 642, 4000
-  size: 81, 99
-  orig: 81, 99
-  offset: 0, 0
-  index: -1
+bounds:642,1960,81,99
+rotate:90
 HatRope
-  rotate: true
-  xy: 274, 4007
-  size: 74, 271
-  orig: 74, 271
-  offset: 0, 0
-  index: -1
+bounds:274,1967,74,271
+rotate:90
 Head
-  rotate: true
-  xy: 3511, 3890
-  size: 191, 235
-  orig: 191, 235
-  offset: 0, 0
-  index: -1
+bounds:1601,1709,191,235
+rotate:90
 HeadBack
-  rotate: true
-  xy: 1081, 3992
-  size: 89, 141
-  orig: 89, 141
-  offset: 0, 0
-  index: -1
+bounds:1081,1952,89,141
+rotate:90
 HeadParts
-  rotate: true
-  xy: 2, 4031
-  size: 50, 154
-  orig: 50, 154
-  offset: 0, 0
-  index: -1
+bounds:2,1991,50,154
+rotate:90
 LeftArm
-  rotate: false
-  xy: 417, 3401
-  size: 950, 358
-  orig: 950, 358
-  offset: 0, 0
-  index: -1
+bounds:877,722,950,358
 LeftArmBack
-  rotate: false
-  xy: 2921, 3902
-  size: 188, 179
-  orig: 188, 179
-  offset: 0, 0
-  index: -1
+bounds:1011,1771,188,179
 LeftFoot
-  rotate: true
-  xy: 3111, 3899
-  size: 182, 208
-  orig: 182, 208
-  offset: 0, 0
-  index: -1
+bounds:1201,1750,182,208
+rotate:90
 Petal1
-  rotate: false
-  xy: 2106, 3922
-  size: 163, 159
-  orig: 163, 159
-  offset: 0, 0
-  index: -1
+bounds:196,1806,163,159
 Petal10
-  rotate: true
-  xy: 3748, 3888
-  size: 193, 203
-  orig: 193, 203
-  offset: 0, 0
-  index: -1
+bounds:1838,1707,193,203
+rotate:90
 Petal11
-  rotate: false
-  xy: 211, 3807
-  size: 204, 198
-  orig: 204, 198
-  offset: 0, 0
-  index: -1
+bounds:211,1604,204,198
 Petal12
-  rotate: false
-  xy: 1703, 3685
-  size: 273, 248
-  orig: 273, 248
-  offset: 0, 0
-  index: -1
+bounds:1730,1457,273,248
 Petal13
-  rotate: false
-  xy: 2, 3819
-  size: 207, 197
-  orig: 207, 197
-  offset: 0, 0
-  index: -1
+bounds:2,1607,207,197
 Petal2
-  rotate: false
-  xy: 857, 3790
-  size: 205, 205
-  orig: 205, 205
-  offset: 0, 0
-  index: -1
+bounds:857,1564,205,205
 Petal3
-  rotate: false
-  xy: 634, 3795
-  size: 221, 202
-  orig: 221, 202
-  offset: 0, 0
-  index: -1
+bounds:634,1581,221,202
 Petal4
-  rotate: true
-  xy: 1480, 3719
-  size: 248, 221
-  orig: 248, 221
-  offset: 0, 0
-  index: -1
+bounds:1480,1486,248,221
 Petal5
-  rotate: true
-  xy: 2271, 3920
-  size: 161, 165
-  orig: 161, 165
-  offset: 0, 0
-  index: -1
+bounds:361,1804,161,165
+rotate:90
 Petal6
-  rotate: true
-  xy: 2438, 3917
-  size: 164, 166
-  orig: 164, 166
-  offset: 0, 0
-  index: -1
+bounds:528,1794,164,166
+rotate:90
 Petal7
-  rotate: false
-  xy: 547, 4003
-  size: 93, 78
-  orig: 93, 78
-  offset: 0, 0
-  index: -1
+bounds:547,1963,93,78
 Petal8
-  rotate: true
-  xy: 3321, 3895
-  size: 186, 188
-  orig: 186, 188
-  offset: 0, 0
-  index: -1
+bounds:1411,1741,186,188
+rotate:90
 Petal9
-  rotate: false
-  xy: 417, 3801
-  size: 215, 200
-  orig: 215, 200
-  offset: 0, 0
-  index: -1
-RightArm
-  rotate: false
-  xy: 997, 2541
-  size: 1366, 623
-  orig: 1366, 623
-  offset: 0, 0
-  index: -1
+bounds:417,1592,215,200
 RightArmBack
-  rotate: true
-  xy: 2853, 3613
-  size: 284, 296
-  orig: 284, 296
-  offset: 0, 0
-  index: -1
+bounds:877,1247,284,296
+rotate:90
 RightFoot
-  rotate: true
-  xy: 1064, 3761
-  size: 206, 414
-  orig: 206, 414
-  offset: 0, 0
-  index: -1
-Skirt
-  rotate: false
-  xy: 2365, 1956
-  size: 1163, 965
-  orig: 1163, 965
-  offset: 0, 0
-  index: -1
+bounds:1064,1533,206,414
+rotate:90
 SwordBack
-  rotate: false
-  xy: 1478, 3969
-  size: 226, 112
-  orig: 226, 112
-  offset: 0, 0
-  index: -1
-WaistCloth
-  rotate: false
-  xy: 2, 2737
-  size: 993, 662
-  orig: 993, 662
-  offset: 0, 0
-  index: -1
+bounds:1478,1929,226,112
 WaistClothBack1
-  rotate: false
-  xy: 1706, 3942
-  size: 204, 139
-  orig: 204, 139
-  offset: 0, 0
-  index: -1
+bounds:1706,1902,204,139
+
+P16198_2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.812
+RightArm
+bounds:2,481,1366,623
+WaistCloth
+bounds:775,1106,993,662
 WaistClothBack2
-  rotate: false
-  xy: 3310, 2923
-  size: 771, 588
-  orig: 771, 588
-  offset: 0, 0
-  index: -1
+bounds:2,1180,771,588
+
+P16198_3.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.812
+Hair5
+bounds:2,2,1031,992
+Skirt
+bounds:2,996,1163,965
+
+P16198_4.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.812
+Body
+bounds:2,135,1144,1011

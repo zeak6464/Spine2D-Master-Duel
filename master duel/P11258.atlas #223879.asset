@@ -1,0 +1,97 @@
+
+P11258.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair
+  rotate: false
+  xy: 2, 1939
+  size: 252, 103
+  orig: 252, 174
+  offset: 0, 20
+  index: -1
+Body
+  rotate: true
+  xy: 2, 1262
+  size: 270, 1071
+  orig: 270, 1072
+  offset: 0, 0
+  index: -1
+Dragon
+  rotate: false
+  xy: 256, 1903
+  size: 188, 139
+  orig: 194, 145
+  offset: 4, 2
+  index: -1
+DragonYarnUp1
+  rotate: true
+  xy: 760, 1805
+  size: 237, 300
+  orig: 237, 300
+  offset: 0, 0
+  index: -1
+DragonYarnUp2
+  rotate: true
+  xy: 2, 1647
+  size: 254, 275
+  orig: 256, 276
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 446, 1892
+  size: 156, 150
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1062, 1796
+  size: 246, 382
+  orig: 246, 382
+  offset: 0, 0
+  index: -1
+LeftSkirt
+  rotate: true
+  xy: 854, 1534
+  size: 260, 573
+  orig: 263, 573
+  offset: 3, 0
+  index: -1
+LeftYarm
+  rotate: true
+  xy: 2, 483
+  size: 777, 984
+  orig: 777, 984
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 604, 1892
+  size: 154, 150
+  orig: 155, 150
+  offset: 1, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 1446, 1796
+  size: 246, 382
+  orig: 246, 382
+  offset: 0, 0
+  index: -1
+RightSkirt
+  rotate: true
+  xy: 279, 1544
+  size: 259, 573
+  orig: 260, 573
+  offset: 0, 0
+  index: -1
+RightYarm
+  rotate: true
+  xy: 1075, 789
+  size: 743, 967
+  orig: 743, 967
+  offset: 0, 0
+  index: -1

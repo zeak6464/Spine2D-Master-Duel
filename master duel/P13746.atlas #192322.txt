@@ -1,0 +1,137 @@
+
+P13746.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackLoincloth
+  rotate: false
+  xy: 2, 421
+  size: 2195, 1473
+  orig: 2195, 1473
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2203, 1528
+  size: 1128, 1601
+  orig: 1128, 1601
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1007, 3580
+  size: 501, 454
+  orig: 501, 454
+  offset: 0, 0
+  index: -1
+LeftArm1
+  rotate: false
+  xy: 3424, 2905
+  size: 610, 1129
+  orig: 610, 1129
+  offset: 0, 0
+  index: -1
+LeftArm2
+  rotate: false
+  xy: 1510, 3562
+  size: 636, 472
+  orig: 636, 472
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 764, 2239
+  size: 818, 1321
+  orig: 818, 1321
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 606, 3590
+  size: 399, 444
+  orig: 399, 444
+  offset: 0, 0
+  index: -1
+LeftKnee
+  rotate: false
+  xy: 2, 3742
+  size: 154, 292
+  orig: 154, 292
+  offset: 0, 0
+  index: -1
+RightArm1
+  rotate: false
+  xy: 2966, 3131
+  size: 456, 903
+  orig: 456, 903
+  offset: 0, 0
+  index: -1
+RightArm2
+  rotate: false
+  xy: 2492, 3353
+  size: 472, 681
+  orig: 472, 681
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 2, 2426
+  size: 760, 1162
+  orig: 760, 1162
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 158, 3691
+  size: 446, 343
+  orig: 446, 343
+  offset: 0, 0
+  index: -1
+RightLoincloth
+  rotate: false
+  xy: 1584, 1896
+  size: 617, 1573
+  orig: 617, 1573
+  offset: 0, 0
+  index: -1
+WaistParts
+  rotate: false
+  xy: 2148, 3471
+  size: 342, 563
+  orig: 342, 563
+  offset: 0, 0
+  index: -1
+
+P137462.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HairMant
+  rotate: false
+  xy: 1645, 1520
+  size: 2298, 2423
+  orig: 2298, 2423
+  offset: 0, 0
+  index: -1
+LeftLoincloth
+  rotate: false
+  xy: 2, 2230
+  size: 1641, 1713
+  orig: 1641, 1713
+  offset: 0, 0
+  index: -1
+
+P137463.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon
+  rotate: false
+  xy: 2, 1727
+  size: 3518, 1793
+  orig: 3518, 1793
+  offset: 0, 0
+  index: -1

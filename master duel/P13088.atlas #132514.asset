@@ -1,0 +1,118 @@
+
+P13088.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackMuffler
+  rotate: false
+  xy: 365, 552
+  size: 172, 84
+  orig: 172, 84
+  offset: 0, 0
+  index: -1
+Bang
+  rotate: false
+  xy: 493, 156
+  size: 145, 149
+  orig: 145, 149
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 945, 1041
+  size: 303, 399
+  orig: 303, 399
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 1135, 995
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 1220, 995
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+Eye_3
+  rotate: false
+  xy: 539, 592
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+FrontMuffler
+  rotate: false
+  xy: 945, 953
+  size: 188, 86
+  orig: 188, 86
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 731, 461
+  size: 201, 175
+  orig: 201, 175
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 731, 116
+  size: 220, 227
+  orig: 220, 227
+  offset: 0, 0
+  index: -1
+LeftMuffler
+  rotate: true
+  xy: 2, 96
+  size: 451, 489
+  orig: 451, 489
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 365, 947
+  size: 397, 578
+  orig: 397, 578
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 493, 307
+  size: 243, 236
+  orig: 243, 236
+  offset: 0, 0
+  index: -1
+RightMuffler
+  rotate: true
+  xy: 365, 638
+  size: 307, 664
+  orig: 307, 664
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 1031, 338
+  size: 264, 613
+  orig: 264, 613
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 2, 549
+  size: 361, 795
+  orig: 361, 795
+  offset: 0, 0
+  index: -1
+Tasset
+  rotate: true
+  xy: 731, 358
+  size: 101, 152
+  orig: 101, 152
+  offset: 0, 0
+  index: -1
