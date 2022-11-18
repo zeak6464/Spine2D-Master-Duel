@@ -1,0 +1,125 @@
+
+P13090.png
+size: 4026,1650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HorseBody
+  rotate: true
+  xy: 1841, 694
+  size: 954, 882
+  orig: 974, 902
+  offset: 10, 10
+  index: -1
+HorseHead
+  rotate: true
+  xy: 3086, 912
+  size: 736, 861
+  orig: 760, 871
+  offset: 14, 5
+  index: -1
+HorseLeftArm
+  rotate: false
+  xy: 3534, 107
+  size: 490, 803
+  orig: 491, 824
+  offset: 0, 10
+  index: -1
+HorseLeftLeg
+  rotate: false
+  xy: 1378, 629
+  size: 461, 1019
+  orig: 488, 1033
+  offset: 14, 3
+  index: -1
+HorseRightArm
+  rotate: false
+  xy: 2372, 95
+  size: 712, 597
+  orig: 725, 600
+  offset: 5, 0
+  index: -1
+HorseRightLeg
+  rotate: false
+  xy: 2, 476
+  size: 777, 1172
+  orig: 813, 1177
+  offset: 10, 0
+  index: -1
+HorseTail
+  rotate: false
+  xy: 2, 2
+  size: 707, 472
+  orig: 731, 516
+  offset: 15, 31
+  index: -1
+KnightBody
+  rotate: true
+  xy: 711, 3
+  size: 471, 723
+  orig: 486, 740
+  offset: 8, 10
+  index: -1
+KnightLeftArm
+  rotate: false
+  xy: 3086, 23
+  size: 183, 419
+  orig: 203, 439
+  offset: 10, 10
+  index: -1
+KnightLeftLance
+  rotate: false
+  xy: 1436, 5
+  size: 542, 622
+  orig: 562, 642
+  offset: 10, 10
+  index: -1
+KnightLeftLeg
+  rotate: true
+  xy: 2725, 694
+  size: 216, 573
+  orig: 236, 593
+  offset: 10, 10
+  index: -1
+KnightRightArm
+  rotate: false
+  xy: 1980, 73
+  size: 390, 619
+  orig: 402, 627
+  offset: 6, 5
+  index: -1
+KnightRightLance
+  rotate: true
+  xy: 781, 566
+  size: 1082, 595
+  orig: 1093, 630
+  offset: 7, 14
+  index: -1
+KnightRightLeg
+  rotate: false
+  xy: 3300, 69
+  size: 232, 841
+  orig: 252, 861
+  offset: 10, 10
+  index: -1
+KnightRightThigh
+  rotate: true
+  xy: 2725, 1200
+  size: 448, 236
+  orig: 468, 256
+  offset: 10, 10
+  index: -1
+KnightTasset
+  rotate: true
+  xy: 3086, 444
+  size: 248, 206
+  orig: 255, 218
+  offset: 1, 5
+  index: -1
+KnightTassetBack
+  rotate: true
+  xy: 2725, 962
+  size: 236, 226
+  orig: 256, 246
+  offset: 10, 10
+  index: -1
