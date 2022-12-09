@@ -1,0 +1,167 @@
+
+P9824.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBody
+  rotate: true
+  xy: 1513, 2763
+  size: 517, 491
+  orig: 517, 491
+  offset: 0, 0
+  index: -1
+BackBodyTasset
+  rotate: true
+  xy: 1013, 1792
+  size: 367, 489
+  orig: 367, 489
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: true
+  xy: 2, 42
+  size: 1669, 2178
+  orig: 1669, 2178
+  offset: 0, 0
+  index: -1
+FrontBody
+  rotate: true
+  xy: 1013, 3282
+  size: 739, 1092
+  orig: 739, 1092
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3125, 3251
+  size: 266, 511
+  orig: 266, 511
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2827, 2978
+  size: 435, 271
+  orig: 435, 271
+  offset: 0, 0
+  index: -1
+LeftArmTasset
+  rotate: true
+  xy: 3723, 3555
+  size: 344, 298
+  orig: 344, 298
+  offset: 0, 0
+  index: -1
+LeftFrontCloak
+  rotate: true
+  xy: 2827, 3764
+  size: 257, 605
+  orig: 257, 605
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 1513, 1805
+  size: 427, 956
+  orig: 427, 956
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2827, 3262
+  size: 296, 500
+  orig: 296, 500
+  offset: 0, 0
+  index: -1
+LeftShoulderCloak
+  rotate: true
+  xy: 1013, 2730
+  size: 550, 498
+  orig: 550, 498
+  offset: 0, 0
+  index: -1
+LeftShoulderTasset
+  rotate: false
+  xy: 3393, 3284
+  size: 328, 478
+  orig: 328, 478
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 2753, 2302
+  size: 302, 739
+  orig: 302, 739
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1942, 1731
+  size: 372, 825
+  orig: 372, 825
+  offset: 0, 0
+  index: -1
+RightFrontCloak
+  rotate: true
+  xy: 2753, 2606
+  size: 351, 638
+  orig: 351, 638
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1942, 2105
+  size: 399, 378
+  orig: 399, 378
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 2107, 2959
+  size: 718, 1062
+  orig: 718, 1062
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 2343, 2188
+  size: 371, 295
+  orig: 371, 295
+  offset: 0, 0
+  index: -1
+RightShoulderCloak
+  rotate: false
+  xy: 1013, 2161
+  size: 408, 567
+  orig: 408, 567
+  offset: 0, 0
+  index: -1
+RightShoulderTasset
+  rotate: true
+  xy: 3393, 2996
+  size: 286, 436
+  orig: 286, 436
+  offset: 0, 0
+  index: -1
+RightShoulderTassetBack
+  rotate: true
+  xy: 3434, 3901
+  size: 120, 331
+  orig: 120, 331
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 2006, 2485
+  size: 472, 745
+  orig: 472, 745
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 2, 1713
+  size: 1009, 2308
+  orig: 1009, 2308
+  offset: 0, 0
+  index: -1

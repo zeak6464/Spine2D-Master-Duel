@@ -1,0 +1,97 @@
+
+P6344.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackWing
+  rotate: true
+  xy: 994, 1791
+  size: 845, 1453
+  orig: 845, 1453
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 1730
+  size: 990, 2224
+  orig: 990, 2224
+  offset: 0, 0
+  index: -1
+DragonChin
+  rotate: true
+  xy: 2449, 1877
+  size: 812, 829
+  orig: 812, 829
+  offset: 0, 0
+  index: -1
+DragonEffect
+  rotate: true
+  xy: 2335, 2691
+  size: 884, 895
+  orig: 884, 895
+  offset: 0, 0
+  index: -1
+DragonEffect02
+  rotate: false
+  xy: 3760, 3651
+  size: 194, 303
+  orig: 194, 303
+  offset: 0, 0
+  index: -1
+DragonHead
+  rotate: false
+  xy: 1418, 920
+  size: 1079, 869
+  orig: 1079, 869
+  offset: 0, 0
+  index: -1
+DragonTail
+  rotate: false
+  xy: 2499, 936
+  size: 613, 939
+  orig: 613, 939
+  offset: 0, 0
+  index: -1
+FrontWing
+  rotate: true
+  xy: 2, 382
+  size: 1346, 1414
+  orig: 1346, 1414
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 3114, 1566
+  size: 309, 543
+  orig: 309, 543
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3232, 2817
+  size: 621, 758
+  orig: 621, 758
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 2499, 569
+  size: 365, 754
+  orig: 365, 754
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2335, 3577
+  size: 377, 1423
+  orig: 377, 1423
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 994, 2638
+  size: 1339, 1316
+  orig: 1339, 1316
+  offset: 0, 0
+  index: -1

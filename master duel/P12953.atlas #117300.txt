@@ -1,0 +1,110 @@
+
+P12953.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 3541
+  size: 304, 620
+  orig: 304, 620
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1465, 3522
+  size: 465, 323
+  orig: 465, 323
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1932, 3476
+  size: 369, 412
+  orig: 369, 412
+  offset: 0, 0
+  index: -1
+LeftBlade
+  rotate: true
+  xy: 2723, 1816
+  size: 1544, 1122
+  orig: 1544, 1122
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2888, 3362
+  size: 483, 904
+  orig: 483, 904
+  offset: 0, 0
+  index: -1
+LeftThorn
+  rotate: false
+  xy: 624, 3528
+  size: 351, 317
+  orig: 351, 317
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2346, 3391
+  size: 540, 454
+  orig: 540, 454
+  offset: 0, 0
+  index: -1
+RightBlade
+  rotate: false
+  xy: 895, 2335
+  size: 1826, 1054
+  orig: 1826, 1054
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2, 2894
+  size: 632, 891
+  orig: 632, 891
+  offset: 0, 0
+  index: -1
+RightThorn
+  rotate: false
+  xy: 977, 3524
+  size: 486, 321
+  orig: 486, 321
+  offset: 0, 0
+  index: -1
+Tail01
+  rotate: false
+  xy: 2, 953
+  size: 1809, 1380
+  orig: 1809, 1380
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 1813, 305
+  size: 1756, 1509
+  orig: 1756, 1509
+  offset: 0, 0
+  index: -1
+
+P129532.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 2, 2
+  size: 1971, 1782
+  orig: 1971, 1782
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 1786
+  size: 2315, 1709
+  orig: 2315, 1709
+  offset: 0, 0
+  index: -1

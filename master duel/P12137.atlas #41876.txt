@@ -1,0 +1,201 @@
+
+P12137.png
+size: 2229,2229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belly
+  rotate: false
+  xy: 742, 1060
+  size: 538, 606
+  orig: 555, 622
+  offset: 8, 8
+  index: -1
+Body1
+  rotate: false
+  xy: 1065, 66
+  size: 188, 301
+  orig: 205, 318
+  offset: 9, 9
+  index: -1
+Body2
+  rotate: false
+  xy: 1717, 293
+  size: 438, 412
+  orig: 455, 429
+  offset: 9, 8
+  index: -1
+CentralParts
+  rotate: false
+  xy: 699, 1668
+  size: 920, 559
+  orig: 937, 579
+  offset: 9, 8
+  index: -1
+Electrical1
+  rotate: false
+  xy: 364, 485
+  size: 376, 796
+  orig: 400, 820
+  offset: 12, 12
+  index: -1
+Electrical2
+  rotate: false
+  xy: 1635, 707
+  size: 443, 419
+  orig: 468, 443
+  offset: 13, 12
+  index: -1
+Electrical3
+  rotate: false
+  xy: 742, 369
+  size: 432, 689
+  orig: 456, 713
+  offset: 12, 12
+  index: -1
+LeftArm
+  rotate: false
+  xy: 186, 26
+  size: 158, 172
+  orig: 171, 187
+  offset: 7, 8
+  index: -1
+LeftFoot1
+  rotate: false
+  xy: 1765, 123
+  size: 135, 168
+  orig: 152, 182
+  offset: 9, 8
+  index: -1
+LeftFoot2
+  rotate: false
+  xy: 1255, 8
+  size: 303, 376
+  orig: 318, 389
+  offset: 6, 8
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1477, 1117
+  size: 72, 173
+  orig: 89, 189
+  offset: 8, 8
+  index: -1
+LeftParts
+  rotate: false
+  xy: 2, 1283
+  size: 695, 944
+  orig: 711, 964
+  offset: 8, 8
+  index: -1
+LeftThighs
+  rotate: false
+  xy: 1282, 1076
+  size: 193, 214
+  orig: 209, 230
+  offset: 8, 8
+  index: -1
+LowerChin
+  rotate: false
+  xy: 1282, 1292
+  size: 320, 374
+  orig: 332, 380
+  offset: 8, 4
+  index: -1
+Neck
+  rotate: false
+  xy: 1176, 584
+  size: 457, 474
+  orig: 475, 492
+  offset: 9, 9
+  index: -1
+Pipe
+  rotate: false
+  xy: 1560, 27
+  size: 203, 264
+  orig: 217, 279
+  offset: 7, 7
+  index: -1
+RightArm
+  rotate: false
+  xy: 2, 2
+  size: 182, 196
+  orig: 198, 212
+  offset: 8, 8
+  index: -1
+RightFoot1
+  rotate: false
+  xy: 1902, 131
+  size: 131, 160
+  orig: 149, 177
+  offset: 9, 9
+  index: -1
+RightFoot2
+  rotate: false
+  xy: 2035, 142
+  size: 126, 149
+  orig: 141, 165
+  offset: 9, 8
+  index: -1
+RightFoot3
+  rotate: false
+  xy: 364, 50
+  size: 350, 433
+  orig: 364, 450
+  offset: 8, 8
+  index: -1
+RightHand
+  rotate: false
+  xy: 1765, 28
+  size: 145, 93
+  orig: 163, 110
+  offset: 9, 9
+  index: -1
+RightParts
+  rotate: false
+  xy: 2, 200
+  size: 360, 1081
+  orig: 376, 1101
+  offset: 8, 8
+  index: -1
+RightThighs
+  rotate: false
+  xy: 716, 7
+  size: 347, 360
+  orig: 362, 372
+  offset: 8, 6
+  index: -1
+RightWing
+  rotate: false
+  xy: 1176, 386
+  size: 539, 196
+  orig: 555, 212
+  offset: 8, 8
+  index: -1
+Tail
+  rotate: false
+  xy: 1621, 1515
+  size: 572, 712
+  orig: 588, 729
+  offset: 8, 9
+  index: -1
+UpperChin
+  rotate: false
+  xy: 1604, 1128
+  size: 524, 385
+  orig: 540, 402
+  offset: 8, 8
+  index: -1
+
+P121372.png
+size: 2613,2613
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke/smoke
+  rotate: false
+  xy: 2, 2
+  size: 2410, 2609
+  orig: 2410, 2609
+  offset: 0, 0
+  index: -1

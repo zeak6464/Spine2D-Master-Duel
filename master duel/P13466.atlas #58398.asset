@@ -1,0 +1,69 @@
+
+P13466.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 545
+  size: 513, 720
+  orig: 513, 720
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 694, 1294
+  size: 182, 297
+  orig: 182, 297
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 2
+  size: 461, 541
+  orig: 461, 541
+  offset: 0, 0
+  index: -1
+LeftWing01
+  rotate: false
+  xy: 517, 559
+  size: 417, 706
+  orig: 417, 706
+  offset: 0, 0
+  index: -1
+LeftWing02
+  rotate: false
+  xy: 465, 59
+  size: 484, 484
+  orig: 484, 484
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1011, 1621
+  size: 316, 344
+  orig: 316, 344
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 694, 1593
+  size: 315, 372
+  orig: 315, 372
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 936, 694
+  size: 411, 897
+  orig: 411, 897
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 1267
+  size: 690, 698
+  orig: 690, 698
+  offset: 0, 0
+  index: -1

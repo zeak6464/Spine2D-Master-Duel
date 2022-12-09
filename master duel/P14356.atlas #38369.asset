@@ -1,0 +1,118 @@
+
+P14356.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1011, 620
+  size: 509, 493
+  orig: 509, 493
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 647, 704
+  size: 125, 53
+  orig: 125, 53
+  offset: 0, 0
+  index: -1
+BodyCloak
+  rotate: true
+  xy: 2, 454
+  size: 468, 261
+  orig: 468, 261
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 2, 924
+  size: 1007, 788
+  orig: 1007, 788
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 2, 231
+  size: 210, 221
+  orig: 210, 221
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 265, 657
+  size: 252, 265
+  orig: 252, 265
+  offset: 0, 0
+  index: -1
+Jabot
+  rotate: true
+  xy: 829, 621
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+LeftCoat
+  rotate: true
+  xy: 664, 376
+  size: 326, 163
+  orig: 326, 163
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 497, 474
+  size: 181, 165
+  orig: 181, 165
+  offset: 0, 0
+  index: -1
+LeftHandBack
+  rotate: true
+  xy: 519, 660
+  size: 97, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 2
+  size: 227, 186
+  orig: 227, 186
+  offset: 0, 0
+  index: -1
+MonocleParts
+  rotate: false
+  xy: 190, 56
+  size: 67, 173
+  orig: 67, 173
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 497, 275
+  size: 121, 197
+  orig: 121, 197
+  offset: 0, 0
+  index: -1
+RightCoat
+  rotate: true
+  xy: 265, 158
+  size: 497, 230
+  orig: 497, 230
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 519, 759
+  size: 163, 386
+  orig: 163, 386
+  offset: 0, 0
+  index: -1
+UnderBody
+  rotate: false
+  xy: 1011, 1131
+  size: 499, 581
+  orig: 499, 581
+  offset: 0, 0
+  index: -1

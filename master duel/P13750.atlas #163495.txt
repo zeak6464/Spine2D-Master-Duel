@@ -1,0 +1,69 @@
+
+P13750.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chin
+  rotate: true
+  xy: 2, 1756
+  size: 55, 181
+  orig: 55, 181
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1252, 1307
+  size: 559, 504
+  orig: 559, 504
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 767, 1474
+  size: 483, 337
+  orig: 483, 337
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 222
+  size: 746, 745
+  orig: 746, 745
+  offset: 0, 0
+  index: -1
+LowerBody
+  rotate: false
+  xy: 2, 969
+  size: 807, 503
+  orig: 807, 503
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 473, 1528
+  size: 283, 292
+  orig: 283, 292
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 811, 715
+  size: 590, 909
+  orig: 590, 909
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 750, 78
+  size: 1051, 635
+  orig: 1051, 635
+  offset: 0, 0
+  index: -1
+UpperBody
+  rotate: false
+  xy: 185, 1574
+  size: 286, 237
+  orig: 286, 237
+  offset: 0, 0
+  index: -1

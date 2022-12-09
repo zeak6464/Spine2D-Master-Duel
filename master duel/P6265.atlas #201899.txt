@@ -1,0 +1,83 @@
+
+P6265.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBody
+  rotate: false
+  xy: 995, 1734
+  size: 242, 188
+  orig: 242, 188
+  offset: 0, 0
+  index: -1
+FrontBody
+  rotate: false
+  xy: 1420, 1009
+  size: 502, 703
+  orig: 502, 703
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 216, 1762
+  size: 160, 313
+  orig: 160, 313
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1510, 1714
+  size: 208, 317
+  orig: 208, 317
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 400, 1336
+  size: 526, 419
+  orig: 526, 419
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 2, 1777
+  size: 145, 212
+  orig: 145, 212
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1239, 1718
+  size: 269, 204
+  orig: 269, 204
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 531, 1757
+  size: 165, 462
+  orig: 165, 462
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 928, 1284
+  size: 490, 432
+  orig: 490, 432
+  offset: 0, 0
+  index: -1
+Tail_01
+  rotate: false
+  xy: 2, 1384
+  size: 396, 376
+  orig: 396, 376
+  offset: 0, 0
+  index: -1
+Tail_02
+  rotate: false
+  xy: 2, 779
+  size: 776, 555
+  orig: 776, 555
+  offset: 0, 0
+  index: -1

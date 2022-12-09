@@ -1,0 +1,48 @@
+
+P14180.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barrel01
+  rotate: false
+  xy: 905, 975
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+Barrel01Back
+  rotate: false
+  xy: 771, 37
+  size: 158, 89
+  orig: 158, 89
+  offset: 0, 0
+  index: -1
+Barrel02
+  rotate: false
+  xy: 578, 31
+  size: 191, 95
+  orig: 191, 95
+  offset: 0, 0
+  index: -1
+Barrel02Back
+  rotate: false
+  xy: 372, 31
+  size: 204, 95
+  orig: 204, 95
+  offset: 0, 0
+  index: -1
+Barrel03
+  rotate: false
+  xy: 2, 2
+  size: 368, 124
+  orig: 368, 124
+  offset: 0, 0
+  index: -1
+Tank
+  rotate: false
+  xy: 2, 128
+  size: 901, 936
+  orig: 901, 936
+  offset: 0, 0
+  index: -1

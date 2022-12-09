@@ -1,0 +1,48 @@
+
+P13595.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 1880, 2989
+  size: 1001, 347
+  orig: 1001, 347
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 2469
+  size: 518, 2162
+  orig: 518, 2162
+  offset: 0, 0
+  index: -1
+CapeBack
+  rotate: false
+  xy: 2, 1221
+  size: 2915, 1246
+  orig: 2915, 1246
+  offset: 0, 0
+  index: -1
+CapeFront
+  rotate: false
+  xy: 381, 3004
+  size: 1497, 332
+  orig: 1497, 332
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2883, 2971
+  size: 453, 365
+  orig: 453, 365
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 2, 3086
+  size: 377, 250
+  orig: 377, 250
+  offset: 0, 0
+  index: -1

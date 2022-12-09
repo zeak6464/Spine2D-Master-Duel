@@ -1,0 +1,111 @@
+
+P4041.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 1333
+  size: 286, 513
+  orig: 286, 513
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 1676, 1329
+  size: 307, 471
+  orig: 307, 471
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 772, 1812
+  size: 171, 474
+  orig: 171, 474
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 858, 1589
+  size: 217, 541
+  orig: 217, 541
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1469, 1802
+  size: 181, 214
+  orig: 181, 214
+  offset: 0, 0
+  index: -1
+LeftHair
+  rotate: true
+  xy: 2, 1913
+  size: 70, 188
+  orig: 70, 188
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 517, 1081
+  size: 986, 487
+  orig: 986, 487
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1685, 1802
+  size: 181, 228
+  orig: 181, 228
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2, 1681
+  size: 260, 182
+  orig: 260, 182
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 352, 1827
+  size: 156, 418
+  orig: 156, 418
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: false
+  xy: 1401, 1570
+  size: 273, 230
+  orig: 273, 230
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 512, 1621
+  size: 189, 344
+  orig: 189, 344
+  offset: 0, 0
+  index: -1
+RightHair
+  rotate: true
+  xy: 192, 1865
+  size: 118, 158
+  orig: 118, 158
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 264, 1638
+  size: 246, 187
+  orig: 246, 187
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 1248, 1808
+  size: 175, 219
+  orig: 175, 219
+  offset: 0, 0
+  index: -1

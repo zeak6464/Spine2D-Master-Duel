@@ -1,0 +1,174 @@
+
+P15524.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 754, 28
+  size: 282, 454
+  orig: 282, 454
+  offset: 0, 0
+  index: -1
+BodyEffect
+  rotate: false
+  xy: 1353, 1610
+  size: 280, 112
+  orig: 280, 112
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1568, 1336
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1563, 854
+  size: 143, 162
+  orig: 143, 162
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 1066, 622
+  size: 217, 389
+  orig: 217, 389
+  offset: 0, 0
+  index: -1
+LeftLegEffect
+  rotate: true
+  xy: 1305, 1018
+  size: 261, 296
+  orig: 261, 296
+  offset: 0, 0
+  index: -1
+LeftThruster
+  rotate: true
+  xy: 1649, 1771
+  size: 250, 261
+  orig: 250, 261
+  offset: 0, 0
+  index: -1
+LeftThrusterEffect1
+  rotate: false
+  xy: 1285, 647
+  size: 148, 72
+  orig: 148, 72
+  offset: 0, 0
+  index: -1
+LeftThrusterEffect2
+  rotate: true
+  xy: 1574, 11
+  size: 183, 296
+  orig: 183, 296
+  offset: 0, 0
+  index: -1
+LeftThrusterEffect3
+  rotate: false
+  xy: 2, 2
+  size: 750, 991
+  orig: 750, 991
+  offset: 0, 0
+  index: -1
+LeftWing1
+  rotate: true
+  xy: 1263, 1281
+  size: 318, 303
+  orig: 318, 303
+  offset: 0, 0
+  index: -1
+LeftWing2
+  rotate: true
+  xy: 1066, 364
+  size: 256, 328
+  orig: 256, 328
+  offset: 0, 0
+  index: -1
+LeftWing3
+  rotate: true
+  xy: 1210, 33
+  size: 161, 362
+  orig: 161, 362
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1285, 721
+  size: 276, 290
+  orig: 276, 290
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 1649, 1630
+  size: 139, 191
+  orig: 139, 191
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 949, 1601
+  size: 402, 420
+  orig: 402, 420
+  offset: 0, 0
+  index: -1
+RightLegEffect
+  rotate: true
+  xy: 1210, 196
+  size: 166, 429
+  orig: 166, 429
+  offset: 0, 0
+  index: -1
+RightThruster
+  rotate: true
+  xy: 1353, 1724
+  size: 297, 294
+  orig: 297, 294
+  offset: 0, 0
+  index: -1
+RightThrusterEffect1
+  rotate: true
+  xy: 1563, 706
+  size: 146, 123
+  orig: 146, 123
+  offset: 0, 0
+  index: -1
+RightThrusterEffect2
+  rotate: true
+  xy: 1396, 434
+  size: 211, 186
+  orig: 211, 186
+  offset: 0, 0
+  index: -1
+RightThrusterEffect3
+  rotate: false
+  xy: 2, 995
+  size: 945, 1026
+  orig: 945, 1026
+  offset: 0, 0
+  index: -1
+RightWing1
+  rotate: true
+  xy: 754, 312
+  size: 681, 310
+  orig: 681, 310
+  offset: 0, 0
+  index: -1
+RightWing2
+  rotate: true
+  xy: 949, 1268
+  size: 331, 312
+  orig: 331, 312
+  offset: 0, 0
+  index: -1
+RightWing3
+  rotate: true
+  xy: 949, 1013
+  size: 253, 354
+  orig: 253, 354
+  offset: 0, 0
+  index: -1

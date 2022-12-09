@@ -1,0 +1,118 @@
+
+P15527.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird01
+  rotate: false
+  xy: 3179, 173
+  size: 459, 378
+  orig: 459, 378
+  offset: 0, 0
+  index: -1
+Bird02
+  rotate: false
+  xy: 2866, 125
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+Bird03
+  rotate: false
+  xy: 1165, 609
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1250, 316
+  size: 758, 1148
+  orig: 758, 1148
+  offset: 0, 0
+  index: -1
+Cloth01
+  rotate: false
+  xy: 1250, 1076
+  size: 1150, 948
+  orig: 1150, 948
+  offset: 0, 0
+  index: -1
+Cloth02
+  rotate: false
+  xy: 2400, 385
+  size: 777, 618
+  orig: 777, 618
+  offset: 0, 0
+  index: -1
+Cloth03
+  rotate: false
+  xy: 1517, 148
+  size: 524, 166
+  orig: 524, 166
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 679
+  size: 1246, 990
+  orig: 1246, 990
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2400, 11
+  size: 372, 464
+  orig: 372, 464
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 2
+  size: 675, 1161
+  orig: 675, 1161
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 994, 1726
+  size: 222, 298
+  orig: 222, 298
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 994, 2026
+  size: 2032, 2146
+  orig: 2032, 2146
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1165, 2
+  size: 350, 312
+  orig: 350, 312
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 2402, 1005
+  size: 942, 1019
+  orig: 942, 1019
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 3179, 553
+  size: 450, 433
+  orig: 450, 433
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 1671
+  size: 990, 2387
+  orig: 990, 2387
+  offset: 0, 0
+  index: -1

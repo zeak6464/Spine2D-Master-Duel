@@ -1,0 +1,90 @@
+
+P13529.png
+size: 3824,2278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1437, 52
+  size: 493, 808
+  orig: 502, 822
+  offset: 4, 6
+  index: -1
+EyeEffect
+  rotate: false
+  xy: 2745, 195
+  size: 291, 233
+  orig: 311, 253
+  offset: 10, 10
+  index: -1
+Head
+  rotate: false
+  xy: 2247, 4
+  size: 496, 447
+  orig: 516, 467
+  offset: 9, 13
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3040, 1462
+  size: 742, 814
+  orig: 760, 829
+  offset: 12, 10
+  index: -1
+LeftCable01
+  rotate: false
+  xy: 2, 361
+  size: 1132, 1197
+  orig: 1142, 1211
+  offset: 1, 10
+  index: -1
+LeftCable02
+  rotate: true
+  xy: 1670, 1502
+  size: 774, 1368
+  orig: 783, 1383
+  offset: 0, 8
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 3553, 135
+  size: 269, 1325
+  orig: 278, 1337
+  offset: 5, 9
+  index: -1
+RightArm
+  rotate: false
+  xy: 2967, 430
+  size: 584, 1030
+  orig: 609, 1045
+  offset: 8, 8
+  index: -1
+RightCable01
+  rotate: true
+  xy: 2357, 453
+  size: 1047, 608
+  orig: 1065, 624
+  offset: 9, 10
+  index: -1
+RightCable02
+  rotate: true
+  xy: 1136, 547
+  size: 953, 1219
+  orig: 963, 1237
+  offset: 3, 10
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2, 2
+  size: 357, 1433
+  orig: 365, 1440
+  offset: 7, 7
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 1560
+  size: 1666, 716
+  orig: 1666, 726
+  offset: 0, 6
+  index: -1

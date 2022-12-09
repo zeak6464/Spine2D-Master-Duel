@@ -1,0 +1,146 @@
+
+P14586.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 84
+  size: 383, 898
+  orig: 383, 898
+  offset: 0, 0
+  index: -1
+BodyThorn1
+  rotate: false
+  xy: 574, 88
+  size: 308, 125
+  orig: 308, 125
+  offset: 0, 0
+  index: -1
+BodyThorn2
+  rotate: false
+  xy: 387, 215
+  size: 299, 356
+  orig: 299, 356
+  offset: 0, 0
+  index: -1
+BodyThorn3
+  rotate: false
+  xy: 387, 54
+  size: 185, 159
+  orig: 185, 159
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 2, 1186
+  size: 1037, 860
+  orig: 1037, 860
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1345, 27
+  size: 224, 248
+  orig: 224, 248
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 152, 1006
+  size: 195, 178
+  orig: 195, 178
+  offset: 0, 0
+  index: -1
+LeftArmBack
+  rotate: false
+  xy: 349, 1020
+  size: 149, 164
+  orig: 149, 164
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1905, 1119
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 1571, 98
+  size: 247, 285
+  orig: 247, 285
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 1170, 15
+  size: 173, 260
+  orig: 173, 260
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 688, 237
+  size: 284, 334
+  orig: 284, 334
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 980, 277
+  size: 469, 705
+  orig: 469, 705
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1571, 385
+  size: 468, 597
+  orig: 468, 597
+  offset: 0, 0
+  index: -1
+RightArmBack
+  rotate: false
+  xy: 1905, 1231
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2, 998
+  size: 148, 186
+  orig: 148, 186
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 500, 573
+  size: 478, 611
+  orig: 478, 611
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 974, 13
+  size: 194, 262
+  orig: 194, 262
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 1041, 1364
+  size: 907, 682
+  orig: 907, 682
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1041, 984
+  size: 862, 378
+  orig: 862, 378
+  offset: 0, 0
+  index: -1
