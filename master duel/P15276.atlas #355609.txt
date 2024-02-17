@@ -1,0 +1,174 @@
+
+P15276.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1467, 904
+  size: 431, 455
+  orig: 431, 455
+  offset: 0, 0
+  index: -1
+ChestArmor
+  rotate: true
+  xy: 313, 902
+  size: 168, 225
+  orig: 168, 225
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 2, 1423
+  size: 768, 620
+  orig: 768, 620
+  offset: 0, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 1507, 1337
+  size: 706, 494
+  orig: 706, 494
+  offset: 0, 0
+  index: -1
+Emblem
+  rotate: false
+  xy: 562, 939
+  size: 194, 191
+  orig: 194, 191
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 1050
+  size: 309, 231
+  orig: 309, 231
+  offset: 0, 0
+  index: -1
+HeadParts1
+  rotate: true
+  xy: 1924, 944
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+HeadParts2
+  rotate: false
+  xy: 1193, 882
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+HeadParts3
+  rotate: true
+  xy: 1924, 1076
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 913
+  size: 186, 135
+  orig: 186, 135
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1015, 987
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+LeftHandParts1
+  rotate: false
+  xy: 1924, 990
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+LeftHandParts2
+  rotate: true
+  xy: 1924, 1206
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+LeftHandParts3
+  rotate: true
+  xy: 1924, 1278
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+LeftHandParts4
+  rotate: false
+  xy: 2003, 1930
+  size: 40, 113
+  orig: 40, 113
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 1283
+  size: 138, 591
+  orig: 138, 591
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 2, 745
+  size: 166, 177
+  orig: 166, 177
+  offset: 0, 0
+  index: -1
+LeftShoulderArmor
+  rotate: true
+  xy: 595, 1132
+  size: 289, 174
+  orig: 289, 174
+  offset: 0, 0
+  index: -1
+LeftShoulderArmorBack
+  rotate: false
+  xy: 771, 942
+  size: 242, 215
+  orig: 242, 215
+  offset: 0, 0
+  index: -1
+NeckParts
+  rotate: false
+  xy: 2003, 1884
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1193, 1022
+  size: 173, 135
+  orig: 173, 135
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 772, 1491
+  size: 552, 733
+  orig: 552, 733
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 313, 1072
+  size: 209, 247
+  orig: 209, 247
+  offset: 0, 0
+  index: -1
+UnderBody
+  rotate: true
+  xy: 772, 1159
+  size: 330, 693
+  orig: 330, 693
+  offset: 0, 0
+  index: -1

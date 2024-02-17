@@ -1,0 +1,76 @@
+
+P14193.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blade
+  rotate: false
+  xy: 2, 291
+  size: 846, 530
+  orig: 846, 530
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 823
+  size: 405, 1202
+  orig: 405, 1202
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: true
+  xy: 409, 1565
+  size: 460, 425
+  orig: 460, 425
+  offset: 0, 0
+  index: -1
+Hair01
+  rotate: true
+  xy: 634, 1245
+  size: 318, 284
+  orig: 318, 284
+  offset: 0, 0
+  index: -1
+Hair02
+  rotate: true
+  xy: 634, 1127
+  size: 116, 298
+  orig: 116, 298
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 492, 23
+  size: 266, 419
+  orig: 266, 419
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 2
+  size: 287, 488
+  orig: 287, 488
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 761, 964
+  size: 151, 161
+  orig: 151, 161
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 409, 913
+  size: 171, 350
+  orig: 171, 350
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 409, 1086
+  size: 223, 477
+  orig: 223, 477
+  offset: 0, 0
+  index: -1

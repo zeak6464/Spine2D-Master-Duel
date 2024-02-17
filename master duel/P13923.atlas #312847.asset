@@ -1,0 +1,347 @@
+
+P13923.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1266, 983
+  size: 983, 2359
+  orig: 983, 2359
+  offset: 0, 0
+  index: -1
+BodyBackElectric01
+  rotate: false
+  xy: 760, 3613
+  size: 384, 274
+  orig: 384, 274
+  offset: 0, 0
+  index: -1
+BodyBackElectric02
+  rotate: true
+  xy: 1963, 2709
+  size: 439, 485
+  orig: 439, 485
+  offset: 0, 0
+  index: -1
+BodyBackElectric03
+  rotate: false
+  xy: 2033, 3177
+  size: 379, 376
+  orig: 379, 376
+  offset: 0, 0
+  index: -1
+BodyElectric01
+  rotate: true
+  xy: 3252, 3088
+  size: 411, 433
+  orig: 411, 433
+  offset: 0, 0
+  index: -1
+BodyElectric02
+  rotate: false
+  xy: 2947, 3841
+  size: 481, 246
+  orig: 481, 246
+  offset: 0, 0
+  index: -1
+BodyElectric03
+  rotate: false
+  xy: 3529, 2517
+  size: 549, 569
+  orig: 549, 569
+  offset: 0, 0
+  index: -1
+BodyElectric04
+  rotate: false
+  xy: 2414, 3150
+  size: 408, 390
+  orig: 408, 390
+  offset: 0, 0
+  index: -1
+BodyElectric05
+  rotate: false
+  xy: 1264, 3870
+  size: 412, 217
+  orig: 412, 217
+  offset: 0, 0
+  index: -1
+BodyElectric06
+  rotate: false
+  xy: 694, 3889
+  size: 568, 198
+  orig: 568, 198
+  offset: 0, 0
+  index: -1
+BodyElectric07
+  rotate: false
+  xy: 1146, 3592
+  size: 489, 276
+  orig: 489, 276
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 1264
+  size: 949, 1262
+  orig: 949, 1262
+  offset: 0, 0
+  index: -1
+HeadChin
+  rotate: true
+  xy: 2824, 3125
+  size: 399, 426
+  orig: 399, 426
+  offset: 0, 0
+  index: -1
+HeadElectric01
+  rotate: true
+  xy: 2, 3290
+  size: 326, 646
+  orig: 326, 646
+  offset: 0, 0
+  index: -1
+HeadElectric02
+  rotate: true
+  xy: 3077, 3526
+  size: 300, 454
+  orig: 300, 454
+  offset: 0, 0
+  index: -1
+HeadElectric03
+  rotate: false
+  xy: 2703, 3851
+  size: 242, 236
+  orig: 242, 236
+  offset: 0, 0
+  index: -1
+HeadElectric04
+  rotate: true
+  xy: 2364, 1968
+  size: 650, 866
+  orig: 650, 866
+  offset: 0, 0
+  index: -1
+HeadElectric05
+  rotate: false
+  xy: 2450, 2672
+  size: 606, 451
+  orig: 606, 451
+  offset: 0, 0
+  index: -1
+LeftRearWingElectric01
+  rotate: false
+  xy: 511, 2865
+  size: 566, 416
+  orig: 566, 416
+  offset: 0, 0
+  index: -1
+LeftRearWingElectric02
+  rotate: true
+  xy: 2, 2876
+  size: 412, 507
+  orig: 412, 507
+  offset: 0, 0
+  index: -1
+LeftRearWingElectric03
+  rotate: true
+  xy: 3058, 2620
+  size: 466, 469
+  orig: 466, 469
+  offset: 0, 0
+  index: -1
+LeftWingElectric01
+  rotate: true
+  xy: 3738, 3820
+  size: 267, 349
+  orig: 267, 349
+  offset: 0, 0
+  index: -1
+LeftWingElectric02
+  rotate: false
+  xy: 844, 2215
+  size: 631, 566
+  orig: 631, 566
+  offset: 0, 0
+  index: -1
+LeftWingElectric03
+  rotate: true
+  xy: 1516, 2762
+  size: 438, 445
+  orig: 438, 445
+  offset: 0, 0
+  index: -1
+LeftWingElectric04
+  rotate: false
+  xy: 2, 2309
+  size: 840, 554
+  orig: 840, 554
+  offset: 0, 0
+  index: -1
+LeftWingElectric05
+  rotate: false
+  xy: 1477, 2095
+  size: 885, 612
+  orig: 885, 612
+  offset: 0, 0
+  index: -1
+LeftWingElectric06
+  rotate: false
+  xy: 1957, 3852
+  size: 744, 235
+  orig: 744, 235
+  offset: 0, 0
+  index: -1
+LeftWingElectric07
+  rotate: false
+  xy: 2, 3938
+  size: 381, 149
+  orig: 381, 149
+  offset: 0, 0
+  index: -1
+LeftWingElectric08
+  rotate: true
+  xy: 2, 3660
+  size: 276, 314
+  orig: 276, 314
+  offset: 0, 0
+  index: -1
+RightRearWingElectric01
+  rotate: true
+  xy: 1637, 3568
+  size: 282, 446
+  orig: 282, 446
+  offset: 0, 0
+  index: -1
+RightRearWingElectric02
+  rotate: false
+  xy: 1085, 3254
+  size: 397, 336
+  orig: 397, 336
+  offset: 0, 0
+  index: -1
+RightRearWingElectric03
+  rotate: true
+  xy: 650, 3283
+  size: 328, 433
+  orig: 328, 433
+  offset: 0, 0
+  index: -1
+RightWingElectric01
+  rotate: false
+  xy: 2085, 3555
+  size: 595, 295
+  orig: 595, 295
+  offset: 0, 0
+  index: -1
+RightWingElectric02
+  rotate: true
+  xy: 1079, 2783
+  size: 417, 435
+  orig: 417, 435
+  offset: 0, 0
+  index: -1
+RightWingElectric03
+  rotate: true
+  xy: 1678, 3861
+  size: 226, 277
+  orig: 226, 277
+  offset: 0, 0
+  index: -1
+RightWingElectric04
+  rotate: false
+  xy: 1484, 3202
+  size: 547, 364
+  orig: 547, 364
+  offset: 0, 0
+  index: -1
+TailElectric01
+  rotate: false
+  xy: 3430, 3828
+  size: 306, 259
+  orig: 306, 259
+  offset: 0, 0
+  index: -1
+TailElectric02
+  rotate: true
+  xy: 2682, 3542
+  size: 297, 393
+  orig: 297, 393
+  offset: 0, 0
+  index: -1
+TailElectric03
+  rotate: true
+  xy: 385, 3931
+  size: 156, 307
+  orig: 156, 307
+  offset: 0, 0
+  index: -1
+TailElectric04
+  rotate: true
+  xy: 318, 3618
+  size: 269, 440
+  orig: 269, 440
+  offset: 0, 0
+  index: -1
+TailElectric05
+  rotate: true
+  xy: 3533, 3501
+  size: 317, 358
+  orig: 317, 358
+  offset: 0, 0
+  index: -1
+
+P139232.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyBack
+  rotate: false
+  xy: 2, 2797
+  size: 1431, 1227
+  orig: 1431, 1227
+  offset: 0, 0
+  index: -1
+LeftRearWing
+  rotate: true
+  xy: 2, 1098
+  size: 1495, 2369
+  orig: 1495, 2369
+  offset: 0, 0
+  index: -1
+RightRearWing
+  rotate: true
+  xy: 1435, 2595
+  size: 1429, 2361
+  orig: 1429, 2361
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 2373, 1025
+  size: 1568, 1651
+  orig: 1568, 1651
+  offset: 0, 0
+  index: -1
+
+P139233.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 1937, 1895
+  size: 1704, 1746
+  orig: 1704, 1746
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 1713
+  size: 1933, 1928
+  orig: 1933, 1928
+  offset: 0, 0
+  index: -1

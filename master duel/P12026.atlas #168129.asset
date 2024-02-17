@@ -1,0 +1,300 @@
+
+P12026.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AtlaBangs
+  rotate: true
+  xy: 3399, 761
+  size: 135, 236
+  orig: 135, 236
+  offset: 0, 0
+  index: -1
+AtlaBody
+  rotate: true
+  xy: 1154, 1361
+  size: 1193, 916
+  orig: 1193, 916
+  offset: 0, 0
+  index: -1
+AtlaLeftHair
+  rotate: false
+  xy: 3954, 3843
+  size: 140, 251
+  orig: 140, 251
+  offset: 0, 0
+  index: -1
+AtlaRightHair
+  rotate: true
+  xy: 3637, 765
+  size: 131, 222
+  orig: 131, 222
+  offset: 0, 0
+  index: -1
+DionaeaBangs
+  rotate: true
+  xy: 3685, 579
+  size: 184, 172
+  orig: 184, 172
+  offset: 0, 0
+  index: -1
+DionaeaBody
+  rotate: false
+  xy: 2101, 2329
+  size: 1132, 693
+  orig: 1132, 693
+  offset: 0, 0
+  index: -1
+DionaeaLeftHand
+  rotate: false
+  xy: 3311, 85
+  size: 138, 296
+  orig: 138, 296
+  offset: 0, 0
+  index: -1
+MyrmeleoBangs
+  rotate: true
+  xy: 3881, 3176
+  size: 380, 209
+  orig: 380, 209
+  offset: 0, 0
+  index: -1
+MyrmeleoBody
+  rotate: false
+  xy: 2101, 3024
+  size: 1326, 1070
+  orig: 1326, 1070
+  offset: 0, 0
+  index: -1
+MyrmeleoLeftHair
+  rotate: true
+  xy: 3954, 3635
+  size: 206, 140
+  orig: 206, 140
+  offset: 0, 0
+  index: -1
+MyrmeleoRightHair
+  rotate: true
+  xy: 3322, 432
+  size: 306, 190
+  orig: 306, 190
+  offset: 0, 0
+  index: -1
+NepenthesBody
+  rotate: false
+  xy: 3235, 2118
+  size: 786, 848
+  orig: 786, 848
+  offset: 0, 0
+  index: -1
+NepenthesPillows
+  rotate: false
+  xy: 1154, 260
+  size: 1123, 1099
+  orig: 1123, 1099
+  offset: 0, 0
+  index: -1
+NepenthesSideHair
+  rotate: true
+  xy: 500, 88
+  size: 180, 524
+  orig: 180, 524
+  offset: 0, 0
+  index: -1
+NepenthesTailHair
+  rotate: false
+  xy: 3429, 2968
+  size: 450, 588
+  orig: 450, 588
+  offset: 0, 0
+  index: -1
+RafflesiaBackBody
+  rotate: false
+  xy: 2, 18
+  size: 496, 250
+  orig: 496, 250
+  offset: 0, 0
+  index: -1
+RafflesiaBangs
+  rotate: false
+  xy: 3485, 898
+  size: 265, 262
+  orig: 265, 262
+  offset: 0, 0
+  index: -1
+RafflesiaBase
+  rotate: false
+  xy: 2, 2556
+  size: 2097, 1538
+  orig: 2097, 1538
+  offset: 0, 0
+  index: -1
+RafflesiaBaseBack
+  rotate: true
+  xy: 2, 270
+  size: 2284, 1150
+  orig: 2284, 1150
+  offset: 0, 0
+  index: -1
+RafflesiaBody
+  rotate: false
+  xy: 3506, 1162
+  size: 479, 415
+  orig: 479, 415
+  offset: 0, 0
+  index: -1
+RafflesiaEye
+  rotate: false
+  xy: 3881, 3075
+  size: 213, 99
+  orig: 213, 99
+  offset: 0, 0
+  index: -1
+RafflesiaFlower01
+  rotate: false
+  xy: 3125, 383
+  size: 195, 355
+  orig: 195, 355
+  offset: 0, 0
+  index: -1
+RafflesiaFlower02
+  rotate: true
+  xy: 1867, 108
+  size: 150, 295
+  orig: 150, 295
+  offset: 0, 0
+  index: -1
+RafflesiaFlower03
+  rotate: false
+  xy: 2279, 2
+  size: 413, 339
+  orig: 413, 339
+  offset: 0, 0
+  index: -1
+RafflesiaFlower04
+  rotate: false
+  xy: 3861, 755
+  size: 148, 169
+  orig: 148, 169
+  offset: 0, 0
+  index: -1
+RafflesiaHairBand
+  rotate: true
+  xy: 1026, 7
+  size: 251, 283
+  orig: 251, 283
+  offset: 0, 0
+  index: -1
+RafflesiaHead
+  rotate: false
+  xy: 3506, 1579
+  size: 423, 537
+  orig: 423, 537
+  offset: 0, 0
+  index: -1
+RafflesiaIvy01
+  rotate: false
+  xy: 3931, 1657
+  size: 160, 459
+  orig: 160, 459
+  offset: 0, 0
+  index: -1
+RafflesiaIvy02
+  rotate: true
+  xy: 3125, 1051
+  size: 373, 252
+  orig: 373, 252
+  offset: 0, 0
+  index: -1
+RafflesiaIvy03
+  rotate: true
+  xy: 3144, 40
+  size: 341, 165
+  orig: 341, 165
+  offset: 0, 0
+  index: -1
+RafflesiaIvy04
+  rotate: false
+  xy: 3451, 150
+  size: 127, 280
+  orig: 127, 280
+  offset: 0, 0
+  index: -1
+RafflesiaIvy05
+  rotate: true
+  xy: 3514, 536
+  size: 223, 169
+  orig: 223, 169
+  offset: 0, 0
+  index: -1
+RafflesiaLeftBackHair01
+  rotate: false
+  xy: 3429, 3558
+  size: 523, 536
+  orig: 523, 536
+  offset: 0, 0
+  index: -1
+RafflesiaLeftBackHair02
+  rotate: false
+  xy: 2694, 7
+  size: 448, 334
+  orig: 448, 334
+  offset: 0, 0
+  index: -1
+RafflesiaLeftBackHair03
+  rotate: false
+  xy: 1311, 15
+  size: 262, 243
+  orig: 262, 243
+  offset: 0, 0
+  index: -1
+RafflesiaLeftHand
+  rotate: false
+  xy: 3125, 740
+  size: 272, 309
+  orig: 272, 309
+  offset: 0, 0
+  index: -1
+RafflesiaLowerBody
+  rotate: true
+  xy: 2279, 343
+  size: 1081, 844
+  orig: 1081, 844
+  offset: 0, 0
+  index: -1
+RafflesiaRightBackHair01
+  rotate: false
+  xy: 3197, 1429
+  size: 307, 687
+  orig: 307, 687
+  offset: 0, 0
+  index: -1
+RafflesiaRightBackHair02
+  rotate: false
+  xy: 3752, 926
+  size: 210, 234
+  orig: 210, 234
+  offset: 0, 0
+  index: -1
+RafflesiaRightHair
+  rotate: false
+  xy: 3379, 1136
+  size: 104, 291
+  orig: 104, 291
+  offset: 0, 0
+  index: -1
+RafflesiaSkirt
+  rotate: false
+  xy: 2072, 1426
+  size: 1123, 901
+  orig: 1123, 901
+  offset: 0, 0
+  index: -1
+RafflesiarLeftHair
+  rotate: true
+  xy: 1575, 102
+  size: 156, 290
+  orig: 156, 290
+  offset: 0, 0
+  index: -1

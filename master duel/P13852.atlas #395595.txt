@@ -1,0 +1,146 @@
+
+P13852.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair01
+  rotate: false
+  xy: 1157, 1282
+  size: 320, 249
+  orig: 320, 249
+  offset: 0, 0
+  index: -1
+BackHair02
+  rotate: true
+  xy: 1273, 732
+  size: 548, 425
+  orig: 548, 425
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 707, 1533
+  size: 490, 627
+  orig: 490, 627
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 539
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 707, 1251
+  size: 448, 280
+  orig: 448, 280
+  offset: 0, 0
+  index: -1
+LeftBang
+  rotate: true
+  xy: 1479, 1288
+  size: 66, 151
+  orig: 66, 151
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1273, 380
+  size: 350, 501
+  orig: 350, 501
+  offset: 0, 0
+  index: -1
+LeftMiniWing
+  rotate: false
+  xy: 643, 341
+  size: 352, 357
+  orig: 352, 357
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 1700, 802
+  size: 164, 169
+  orig: 164, 169
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 1910, 1839
+  size: 113, 184
+  orig: 113, 184
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 1224
+  size: 703, 799
+  orig: 703, 799
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1336, 1542
+  size: 572, 481
+  orig: 572, 481
+  offset: 0, 0
+  index: -1
+RightBang
+  rotate: false
+  xy: 1910, 1590
+  size: 83, 141
+  orig: 83, 141
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1700, 968
+  size: 321, 386
+  orig: 321, 386
+  offset: 0, 0
+  index: -1
+RightLegBack
+  rotate: false
+  xy: 1910, 1733
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+RightMiniWing
+  rotate: true
+  xy: 1479, 1356
+  size: 184, 283
+  orig: 184, 283
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 2, 395
+  size: 142, 188
+  orig: 142, 188
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 1764, 1371
+  size: 172, 169
+  orig: 172, 169
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 2, 685
+  size: 537, 639
+  orig: 537, 639
+  offset: 0, 0
+  index: -1
+WaistWing
+  rotate: false
+  xy: 643, 700
+  size: 628, 522
+  orig: 628, 522
+  offset: 0, 0
+  index: -1

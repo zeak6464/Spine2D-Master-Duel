@@ -1,0 +1,97 @@
+
+P12074.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2121, 1606
+  size: 533, 635
+  orig: 533, 635
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 2942, 1010
+  size: 1081, 843
+  orig: 1081, 843
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 2, 1584
+  size: 945, 351
+  orig: 945, 351
+  offset: 0, 0
+  index: -1
+Effect2
+  rotate: false
+  xy: 2, 1937
+  size: 2117, 2096
+  orig: 2117, 2096
+  offset: 0, 0
+  index: -1
+Kickboard1
+  rotate: false
+  xy: 2121, 2625
+  size: 954, 1408
+  orig: 954, 1408
+  offset: 0, 0
+  index: -1
+Kickboard2
+  rotate: false
+  xy: 2121, 2243
+  size: 909, 380
+  orig: 909, 380
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2656, 1686
+  size: 284, 211
+  orig: 284, 211
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 3077, 2138
+  size: 580, 705
+  orig: 580, 705
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 3659, 1864
+  size: 344, 423
+  orig: 344, 423
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 3012, 1855
+  size: 264, 281
+  orig: 264, 281
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2656, 1899
+  size: 354, 342
+  orig: 354, 342
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 3659, 2289
+  size: 374, 554
+  orig: 374, 554
+  offset: 0, 0
+  index: -1
+UnderBody
+  rotate: false
+  xy: 3077, 2845
+  size: 759, 1188
+  orig: 759, 1188
+  offset: 0, 0
+  index: -1

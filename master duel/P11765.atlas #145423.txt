@@ -1,0 +1,76 @@
+
+P11765.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1069, 945
+  size: 438, 576
+  orig: 438, 576
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 901, 681
+  size: 337, 262
+  orig: 337, 262
+  offset: 0, 0
+  index: -1
+HeadChin
+  rotate: false
+  xy: 920, 1218
+  size: 147, 191
+  orig: 147, 191
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 1411
+  size: 1070, 606
+  orig: 1070, 606
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1240, 485
+  size: 179, 458
+  orig: 179, 458
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 1074, 1385
+  size: 913, 632
+  orig: 913, 632
+  offset: 0, 0
+  index: -1
+Tail003
+  rotate: true
+  xy: 2, 446
+  size: 582, 426
+  orig: 582, 426
+  offset: 0, 0
+  index: -1
+Tail01
+  rotate: true
+  xy: 1647, 785
+  size: 598, 370
+  orig: 598, 370
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 2, 1030
+  size: 916, 379
+  orig: 916, 379
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 430, 608
+  size: 469, 420
+  orig: 469, 420
+  offset: 0, 0
+  index: -1

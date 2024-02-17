@@ -1,0 +1,157 @@
+
+P14624.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 1519, 1678
+  size: 338, 313
+  orig: 338, 313
+  offset: 0, 0
+  index: -1
+Horn
+  rotate: false
+  xy: 306, 1809
+  size: 270, 182
+  orig: 270, 182
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 185, 1868
+  size: 119, 123
+  orig: 119, 123
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1162, 1687
+  size: 355, 304
+  orig: 355, 304
+  offset: 0, 0
+  index: -1
+LeftFilm
+  rotate: false
+  xy: 319, 1222
+  size: 371, 560
+  orig: 371, 560
+  offset: 0, 0
+  index: -1
+LeftRing
+  rotate: false
+  xy: 1334, 876
+  size: 458, 800
+  orig: 458, 800
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: false
+  xy: 578, 1784
+  size: 257, 207
+  orig: 257, 207
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1859, 1673
+  size: 132, 318
+  orig: 132, 318
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2, 1419
+  size: 315, 388
+  orig: 315, 388
+  offset: 0, 0
+  index: -1
+RightFilm
+  rotate: false
+  xy: 692, 1023
+  size: 640, 662
+  orig: 640, 662
+  offset: 0, 0
+  index: -1
+RightRing
+  rotate: false
+  xy: 351, 104
+  size: 957, 917
+  orig: 957, 917
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 837, 1764
+  size: 323, 227
+  orig: 323, 227
+  offset: 0, 0
+  index: -1
+RightShoulderBack
+  rotate: false
+  xy: 2, 1882
+  size: 181, 109
+  orig: 181, 109
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 268
+  size: 347, 952
+  orig: 347, 952
+  offset: 0, 0
+  index: -1
+
+P146242.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CenterFilm
+  rotate: false
+  xy: 2, 594
+  size: 579, 1140
+  orig: 579, 1140
+  offset: 0, 0
+  index: -1
+CenterRing
+  rotate: false
+  xy: 583, 453
+  size: 1151, 1281
+  orig: 1151, 1281
+  offset: 0, 0
+  index: -1
+
+P146243.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 581, 2
+  size: 719, 1343
+  orig: 719, 1343
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 26
+  size: 577, 1319
+  orig: 577, 1319
+  offset: 0, 0
+  index: -1
+
+P146244.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWing
+  rotate: false
+  xy: 2, 2
+  size: 785, 1508
+  orig: 785, 1508
+  offset: 0, 0
+  index: -1

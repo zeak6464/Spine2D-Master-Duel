@@ -1,0 +1,87 @@
+
+P15737.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftArm
+  rotate: false
+  xy: 615, 1685
+  size: 318, 165
+  orig: 318, 165
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1401, 1529
+  size: 321, 376
+  orig: 321, 376
+  offset: 0, 0
+  index: -1
+Pillar
+  rotate: true
+  xy: 2, 1714
+  size: 136, 611
+  orig: 136, 611
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 935, 1573
+  size: 464, 277
+  orig: 464, 277
+  offset: 0, 0
+  index: -1
+SailLower
+  rotate: false
+  xy: 2, 836
+  size: 897, 847
+  orig: 897, 847
+  offset: 0, 0
+  index: -1
+SailUpper
+  rotate: false
+  xy: 901, 612
+  size: 949, 915
+  orig: 949, 915
+  offset: 0, 0
+  index: -1
+
+P157372.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ship
+  rotate: false
+  xy: 2, 271
+  size: 1897, 1628
+  orig: 1897, 1628
+  offset: 0, 0
+  index: -1
+
+P157373.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FirelLower/FirelLower
+  rotate: false
+  xy: 2, 8
+  size: 218, 212
+  orig: 218, 212
+  offset: 0, 0
+  index: -1
+
+P157374.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FirelUpper/FirelUpper
+  rotate: false
+  xy: 2, 2
+  size: 151, 212
+  orig: 151, 212
+  offset: 0, 0
+  index: -1

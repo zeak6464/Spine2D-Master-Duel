@@ -1,0 +1,26 @@
+
+P15379.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1960, 2039
+  orig: 1960, 2039
+  offset: 0, 0
+  index: -1
+
+P153792.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Right/Right
+  rotate: false
+  xy: 2, 276
+  size: 1612, 1338
+  orig: 1612, 1338
+  offset: 0, 0
+  index: -1

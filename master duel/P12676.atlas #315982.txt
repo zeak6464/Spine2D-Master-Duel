@@ -1,0 +1,129 @@
+
+P12676.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chin
+  rotate: false
+  xy: 2, 1767
+  size: 106, 174
+  orig: 106, 174
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 405, 1681
+  size: 263, 260
+  orig: 263, 260
+  offset: 0, 0
+  index: -1
+LeftPile
+  rotate: false
+  xy: 990, 326
+  size: 629, 906
+  orig: 629, 906
+  offset: 0, 0
+  index: -1
+LeftSideWing01
+  rotate: false
+  xy: 1583, 1234
+  size: 358, 707
+  orig: 358, 707
+  offset: 0, 0
+  index: -1
+LeftSideWing02
+  rotate: false
+  xy: 2, 1022
+  size: 612, 657
+  orig: 612, 657
+  offset: 0, 0
+  index: -1
+Neck01
+  rotate: false
+  xy: 110, 1699
+  size: 293, 242
+  orig: 293, 242
+  offset: 0, 0
+  index: -1
+Neck02
+  rotate: false
+  xy: 959, 1470
+  size: 308, 471
+  orig: 308, 471
+  offset: 0, 0
+  index: -1
+RightPile
+  rotate: false
+  xy: 616, 688
+  size: 372, 780
+  orig: 372, 780
+  offset: 0, 0
+  index: -1
+RightSideWing01
+  rotate: false
+  xy: 1269, 1315
+  size: 312, 626
+  orig: 312, 626
+  offset: 0, 0
+  index: -1
+RightSideWing02
+  rotate: false
+  xy: 670, 1493
+  size: 287, 448
+  orig: 287, 448
+  offset: 0, 0
+  index: -1
+
+P126762.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing02
+  rotate: false
+  xy: 2, 310
+  size: 983, 1280
+  orig: 983, 1280
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 987, 251
+  size: 603, 1339
+  orig: 603, 1339
+  offset: 0, 0
+  index: -1
+
+P126763.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing01
+  rotate: false
+  xy: 2, 2
+  size: 1241, 1673
+  orig: 1241, 1673
+  offset: 0, 0
+  index: -1
+
+P126764.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 984, 382
+  size: 953, 1555
+  orig: 953, 1555
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 371
+  size: 980, 1566
+  orig: 980, 1566
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+P11833.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 653, 896
+  size: 201, 314
+  orig: 201, 314
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: true
+  xy: 873, 1533
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 770
+  size: 301, 194
+  orig: 301, 194
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1943, 1870
+  size: 176, 102
+  orig: 176, 102
+  offset: 0, 0
+  index: -1
+LeftEffect
+  rotate: true
+  xy: 499, 855
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+LeftPipe01
+  rotate: false
+  xy: 1943, 1373
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+LeftPipe02
+  rotate: false
+  xy: 1890, 882
+  size: 122, 220
+  orig: 122, 220
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 856, 789
+  size: 161, 166
+  orig: 161, 166
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 873, 952
+  size: 480, 645
+  orig: 480, 645
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1890, 1104
+  size: 149, 267
+  orig: 149, 267
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1943, 1710
+  size: 158, 103
+  orig: 158, 103
+  offset: 0, 0
+  index: -1
+RightEffect
+  rotate: false
+  xy: 1943, 1570
+  size: 89, 138
+  orig: 89, 138
+  offset: 0, 0
+  index: -1
+RightPipe
+  rotate: true
+  xy: 1943, 1455
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+RightPipeBack
+  rotate: false
+  xy: 653, 1212
+  size: 218, 369
+  orig: 218, 369
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 305, 789
+  size: 192, 175
+  orig: 192, 175
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 967, 1434
+  size: 612, 659
+  orig: 612, 659
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 2, 1583
+  size: 963, 463
+  orig: 963, 463
+  offset: 0, 0
+  index: -1
+Tail03
+  rotate: true
+  xy: 1628, 1386
+  size: 660, 313
+  orig: 660, 313
+  offset: 0, 0
+  index: -1
+Tail04
+  rotate: true
+  xy: 1520, 893
+  size: 491, 368
+  orig: 491, 368
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 2, 966
+  size: 649, 615
+  orig: 649, 615
+  offset: 0, 0
+  index: -1

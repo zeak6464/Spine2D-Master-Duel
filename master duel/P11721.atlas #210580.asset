@@ -1,0 +1,132 @@
+
+P11721.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1268, 1298
+  size: 274, 411
+  orig: 274, 411
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 1031, 1201
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: false
+  xy: 1681, 1488
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1031, 1403
+  size: 112, 228
+  orig: 112, 228
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 1196
+  size: 249, 337
+  orig: 249, 337
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 341, 1335
+  size: 110, 253
+  orig: 110, 253
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1605, 918
+  size: 154, 347
+  orig: 154, 347
+  offset: 0, 0
+  index: -1
+LeftSpine01
+  rotate: true
+  xy: 2, 1026
+  size: 168, 324
+  orig: 168, 324
+  offset: 0, 0
+  index: -1
+LeftSpine02
+  rotate: true
+  xy: 1031, 1047
+  size: 152, 184
+  orig: 152, 184
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 657, 1182
+  size: 333, 372
+  orig: 333, 372
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1737, 1663
+  size: 291, 370
+  orig: 291, 370
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1737, 1331
+  size: 284, 330
+  orig: 284, 330
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1681, 1074
+  size: 255, 352
+  orig: 255, 352
+  offset: 0, 0
+  index: -1
+RightSpine
+  rotate: false
+  xy: 1234, 958
+  size: 369, 338
+  orig: 369, 338
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 1447
+  size: 653, 586
+  orig: 653, 586
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 657, 1517
+  size: 516, 609
+  orig: 516, 609
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 1268, 1574
+  size: 467, 459
+  orig: 467, 459
+  offset: 0, 0
+  index: -1
+WaistSpine
+  rotate: true
+  xy: 341, 1183
+  size: 150, 180
+  orig: 150, 180
+  offset: 0, 0
+  index: -1

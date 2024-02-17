@@ -1,0 +1,90 @@
+
+P14580.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackJaw
+  rotate: true
+  xy: 516, 1415
+  size: 127, 166
+  orig: 127, 166
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 2, 1396
+  size: 404, 649
+  orig: 404, 649
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: true
+  xy: 2, 365
+  size: 427, 279
+  orig: 427, 279
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 794
+  size: 542, 600
+  orig: 542, 600
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 408, 1404
+  size: 106, 138
+  orig: 106, 138
+  offset: 0, 0
+  index: -1
+LeftCamera
+  rotate: false
+  xy: 354, 176
+  size: 257, 302
+  orig: 257, 302
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 492, 503
+  size: 192, 289
+  orig: 192, 289
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 283, 480
+  size: 207, 312
+  orig: 207, 312
+  offset: 0, 0
+  index: -1
+RightCamera
+  rotate: false
+  xy: 2, 13
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 408, 1544
+  size: 213, 501
+  orig: 213, 501
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 623, 1566
+  size: 256, 479
+  orig: 256, 479
+  offset: 0, 0
+  index: -1
+UpperJaw
+  rotate: false
+  xy: 354, 2
+  size: 237, 172
+  orig: 237, 172
+  offset: 0, 0
+  index: -1

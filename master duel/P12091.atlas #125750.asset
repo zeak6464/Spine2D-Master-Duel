@@ -1,0 +1,138 @@
+
+P12091.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body01
+  rotate: false
+  xy: 2, 3179
+  size: 678, 494
+  orig: 678, 494
+  offset: 0, 0
+  index: -1
+Body02
+  rotate: false
+  xy: 1703, 2881
+  size: 594, 630
+  orig: 594, 630
+  offset: 0, 0
+  index: -1
+Chair
+  rotate: false
+  xy: 714, 687
+  size: 1428, 2192
+  orig: 1428, 2192
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 2299, 2715
+  size: 880, 786
+  orig: 880, 786
+  offset: 0, 0
+  index: -1
+Fur01
+  rotate: false
+  xy: 2, 3802
+  size: 502, 88
+  orig: 502, 88
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1352, 3536
+  size: 685, 354
+  orig: 685, 354
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 682, 2934
+  size: 519, 615
+  orig: 519, 615
+  offset: 0, 0
+  index: -1
+LeftLeg01
+  rotate: false
+  xy: 2039, 3513
+  size: 608, 377
+  orig: 608, 377
+  offset: 0, 0
+  index: -1
+LeftLeg02
+  rotate: false
+  xy: 3181, 2206
+  size: 709, 1212
+  orig: 709, 1212
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 3269, 3420
+  size: 483, 470
+  orig: 483, 470
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 506, 3675
+  size: 261, 215
+  orig: 261, 215
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1051, 3551
+  size: 299, 339
+  orig: 299, 339
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 769, 3614
+  size: 280, 276
+  orig: 280, 276
+  offset: 0, 0
+  index: -1
+RightLeg01
+  rotate: false
+  xy: 2649, 3503
+  size: 618, 387
+  orig: 618, 387
+  offset: 0, 0
+  index: -1
+RightLeg02
+  rotate: false
+  xy: 2, 1720
+  size: 710, 1212
+  orig: 710, 1212
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 1203, 2913
+  size: 498, 621
+  orig: 498, 621
+  offset: 0, 0
+  index: -1
+
+P120912.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect
+  rotate: false
+  xy: 2, 1798
+  size: 2880, 2258
+  orig: 2880, 2258
+  offset: 0, 0
+  index: -1
+Fur02
+  rotate: false
+  xy: 2, 2
+  size: 2545, 1794
+  orig: 2545, 1794
+  offset: 0, 0
+  index: -1

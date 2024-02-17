@@ -1,0 +1,153 @@
+
+P14660.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2042
+  size: 681, 1284
+  orig: 681, 1284
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: false
+  xy: 774, 3734
+  size: 365, 263
+  orig: 365, 263
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3526, 3631
+  size: 471, 366
+  orig: 471, 366
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 434, 3738
+  size: 338, 259
+  orig: 338, 259
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1141, 3703
+  size: 297, 294
+  orig: 297, 294
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 2725
+  size: 525, 1291
+  orig: 525, 1291
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 3068, 3638
+  size: 359, 456
+  orig: 359, 456
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 2421, 3185
+  size: 505, 489
+  orig: 505, 489
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2084, 2289
+  size: 801, 894
+  orig: 801, 894
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1295, 2567
+  size: 787, 683
+  orig: 787, 683
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 185, 3780
+  size: 247, 217
+  orig: 247, 217
+  offset: 0, 0
+  index: -1
+RightArmFin
+  rotate: false
+  xy: 2, 3868
+  size: 181, 129
+  orig: 181, 129
+  offset: 0, 0
+  index: -1
+RightChestArmor
+  rotate: true
+  xy: 1440, 3689
+  size: 308, 411
+  orig: 308, 411
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 469, 3252
+  size: 422, 1950
+  orig: 422, 1950
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2928, 2953
+  size: 676, 811
+  orig: 676, 811
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 1853, 3687
+  size: 310, 432
+  orig: 310, 432
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 2, 3353
+  size: 465, 383
+  orig: 465, 383
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 2287, 3676
+  size: 321, 779
+  orig: 321, 779
+  offset: 0, 0
+  index: -1
+Tail01
+  rotate: false
+  xy: 2887, 2022
+  size: 1066, 929
+  orig: 1066, 929
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 2, 1305
+  size: 1619, 735
+  orig: 1619, 735
+  offset: 0, 0
+  index: -1
+Tail03
+  rotate: false
+  xy: 1623, 1092
+  size: 1607, 928
+  orig: 1607, 928
+  offset: 0, 0
+  index: -1

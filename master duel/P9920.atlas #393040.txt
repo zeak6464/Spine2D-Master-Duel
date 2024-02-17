@@ -1,0 +1,143 @@
+
+P9920.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 697, 294
+  size: 668, 740
+  orig: 668, 740
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1771, 1530
+  size: 262, 503
+  orig: 262, 503
+  offset: 0, 0
+  index: -1
+Knee
+  rotate: false
+  xy: 508, 1724
+  size: 189, 309
+  orig: 189, 309
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 859, 1036
+  size: 583, 603
+  orig: 583, 603
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 2, 1309
+  size: 381, 416
+  orig: 381, 416
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 1367, 226
+  size: 619, 808
+  orig: 619, 808
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2, 369
+  size: 693, 699
+  orig: 693, 699
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 1267, 1641
+  size: 502, 392
+  orig: 502, 392
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 385, 1070
+  size: 472, 578
+  orig: 472, 578
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 699, 1650
+  size: 566, 383
+  orig: 566, 383
+  offset: 0, 0
+  index: -1
+WaistBack
+  rotate: false
+  xy: 2, 1727
+  size: 504, 306
+  orig: 504, 306
+  offset: 0, 0
+  index: -1
+
+P99202.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 1454, 345
+  size: 506, 1615
+  orig: 506, 1615
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2, 1204
+  size: 736, 756
+  orig: 736, 756
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 740, 993
+  size: 712, 967
+  orig: 712, 967
+  offset: 0, 0
+  index: -1
+
+P99203.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lance
+  rotate: false
+  xy: 2, 2
+  size: 1244, 1954
+  orig: 1244, 1954
+  offset: 0, 0
+  index: -1
+
+P99204.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightShoulder
+  rotate: false
+  xy: 1144, 851
+  size: 839, 1132
+  orig: 839, 1132
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 391
+  size: 1140, 1592
+  orig: 1140, 1592
+  offset: 0, 0
+  index: -1

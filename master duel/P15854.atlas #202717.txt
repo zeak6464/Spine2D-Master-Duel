@@ -1,0 +1,388 @@
+
+P15854.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1601, 2843
+  size: 520, 1065
+  orig: 520, 1065
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 2, 4012
+  size: 152, 58
+  orig: 152, 58
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 3178, 3723
+  size: 347, 357
+  orig: 347, 357
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: true
+  xy: 786, 3944
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1968, 3863
+  size: 297, 207
+  orig: 297, 207
+  offset: 0, 0
+  index: -1
+LeftArmBack
+  rotate: false
+  xy: 946, 3930
+  size: 151, 140
+  orig: 151, 140
+  offset: 0, 0
+  index: -1
+LeftFinger
+  rotate: true
+  xy: 348, 3971
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1546, 3889
+  size: 181, 208
+  orig: 181, 208
+  offset: 0, 0
+  index: -1
+LeftHandBack
+  rotate: true
+  xy: 156, 4005
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 931, 2990
+  size: 668, 559
+  orig: 668, 559
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2524, 3815
+  size: 336, 255
+  orig: 336, 255
+  offset: 0, 0
+  index: -1
+LeftShoulderBack
+  rotate: false
+  xy: 237, 3975
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+LeftSmallWing
+  rotate: true
+  xy: 2, 2404
+  size: 584, 1029
+  orig: 584, 1029
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 2909, 3204
+  size: 517, 546
+  orig: 517, 546
+  offset: 0, 0
+  index: -1
+LeftUnderWing
+  rotate: false
+  xy: 1033, 1243
+  size: 1684, 1381
+  orig: 1684, 1381
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: true
+  xy: 1756, 3878
+  size: 192, 210
+  orig: 192, 210
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2267, 3844
+  size: 255, 226
+  orig: 255, 226
+  offset: 0, 0
+  index: -1
+RightFinger
+  rotate: false
+  xy: 1099, 3914
+  size: 185, 156
+  orig: 185, 156
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 1286, 3891
+  size: 179, 258
+  orig: 179, 258
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 3457, 3134
+  size: 553, 562
+  orig: 553, 562
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 3537, 3689
+  size: 533, 381
+  orig: 533, 381
+  offset: 0, 0
+  index: -1
+RightShoulderBack
+  rotate: false
+  xy: 454, 3959
+  size: 330, 111
+  orig: 330, 111
+  offset: 0, 0
+  index: -1
+RightSmallWing
+  rotate: true
+  xy: 1627, 3365
+  size: 412, 1280
+  orig: 412, 1280
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 2668, 2626
+  size: 646, 576
+  orig: 646, 576
+  offset: 0, 0
+  index: -1
+RightUpperArm
+  rotate: false
+  xy: 2862, 3779
+  size: 314, 291
+  orig: 314, 291
+  offset: 0, 0
+  index: -1
+Tail1
+  rotate: false
+  xy: 2, 3049
+  size: 927, 500
+  orig: 927, 500
+  offset: 0, 0
+  index: -1
+Tail2
+  rotate: false
+  xy: 2, 3551
+  size: 1623, 336
+  orig: 1623, 336
+  offset: 0, 0
+  index: -1
+
+P158542.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftUpperWing
+  rotate: true
+  xy: 2, 832
+  size: 1764, 2080
+  orig: 1764, 2080
+  offset: 0, 0
+  index: -1
+RightUnderWing
+  rotate: false
+  xy: 2, 2598
+  size: 2154, 1494
+  orig: 2154, 1494
+  offset: 0, 0
+  index: -1
+RightUpperWing
+  rotate: false
+  xy: 2158, 1974
+  size: 1934, 2118
+  orig: 1934, 2118
+  offset: 0, 0
+  index: -1
+
+P158543.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pattern/BodyPattern
+  rotate: true
+  xy: 2, 2919
+  size: 520, 1065
+  orig: 520, 1065
+  offset: 0, 0
+  index: -1
+Pattern/HeadPattern
+  rotate: true
+  xy: 3341, 3734
+  size: 347, 357
+  orig: 347, 357
+  offset: 0, 0
+  index: -1
+Pattern/JawPattern
+  rotate: true
+  xy: 2, 3955
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Pattern/LeftArmPattern
+  rotate: false
+  xy: 844, 3874
+  size: 297, 207
+  orig: 297, 207
+  offset: 0, 0
+  index: -1
+Pattern/LeftHandPattern
+  rotate: true
+  xy: 422, 3900
+  size: 181, 208
+  orig: 181, 208
+  offset: 0, 0
+  index: -1
+Pattern/LeftLegPattern
+  rotate: false
+  xy: 3325, 2987
+  size: 668, 559
+  orig: 668, 559
+  offset: 0, 0
+  index: -1
+Pattern/LeftSmallWingPattern
+  rotate: true
+  xy: 1717, 2640
+  size: 584, 1029
+  orig: 584, 1029
+  offset: 0, 0
+  index: -1
+Pattern/LeftThighPattern
+  rotate: true
+  xy: 2213, 3226
+  size: 517, 546
+  orig: 517, 546
+  offset: 0, 0
+  index: -1
+Pattern/LeftUnderWingPattern
+  rotate: false
+  xy: 2, 1282
+  size: 1684, 1381
+  orig: 1684, 1381
+  offset: 0, 0
+  index: -1
+Pattern/LeftUpperArmPattern
+  rotate: true
+  xy: 632, 3889
+  size: 192, 210
+  orig: 192, 210
+  offset: 0, 0
+  index: -1
+Pattern/RightArmPattern
+  rotate: false
+  xy: 1143, 3855
+  size: 255, 226
+  orig: 255, 226
+  offset: 0, 0
+  index: -1
+Pattern/RightHandPattern
+  rotate: true
+  xy: 162, 3902
+  size: 179, 258
+  orig: 179, 258
+  offset: 0, 0
+  index: -1
+Pattern/RightLegPattern
+  rotate: true
+  xy: 2761, 3190
+  size: 553, 562
+  orig: 553, 562
+  offset: 0, 0
+  index: -1
+Pattern/RightShoulderPattern
+  rotate: true
+  xy: 3700, 3548
+  size: 533, 381
+  orig: 533, 381
+  offset: 0, 0
+  index: -1
+Pattern/RightSmallWingPattern
+  rotate: true
+  xy: 2, 3441
+  size: 412, 1280
+  orig: 412, 1280
+  offset: 0, 0
+  index: -1
+Pattern/RightThighPattern
+  rotate: false
+  xy: 1069, 2665
+  size: 646, 576
+  orig: 646, 576
+  offset: 0, 0
+  index: -1
+Pattern/RightUnderWingPattern
+  rotate: false
+  xy: 1688, 1144
+  size: 2154, 1494
+  orig: 2154, 1494
+  offset: 0, 0
+  index: -1
+Pattern/RightUpperArmPattern
+  rotate: false
+  xy: 1400, 3790
+  size: 314, 291
+  orig: 314, 291
+  offset: 0, 0
+  index: -1
+Pattern/Tail1Pattern
+  rotate: false
+  xy: 1284, 3243
+  size: 927, 500
+  orig: 927, 500
+  offset: 0, 0
+  index: -1
+Pattern/Tail2Pattern
+  rotate: false
+  xy: 1716, 3745
+  size: 1623, 336
+  orig: 1623, 336
+  offset: 0, 0
+  index: -1
+
+P158544.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pattern/LeftUpperWingPattern
+  rotate: false
+  xy: 1938, 1622
+  size: 1764, 2080
+  orig: 1764, 2080
+  offset: 0, 0
+  index: -1
+Pattern/RightUpperWingPattern
+  rotate: false
+  xy: 2, 1583
+  size: 1934, 2119
+  orig: 1934, 2119
+  offset: 0, 0
+  index: -1

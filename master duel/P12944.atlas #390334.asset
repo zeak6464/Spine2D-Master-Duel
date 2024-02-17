@@ -1,0 +1,132 @@
+
+P12944.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 668, 1560
+  size: 640, 475
+  orig: 640, 475
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 1492, 1255
+  size: 171, 121
+  orig: 171, 121
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1305, 1153
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 886, 1174
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1405, 1174
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 995, 1230
+  size: 328, 308
+  orig: 328, 308
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 617, 1077
+  size: 267, 190
+  orig: 267, 190
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 1793, 1623
+  size: 196, 220
+  orig: 196, 220
+  offset: 0, 0
+  index: -1
+LowerLeftWing
+  rotate: false
+  xy: 2, 1743
+  size: 664, 292
+  orig: 664, 292
+  offset: 0, 0
+  index: -1
+LowerRightWing
+  rotate: false
+  xy: 1310, 1378
+  size: 410, 312
+  orig: 410, 312
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1665, 1190
+  size: 167, 140
+  orig: 167, 140
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1492, 1174
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1722, 1332
+  size: 313, 289
+  orig: 313, 289
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 1305, 1250
+  size: 185, 126
+  orig: 185, 126
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 1793, 1821
+  size: 230, 214
+  orig: 230, 214
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1310, 1692
+  size: 343, 481
+  orig: 343, 481
+  offset: 0, 0
+  index: -1
+UpperLeftWing
+  rotate: false
+  xy: 2, 1236
+  size: 613, 505
+  orig: 613, 505
+  offset: 0, 0
+  index: -1
+UpperRightWing
+  rotate: false
+  xy: 617, 1269
+  size: 376, 289
+  orig: 376, 289
+  offset: 0, 0
+  index: -1

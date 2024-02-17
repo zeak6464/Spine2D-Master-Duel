@@ -1,0 +1,83 @@
+
+P12450.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1513, 1097
+  size: 332, 478
+  orig: 332, 478
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: true
+  xy: 1513, 1444
+  size: 149, 86
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+ChinBack
+  rotate: false
+  xy: 1976, 1643
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1626, 1431
+  size: 348, 250
+  orig: 348, 250
+  offset: 0, 0
+  index: -1
+HeadFin
+  rotate: true
+  xy: 2, 1275
+  size: 226, 321
+  orig: 226, 321
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 837, 1138
+  size: 455, 674
+  orig: 455, 674
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 325, 1339
+  size: 162, 246
+  orig: 162, 246
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 2, 1503
+  size: 833, 539
+  orig: 833, 539
+  offset: 0, 0
+  index: -1
+Tail01
+  rotate: true
+  xy: 1626, 1683
+  size: 359, 416
+  orig: 359, 416
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 837, 1595
+  size: 787, 447
+  orig: 787, 447
+  offset: 0, 0
+  index: -1
+Tail03
+  rotate: true
+  xy: 1976, 1498
+  size: 143, 41
+  orig: 143, 41
+  offset: 0, 0
+  index: -1

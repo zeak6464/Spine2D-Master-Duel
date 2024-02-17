@@ -1,0 +1,167 @@
+
+P14421.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 883, 778
+  size: 420, 446
+  orig: 420, 446
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 1278, 240
+  size: 192, 147
+  orig: 192, 147
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 467, 475
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: false
+  xy: 467, 218
+  size: 246, 250
+  orig: 246, 250
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 1512, 1508
+  size: 169, 157
+  orig: 169, 157
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 234, 203
+  size: 230, 189
+  orig: 230, 189
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1230, 1245
+  size: 234, 168
+  orig: 234, 168
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 1230, 1415
+  size: 280, 536
+  orig: 280, 536
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 467, 586
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+LeftHandParts
+  rotate: false
+  xy: 1305, 791
+  size: 199, 257
+  orig: 199, 257
+  offset: 0, 0
+  index: -1
+LeftHandPartsBack
+  rotate: false
+  xy: 467, 504
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 1512, 1667
+  size: 173, 284
+  orig: 173, 284
+  offset: 0, 0
+  index: -1
+LeftWaistRope
+  rotate: false
+  xy: 2, 394
+  size: 463, 306
+  orig: 463, 306
+  offset: 0, 0
+  index: -1
+LeftWing1
+  rotate: false
+  xy: 813, 1333
+  size: 415, 618
+  orig: 415, 618
+  offset: 0, 0
+  index: -1
+RightArm1
+  rotate: false
+  xy: 813, 1226
+  size: 147, 105
+  orig: 147, 105
+  offset: 0, 0
+  index: -1
+RightArm2
+  rotate: false
+  xy: 1466, 1050
+  size: 212, 363
+  orig: 212, 363
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 607, 470
+  size: 274, 749
+  orig: 274, 749
+  offset: 0, 0
+  index: -1
+RightHandParts
+  rotate: false
+  xy: 1278, 389
+  size: 213, 387
+  orig: 213, 387
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 715, 344
+  size: 156, 124
+  orig: 156, 124
+  offset: 0, 0
+  index: -1
+RightWaistRope
+  rotate: false
+  xy: 883, 286
+  size: 393, 490
+  orig: 393, 490
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 1221
+  size: 809, 730
+  orig: 809, 730
+  offset: 0, 0
+  index: -1
+WaistCloak
+  rotate: false
+  xy: 2, 702
+  size: 603, 517
+  orig: 603, 517
+  offset: 0, 0
+  index: -1
+WaistCloakBack
+  rotate: false
+  xy: 2, 2
+  size: 230, 390
+  orig: 230, 390
+  offset: 0, 0
+  index: -1

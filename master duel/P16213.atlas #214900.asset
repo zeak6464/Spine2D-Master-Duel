@@ -1,0 +1,181 @@
+
+P16213.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 764, 195
+  size: 424, 577
+  orig: 424, 577
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 1086, 17
+  size: 222, 176
+  orig: 222, 176
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1761, 143
+  size: 258, 272
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+HeadPlasma1
+  rotate: false
+  xy: 1761, 2
+  size: 235, 139
+  orig: 235, 139
+  offset: 0, 0
+  index: -1
+HeadPlasma2
+  rotate: true
+  xy: 1343, 46
+  size: 369, 416
+  orig: 369, 416
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1556, 1585
+  size: 262, 460
+  orig: 262, 460
+  offset: 0, 0
+  index: -1
+LeftBeam
+  rotate: false
+  xy: 2, 1410
+  size: 829, 635
+  orig: 829, 635
+  offset: 0, 0
+  index: -1
+LeftScarf
+  rotate: true
+  xy: 478, 327
+  size: 355, 284
+  orig: 355, 284
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: true
+  xy: 1820, 1595
+  size: 141, 143
+  orig: 141, 143
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 2, 232
+  size: 450, 474
+  orig: 450, 474
+  offset: 0, 0
+  index: -1
+Plasma1
+  rotate: false
+  xy: 691, 836
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Plasma10
+  rotate: false
+  xy: 2, 684
+  size: 687, 724
+  orig: 687, 724
+  offset: 0, 0
+  index: -1
+Plasma2
+  rotate: false
+  xy: 1556, 1420
+  size: 378, 163
+  orig: 378, 163
+  offset: 0, 0
+  index: -1
+Plasma3
+  rotate: true
+  xy: 478, 9
+  size: 316, 231
+  orig: 316, 231
+  offset: 0, 0
+  index: -1
+Plasma4
+  rotate: true
+  xy: 830, 621
+  size: 673, 556
+  orig: 673, 556
+  offset: 0, 0
+  index: -1
+Plasma5
+  rotate: false
+  xy: 691, 1157
+  size: 137, 251
+  orig: 137, 251
+  offset: 0, 0
+  index: -1
+Plasma6
+  rotate: true
+  xy: 1388, 621
+  size: 209, 365
+  orig: 209, 365
+  offset: 0, 0
+  index: -1
+Plasma7
+  rotate: true
+  xy: 711, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+Plasma8
+  rotate: false
+  xy: 691, 882
+  size: 111, 147
+  orig: 111, 147
+  offset: 0, 0
+  index: -1
+Plasma9
+  rotate: true
+  xy: 691, 1031
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 2, 2
+  size: 228, 474
+  orig: 228, 474
+  offset: 0, 0
+  index: -1
+RightBeam
+  rotate: false
+  xy: 833, 1296
+  size: 721, 749
+  orig: 721, 749
+  offset: 0, 0
+  index: -1
+RightScarf
+  rotate: false
+  xy: 1820, 1738
+  size: 143, 307
+  orig: 143, 307
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 1388, 832
+  size: 462, 260
+  orig: 462, 260
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1343, 417
+  size: 202, 493
+  orig: 202, 493
+  offset: 0, 0
+  index: -1

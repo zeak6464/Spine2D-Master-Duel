@@ -1,0 +1,146 @@
+
+P13087.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair
+  rotate: false
+  xy: 710, 1213
+  size: 742, 444
+  orig: 742, 444
+  offset: 0, 0
+  index: -1
+Bang
+  rotate: true
+  xy: 1386, 681
+  size: 227, 231
+  orig: 227, 231
+  offset: 0, 0
+  index: -1
+Body&Face
+  rotate: true
+  xy: 2, 788
+  size: 269, 284
+  orig: 269, 284
+  offset: 0, 0
+  index: -1
+Cane
+  rotate: false
+  xy: 2, 1441
+  size: 706, 600
+  orig: 706, 600
+  offset: 0, 0
+  index: -1
+ClothBack
+  rotate: true
+  xy: 1386, 910
+  size: 275, 242
+  orig: 275, 242
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 710, 1659
+  size: 965, 382
+  orig: 965, 382
+  offset: 0, 0
+  index: -1
+Hourglass
+  rotate: false
+  xy: 288, 792
+  size: 287, 265
+  orig: 287, 265
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 577, 772
+  size: 136, 196
+  orig: 136, 196
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1619, 600
+  size: 284, 357
+  orig: 284, 357
+  offset: 0, 0
+  index: -1
+LeftLeg&Skirt
+  rotate: false
+  xy: 1677, 1514
+  size: 260, 527
+  orig: 260, 527
+  offset: 0, 0
+  index: -1
+LeftRibbon
+  rotate: false
+  xy: 1642, 886
+  size: 392, 626
+  orig: 392, 626
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1025, 893
+  size: 318, 359
+  orig: 318, 359
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1939, 1806
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1454, 1187
+  size: 186, 470
+  orig: 186, 470
+  offset: 0, 0
+  index: -1
+RightRibbon
+  rotate: true
+  xy: 2, 1059
+  size: 380, 590
+  orig: 380, 590
+  offset: 0, 0
+  index: -1
+SideHair
+  rotate: false
+  xy: 1939, 1868
+  size: 102, 173
+  orig: 102, 173
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 594, 910
+  size: 301, 429
+  orig: 301, 429
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 1939, 1677
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 1939, 1613
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 1939, 1741
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+P14056.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1227, 1243
+  size: 489, 732
+  orig: 489, 732
+  offset: 0, 0
+  index: -1
+BodySkull
+  rotate: false
+  xy: 2, 707
+  size: 945, 771
+  orig: 945, 771
+  offset: 0, 0
+  index: -1
+BodySkullBack
+  rotate: false
+  xy: 547, 1520
+  size: 324, 235
+  orig: 324, 235
+  offset: 0, 0
+  index: -1
+Cane
+  rotate: true
+  xy: 1025, 1734
+  size: 225, 919
+  orig: 225, 919
+  offset: 0, 0
+  index: -1
+CaneFront
+  rotate: true
+  xy: 2, 1919
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: true
+  xy: 54, 1902
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+Crystal
+  rotate: true
+  xy: 144, 1877
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 1633
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 505, 1789
+  size: 217, 170
+  orig: 217, 170
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 724, 1757
+  size: 299, 202
+  orig: 299, 202
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 873, 1480
+  size: 352, 252
+  orig: 352, 252
+  offset: 0, 0
+  index: -1
+RightArmSkull
+  rotate: false
+  xy: 246, 1557
+  size: 299, 230
+  orig: 299, 230
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 949, 399
+  size: 869, 842
+  orig: 869, 842
+  offset: 0, 0
+  index: -1
+TailChin
+  rotate: false
+  xy: 253, 1862
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+TailHead
+  rotate: false
+  xy: 363, 1850
+  size: 140, 109
+  orig: 140, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,165 @@
+
+P15118.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: true
+  xy: 1595, 1754
+  size: 249, 272
+  orig: 249, 272
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 720, 281
+  size: 615, 734
+  orig: 615, 734
+  offset: 0, 0
+  index: -1
+Bouquet
+  rotate: true
+  xy: 2, 545
+  size: 470, 716
+  orig: 470, 716
+  offset: 0, 0
+  index: -1
+Crystal1
+  rotate: true
+  xy: 2, 1109
+  size: 420, 515
+  orig: 420, 515
+  offset: 0, 0
+  index: -1
+Crystal2
+  rotate: true
+  xy: 1524, 1337
+  size: 415, 477
+  orig: 415, 477
+  offset: 0, 0
+  index: -1
+Crystal3
+  rotate: true
+  xy: 318, 1531
+  size: 327, 408
+  orig: 327, 408
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1350, 1786
+  size: 217, 243
+  orig: 217, 243
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 728, 1426
+  size: 358, 794
+  orig: 358, 794
+  offset: 0, 0
+  index: -1
+HairOrnaments
+  rotate: true
+  xy: 1113, 1806
+  size: 197, 235
+  orig: 197, 235
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 487, 1896
+  size: 187, 107
+  orig: 187, 107
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 1665
+  size: 259, 314
+  orig: 259, 314
+  offset: 0, 0
+  index: -1
+LeftSideHair
+  rotate: true
+  xy: 2, 1930
+  size: 73, 260
+  orig: 73, 260
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 676, 1860
+  size: 143, 207
+  orig: 143, 207
+  offset: 0, 0
+  index: -1
+RightSideHair
+  rotate: true
+  xy: 264, 1926
+  size: 77, 221
+  orig: 77, 221
+  offset: 0, 0
+  index: -1
+Tiara
+  rotate: true
+  xy: 885, 1810
+  size: 193, 226
+  orig: 193, 226
+  offset: 0, 0
+  index: -1
+Umbrella01
+  rotate: true
+  xy: 1337, 39
+  size: 735, 666
+  orig: 735, 666
+  offset: 0, 0
+  index: -1
+Umbrella03
+  rotate: false
+  xy: 1365, 776
+  size: 636, 559
+  orig: 636, 559
+  offset: 0, 0
+  index: -1
+Veil
+  rotate: true
+  xy: 519, 1017
+  size: 407, 844
+  orig: 407, 844
+  offset: 0, 0
+  index: -1
+
+P151182.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DressLace
+  rotate: false
+  xy: 2, 1181
+  size: 1092, 741
+  orig: 1092, 741
+  offset: 0, 0
+  index: -1
+Umbrella02
+  rotate: false
+  xy: 1096, 929
+  size: 826, 993
+  orig: 826, 993
+  offset: 0, 0
+  index: -1
+
+P151183.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dress
+  rotate: false
+  xy: 2, 238
+  size: 1819, 1583
+  orig: 1819, 1583
+  offset: 0, 0
+  index: -1

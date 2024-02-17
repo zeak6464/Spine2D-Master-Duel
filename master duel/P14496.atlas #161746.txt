@@ -1,0 +1,181 @@
+
+P14496.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 1570, 510
+  size: 486, 259
+  orig: 486, 259
+  offset: 0, 0
+  index: -1
+Bang
+  rotate: true
+  xy: 1831, 773
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+BearBody
+  rotate: false
+  xy: 966, 1530
+  size: 618, 515
+  orig: 618, 515
+  offset: 0, 0
+  index: -1
+BearBodyFront
+  rotate: true
+  xy: 1831, 873
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+BearHead
+  rotate: false
+  xy: 613, 820
+  size: 319, 305
+  orig: 319, 305
+  offset: 0, 0
+  index: -1
+BearLeftArm
+  rotate: false
+  xy: 1570, 998
+  size: 273, 523
+  orig: 273, 523
+  offset: 0, 0
+  index: -1
+BearLeftLeg
+  rotate: false
+  xy: 1912, 1738
+  size: 125, 307
+  orig: 125, 307
+  offset: 0, 0
+  index: -1
+BearRightArm
+  rotate: false
+  xy: 340, 680
+  size: 271, 445
+  orig: 271, 445
+  offset: 0, 0
+  index: -1
+BearRightLeg
+  rotate: false
+  xy: 1586, 1523
+  size: 324, 522
+  orig: 324, 522
+  offset: 0, 0
+  index: -1
+BearSaddle
+  rotate: false
+  xy: 1845, 1143
+  size: 147, 297
+  orig: 147, 297
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 613, 568
+  size: 250, 307
+  orig: 250, 307
+  offset: 0, 0
+  index: -1
+Bow
+  rotate: false
+  xy: 2, 1127
+  size: 962, 918
+  orig: 962, 918
+  offset: 0, 0
+  index: -1
+BowString
+  rotate: false
+  xy: 966, 1128
+  size: 417, 400
+  orig: 417, 400
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: true
+  xy: 2, 215
+  size: 416, 355
+  orig: 416, 355
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 966, 749
+  size: 409, 377
+  orig: 409, 377
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1970, 883
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1912, 1560
+  size: 176, 112
+  orig: 176, 112
+  offset: 0, 0
+  index: -1
+LeftCloak
+  rotate: true
+  xy: 1970, 811
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 1912, 1442
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+Quiver
+  rotate: true
+  xy: 2, 765
+  size: 360, 336
+  orig: 360, 336
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1845, 970
+  size: 189, 171
+  orig: 189, 171
+  offset: 0, 0
+  index: -1
+RightCloak
+  rotate: true
+  xy: 1385, 1121
+  size: 407, 183
+  orig: 407, 183
+  offset: 0, 0
+  index: -1
+RightFrontCloak
+  rotate: false
+  xy: 1845, 1495
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1377, 633
+  size: 210, 137
+  orig: 210, 137
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 1377, 845
+  size: 191, 274
+  orig: 191, 274
+  offset: 0, 0
+  index: -1

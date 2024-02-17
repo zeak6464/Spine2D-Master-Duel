@@ -1,0 +1,164 @@
+
+P15123.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 320, 666
+  size: 662, 1200
+  orig: 662, 1200
+  offset: 0, 0
+  index: -1
+Body_light_1
+  rotate: true
+  xy: 2, 2
+  size: 662, 1200
+  orig: 662, 1200
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 1728
+  size: 188, 220
+  orig: 188, 220
+  offset: 0, 0
+  index: -1
+Head_light_1
+  rotate: true
+  xy: 224, 1728
+  size: 188, 220
+  orig: 188, 220
+  offset: 0, 0
+  index: -1
+Head_light_2
+  rotate: true
+  xy: 446, 1728
+  size: 188, 220
+  orig: 188, 220
+  offset: 0, 0
+  index: -1
+Head_light_3
+  rotate: true
+  xy: 668, 1728
+  size: 188, 220
+  orig: 188, 220
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 890, 1641
+  size: 440, 275
+  orig: 440, 275
+  offset: 0, 0
+  index: -1
+LeftArm_light_1
+  rotate: false
+  xy: 1332, 1641
+  size: 442, 275
+  orig: 442, 275
+  offset: 0, 0
+  index: -1
+LeftArm_light_2
+  rotate: false
+  xy: 2, 1451
+  size: 443, 275
+  orig: 443, 275
+  offset: 0, 0
+  index: -1
+LeftArm_light_3
+  rotate: false
+  xy: 765, 1364
+  size: 443, 275
+  orig: 443, 275
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 447, 1417
+  size: 316, 309
+  orig: 316, 309
+  offset: 0, 0
+  index: -1
+RightArm_light_1
+  rotate: false
+  xy: 1210, 1330
+  size: 316, 309
+  orig: 316, 309
+  offset: 0, 0
+  index: -1
+RightArm_light_2
+  rotate: false
+  xy: 1528, 1330
+  size: 316, 309
+  orig: 316, 309
+  offset: 0, 0
+  index: -1
+RightArm_light_3
+  rotate: false
+  xy: 2, 1140
+  size: 316, 309
+  orig: 316, 309
+  offset: 0, 0
+  index: -1
+
+P151232.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_light_2
+  rotate: false
+  xy: 2, 2
+  size: 662, 1200
+  orig: 662, 1200
+  offset: 0, 0
+  index: -1
+Body_light_3
+  rotate: false
+  xy: 666, 2
+  size: 662, 1200
+  orig: 662, 1200
+  offset: 0, 0
+  index: -1
+Mantle
+  rotate: false
+  xy: 2, 1204
+  size: 1411, 832
+  orig: 1411, 832
+  offset: 0, 0
+  index: -1
+
+P151233.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KiraLight_2
+  rotate: true
+  xy: 2, 2
+  size: 828, 1235
+  orig: 828, 1235
+  offset: 0, 0
+  index: -1
+KiraLight_3
+  rotate: true
+  xy: 2, 832
+  size: 819, 1229
+  orig: 819, 1229
+  offset: 0, 0
+  index: -1
+
+P151234.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KiraLight_1
+  rotate: false
+  xy: 2, 2
+  size: 851, 1269
+  orig: 851, 1269
+  offset: 0, 0
+  index: -1

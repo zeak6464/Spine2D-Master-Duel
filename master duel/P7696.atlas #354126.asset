@@ -1,0 +1,151 @@
+
+P7696.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackLefttShoulder
+  rotate: false
+  xy: 2, 1780
+  size: 245, 201
+  orig: 245, 201
+  offset: 0, 0
+  index: -1
+BackRightShoulder
+  rotate: false
+  xy: 1241, 1675
+  size: 441, 306
+  orig: 441, 306
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 1200, 1185
+  size: 377, 488
+  orig: 377, 488
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 852, 1689
+  size: 387, 292
+  orig: 387, 292
+  offset: 0, 0
+  index: -1
+LeftArm1
+  rotate: false
+  xy: 1684, 1654
+  size: 159, 327
+  orig: 159, 327
+  offset: 0, 0
+  index: -1
+LeftArm2
+  rotate: false
+  xy: 1155, 178
+  size: 627, 655
+  orig: 627, 655
+  offset: 0, 0
+  index: -1
+LeftLeg1
+  rotate: false
+  xy: 659, 688
+  size: 494, 571
+  orig: 494, 571
+  offset: 0, 0
+  index: -1
+LeftLeg2
+  rotate: false
+  xy: 2, 710
+  size: 655, 549
+  orig: 655, 549
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 386, 1261
+  size: 812, 426
+  orig: 812, 426
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 249, 1754
+  size: 317, 227
+  orig: 317, 227
+  offset: 0, 0
+  index: -1
+RightArm1
+  rotate: false
+  xy: 568, 1731
+  size: 282, 250
+  orig: 282, 250
+  offset: 0, 0
+  index: -1
+RightArm2
+  rotate: false
+  xy: 2, 25
+  size: 532, 683
+  orig: 532, 683
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2, 1383
+  size: 382, 369
+  orig: 382, 369
+  offset: 0, 0
+  index: -1
+RightLeg1
+  rotate: false
+  xy: 1579, 835
+  size: 402, 817
+  orig: 402, 817
+  offset: 0, 0
+  index: -1
+
+P76962.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: false
+  xy: 1250, 868
+  size: 444, 837
+  orig: 444, 837
+  offset: 0, 0
+  index: -1
+LeftMuffler
+  rotate: false
+  xy: 2, 2
+  size: 843, 937
+  orig: 843, 937
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 2, 941
+  size: 1246, 764
+  orig: 1246, 764
+  offset: 0, 0
+  index: -1
+
+P76963.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightLeg2
+  rotate: false
+  xy: 1248, 725
+  size: 756, 1279
+  orig: 756, 1279
+  offset: 0, 0
+  index: -1
+RightMuffler
+  rotate: false
+  xy: 2, 171
+  size: 1244, 1833
+  orig: 1244, 1833
+  offset: 0, 0
+  index: -1

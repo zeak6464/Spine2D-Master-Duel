@@ -1,0 +1,143 @@
+
+P14114.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 169
+  size: 517, 658
+  orig: 517, 658
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 1310
+  size: 426, 553
+  orig: 426, 553
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1178, 1633
+  size: 403, 440
+  orig: 403, 440
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 428, 1738
+  size: 298, 339
+  orig: 298, 339
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 516, 688
+  size: 483, 921
+  orig: 483, 921
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 2, 1754
+  size: 282, 424
+  orig: 282, 424
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 557, 1232
+  size: 456, 454
+  orig: 456, 454
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1620, 1497
+  size: 416, 539
+  orig: 416, 539
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1015, 1173
+  size: 595, 458
+  orig: 595, 458
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1439, 646
+  size: 525, 558
+  orig: 525, 558
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 769, 1688
+  size: 348, 407
+  orig: 348, 407
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 2, 798
+  size: 510, 512
+  orig: 510, 512
+  offset: 0, 0
+  index: -1
+
+P141142.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 2, 2
+  size: 1539, 1673
+  orig: 1539, 1673
+  offset: 0, 0
+  index: -1
+
+P141143.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftGun
+  rotate: true
+  xy: 900, 988
+  size: 798, 886
+  orig: 798, 886
+  offset: 0, 0
+  index: -1
+RightGun
+  rotate: true
+  xy: 2, 1050
+  size: 736, 896
+  orig: 736, 896
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 2, 39
+  size: 947, 1505
+  orig: 947, 1505
+  offset: 0, 0
+  index: -1
+
+P141144.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail
+  rotate: false
+  xy: 2, 722
+  size: 1778, 1058
+  orig: 1778, 1058
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+P13579.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackCloth
+  rotate: false
+  xy: 2374, 617
+  size: 309, 614
+  orig: 309, 614
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1976, 1906
+  size: 1147, 2181
+  orig: 1147, 2181
+  offset: 0, 0
+  index: -1
+BodyArmor
+  rotate: false
+  xy: 1318, 510
+  size: 628, 708
+  orig: 628, 708
+  offset: 0, 0
+  index: -1
+FrontCloth
+  rotate: false
+  xy: 3677, 2104
+  size: 403, 967
+  orig: 403, 967
+  offset: 0, 0
+  index: -1
+HandEffect01
+  rotate: false
+  xy: 2, 1220
+  size: 1972, 2867
+  orig: 1972, 2867
+  offset: 0, 0
+  index: -1
+HandEffect02
+  rotate: false
+  xy: 2374, 125
+  size: 324, 490
+  orig: 324, 490
+  offset: 0, 0
+  index: -1
+HandEffect03
+  rotate: false
+  xy: 3684, 831
+  size: 249, 125
+  orig: 249, 125
+  offset: 0, 0
+  index: -1
+HandEffect04
+  rotate: false
+  xy: 2607, 1316
+  size: 516, 588
+  orig: 516, 588
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2700, 304
+  size: 377, 464
+  orig: 377, 464
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2685, 770
+  size: 393, 544
+  orig: 393, 544
+  offset: 0, 0
+  index: -1
+LeftArmBack
+  rotate: false
+  xy: 3523, 440
+  size: 154, 315
+  orig: 154, 315
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2700, 58
+  size: 388, 244
+  orig: 388, 244
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 2, 103
+  size: 583, 1115
+  orig: 583, 1115
+  offset: 0, 0
+  index: -1
+OrbEffect
+  rotate: false
+  xy: 587, 509
+  size: 729, 709
+  orig: 729, 709
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 3125, 1243
+  size: 416, 347
+  orig: 416, 347
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 3683, 607
+  size: 202, 222
+  orig: 202, 222
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 3445, 18
+  size: 298, 337
+  orig: 298, 337
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 3677, 3073
+  size: 372, 1014
+  orig: 372, 1014
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 3125, 1592
+  size: 550, 2495
+  orig: 550, 2495
+  offset: 0, 0
+  index: -1
+SwordEffect01
+  rotate: false
+  xy: 3677, 1314
+  size: 399, 788
+  orig: 399, 788
+  offset: 0, 0
+  index: -1
+SwordEffect02
+  rotate: false
+  xy: 1948, 269
+  size: 424, 949
+  orig: 424, 949
+  offset: 0, 0
+  index: -1
+SwordEffect03
+  rotate: false
+  xy: 3979, 1200
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+SwordEffect04
+  rotate: false
+  xy: 3864, 419
+  size: 138, 186
+  orig: 138, 186
+  offset: 0, 0
+  index: -1
+SwordEffect05
+  rotate: false
+  xy: 1976, 1233
+  size: 629, 671
+  orig: 629, 671
+  offset: 0, 0
+  index: -1
+SwordEffect06
+  rotate: false
+  xy: 3887, 625
+  size: 135, 204
+  orig: 135, 204
+  offset: 0, 0
+  index: -1
+SwordEffect07
+  rotate: false
+  xy: 3745, 157
+  size: 119, 218
+  orig: 119, 218
+  offset: 0, 0
+  index: -1
+SwordEffect08
+  rotate: false
+  xy: 3679, 377
+  size: 183, 228
+  orig: 183, 228
+  offset: 0, 0
+  index: -1
+SwordEffect09
+  rotate: false
+  xy: 3079, 314
+  size: 251, 441
+  orig: 251, 441
+  offset: 0, 0
+  index: -1
+SwordEffect10
+  rotate: false
+  xy: 3543, 1349
+  size: 125, 241
+  orig: 125, 241
+  offset: 0, 0
+  index: -1
+SwordEffect11
+  rotate: false
+  xy: 3090, 16
+  size: 353, 296
+  orig: 353, 296
+  offset: 0, 0
+  index: -1
+SwordEffect12
+  rotate: false
+  xy: 2, 16
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+SwordEffect13
+  rotate: false
+  xy: 3745, 2
+  size: 188, 153
+  orig: 188, 153
+  offset: 0, 0
+  index: -1
+SwordEffect14
+  rotate: false
+  xy: 3866, 245
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+SwordEffect15
+  rotate: false
+  xy: 3491, 757
+  size: 190, 126
+  orig: 190, 126
+  offset: 0, 0
+  index: -1
+WaistArmor
+  rotate: false
+  xy: 587, 86
+  size: 717, 421
+  orig: 717, 421
+  offset: 0, 0
+  index: -1
+WaistArmorBack01
+  rotate: false
+  xy: 3684, 958
+  size: 293, 354
+  orig: 293, 354
+  offset: 0, 0
+  index: -1
+WaistArmorBack02
+  rotate: false
+  xy: 3491, 885
+  size: 191, 356
+  orig: 191, 356
+  offset: 0, 0
+  index: -1
+WingEffect01
+  rotate: false
+  xy: 3080, 757
+  size: 409, 484
+  orig: 409, 484
+  offset: 0, 0
+  index: -1
+WingEffect02
+  rotate: false
+  xy: 3332, 357
+  size: 189, 398
+  orig: 189, 398
+  offset: 0, 0
+  index: -1

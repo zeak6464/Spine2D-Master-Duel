@@ -1,0 +1,195 @@
+
+P7302.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 234
+  size: 658, 934
+  orig: 658, 934
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 474, 1946
+  size: 591, 502
+  orig: 591, 502
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2098, 1646
+  size: 112, 163
+  orig: 112, 163
+  offset: 0, 0
+  index: -1
+HeadParts
+  rotate: false
+  xy: 1774, 1982
+  size: 170, 84
+  orig: 170, 84
+  offset: 0, 0
+  index: -1
+LeftArm1
+  rotate: true
+  xy: 1919, 1403
+  size: 186, 224
+  orig: 186, 224
+  offset: 0, 0
+  index: -1
+LeftArm2
+  rotate: true
+  xy: 1422, 1245
+  size: 344, 495
+  orig: 344, 495
+  offset: 0, 0
+  index: -1
+LeftEffect1
+  rotate: true
+  xy: 1195, 749
+  size: 245, 219
+  orig: 245, 219
+  offset: 0, 0
+  index: -1
+LeftEffect2
+  rotate: false
+  xy: 1195, 529
+  size: 210, 218
+  orig: 210, 218
+  offset: 0, 0
+  index: -1
+LeftEffect3
+  rotate: false
+  xy: 2123, 1891
+  size: 196, 175
+  orig: 196, 175
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: true
+  xy: 906, 996
+  size: 242, 585
+  orig: 242, 585
+  offset: 0, 0
+  index: -1
+LeftWing1
+  rotate: true
+  xy: 1422, 1591
+  size: 381, 674
+  orig: 381, 674
+  offset: 0, 0
+  index: -1
+LeftWing2
+  rotate: false
+  xy: 938, 1240
+  size: 482, 704
+  orig: 482, 704
+  offset: 0, 0
+  index: -1
+LeftYo-yo
+  rotate: false
+  xy: 1689, 637
+  size: 208, 299
+  orig: 208, 299
+  offset: 0, 0
+  index: -1
+LowerChin
+  rotate: true
+  xy: 2027, 2011
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+Neck_Back
+  rotate: false
+  xy: 2098, 1760
+  size: 209, 129
+  orig: 209, 129
+  offset: 0, 0
+  index: -1
+RightArm1
+  rotate: true
+  xy: 1416, 726
+  size: 210, 271
+  orig: 210, 271
+  offset: 0, 0
+  index: -1
+RightArm2
+  rotate: false
+  xy: 1493, 938
+  size: 279, 305
+  orig: 279, 305
+  offset: 0, 0
+  index: -1
+RightEffect1
+  rotate: false
+  xy: 474, 917
+  size: 256, 251
+  orig: 256, 251
+  offset: 0, 0
+  index: -1
+RightEffect2
+  rotate: true
+  xy: 1919, 1290
+  size: 111, 149
+  orig: 111, 149
+  offset: 0, 0
+  index: -1
+RightEffect3
+  rotate: false
+  xy: 732, 989
+  size: 167, 179
+  orig: 167, 179
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 938, 439
+  size: 255, 555
+  orig: 255, 555
+  offset: 0, 0
+  index: -1
+RightWing1
+  rotate: true
+  xy: 1774, 2068
+  size: 380, 674
+  orig: 380, 674
+  offset: 0, 0
+  index: -1
+RightWing2
+  rotate: true
+  xy: 1067, 1974
+  size: 474, 705
+  orig: 474, 705
+  offset: 0, 0
+  index: -1
+RightYo-yo
+  rotate: true
+  xy: 1774, 1035
+  size: 208, 298
+  orig: 208, 298
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 474, 1170
+  size: 774, 430
+  orig: 774, 430
+  offset: 0, 0
+  index: -1
+UpperChin
+  rotate: true
+  xy: 1946, 1989
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 894
+  size: 470, 1554
+  orig: 470, 1554
+  offset: 0, 0
+  index: -1

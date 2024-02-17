@@ -1,0 +1,167 @@
+
+P14401.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBody1
+  rotate: false
+  xy: 848, 855
+  size: 124, 133
+  orig: 124, 133
+  offset: 0, 0
+  index: -1
+BackBody2
+  rotate: true
+  xy: 813, 20
+  size: 266, 177
+  orig: 266, 177
+  offset: 0, 0
+  index: -1
+BackTopBody
+  rotate: false
+  xy: 681, 990
+  size: 174, 226
+  orig: 174, 226
+  offset: 0, 0
+  index: -1
+CenterCrawler
+  rotate: false
+  xy: 360, 6
+  size: 276, 144
+  orig: 276, 144
+  offset: 0, 0
+  index: -1
+FrontBody
+  rotate: false
+  xy: 2, 152
+  size: 366, 394
+  orig: 366, 394
+  offset: 0, 0
+  index: -1
+FrontBodyDrill
+  rotate: false
+  xy: 744, 671
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+FrontTopBody
+  rotate: false
+  xy: 626, 575
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 1475
+  size: 339, 569
+  orig: 339, 569
+  offset: 0, 0
+  index: -1
+LeftCrane
+  rotate: false
+  xy: 2, 548
+  size: 310, 405
+  orig: 310, 405
+  offset: 0, 0
+  index: -1
+LeftCrawler
+  rotate: true
+  xy: 638, 10
+  size: 193, 173
+  orig: 193, 173
+  offset: 0, 0
+  index: -1
+LeftDrill
+  rotate: false
+  xy: 744, 777
+  size: 102, 211
+  orig: 102, 211
+  offset: 0, 0
+  index: -1
+LeftLowerBucket
+  rotate: false
+  xy: 314, 570
+  size: 310, 383
+  orig: 310, 383
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: true
+  xy: 2, 2
+  size: 148, 356
+  orig: 148, 356
+  offset: 0, 0
+  index: -1
+LeftUpperArm2
+  rotate: true
+  xy: 721, 608
+  size: 61, 173
+  orig: 61, 173
+  offset: 0, 0
+  index: -1
+LeftUpperBucket
+  rotate: true
+  xy: 370, 205
+  size: 363, 346
+  orig: 363, 346
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 378, 1208
+  size: 322, 261
+  orig: 322, 261
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 343, 1532
+  size: 322, 512
+  orig: 322, 512
+  offset: 0, 0
+  index: -1
+RightBucket
+  rotate: true
+  xy: 641, 1218
+  size: 312, 261
+  orig: 312, 261
+  offset: 0, 0
+  index: -1
+RightCrane
+  rotate: false
+  xy: 626, 671
+  size: 116, 304
+  orig: 116, 304
+  offset: 0, 0
+  index: -1
+RightCrawler
+  rotate: true
+  xy: 514, 977
+  size: 229, 165
+  orig: 229, 165
+  offset: 0, 0
+  index: -1
+RightDrill
+  rotate: true
+  xy: 378, 973
+  size: 233, 134
+  orig: 233, 134
+  offset: 0, 0
+  index: -1
+RightUpperArm
+  rotate: true
+  xy: 2, 955
+  size: 518, 374
+  orig: 518, 374
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 718, 288
+  size: 285, 256
+  orig: 285, 256
+  offset: 0, 0
+  index: -1

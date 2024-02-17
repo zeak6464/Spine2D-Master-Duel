@@ -1,0 +1,160 @@
+
+P16104.png
+size: 1306,1306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 73
+  size: 283, 362
+  orig: 285, 366
+  offset: 1, 2
+  index: -1
+Head
+  rotate: true
+  xy: 643, 441
+  size: 105, 127
+  orig: 106, 130
+  offset: 0, 2
+  index: -1
+LeftArm
+  rotate: true
+  xy: 1138, 1037
+  size: 127, 133
+  orig: 133, 139
+  offset: 3, 3
+  index: -1
+LeftFoot
+  rotate: true
+  xy: 643, 829
+  size: 475, 493
+  orig: 478, 497
+  offset: 2, 1
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1138, 1166
+  size: 138, 138
+  orig: 143, 142
+  offset: 2, 2
+  index: -1
+LeftHandParts1
+  rotate: false
+  xy: 1060, 7
+  size: 140, 140
+  orig: 146, 146
+  offset: 3, 3
+  index: -1
+LeftHandParts2
+  rotate: false
+  xy: 798, 209
+  size: 202, 246
+  orig: 208, 252
+  offset: 3, 3
+  index: -1
+LeftHandParts3
+  rotate: true
+  xy: 905, 620
+  size: 207, 202
+  orig: 213, 208
+  offset: 3, 3
+  index: -1
+LeftKneeParts
+  rotate: false
+  xy: 1109, 687
+  size: 154, 140
+  orig: 160, 146
+  offset: 3, 3
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 1060, 149
+  size: 119, 173
+  orig: 125, 180
+  offset: 3, 4
+  index: -1
+LeftShoulderPatrs
+  rotate: true
+  xy: 526, 120
+  size: 315, 270
+  orig: 321, 276
+  offset: 3, 3
+  index: -1
+LeftShoulder_Back
+  rotate: true
+  xy: 772, 457
+  size: 89, 117
+  orig: 95, 123
+  offset: 3, 3
+  index: -1
+LeftThighs
+  rotate: true
+  xy: 840, 3
+  size: 204, 218
+  orig: 210, 224
+  offset: 3, 3
+  index: -1
+RightArm
+  rotate: false
+  xy: 1166, 325
+  size: 113, 181
+  orig: 119, 187
+  offset: 3, 3
+  index: -1
+RightFoot
+  rotate: false
+  xy: 287, 27
+  size: 237, 408
+  orig: 243, 410
+  offset: 3, 2
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 2, 20
+  size: 51, 130
+  orig: 57, 136
+  offset: 3, 3
+  index: -1
+RightShoulderPatrs
+  rotate: true
+  xy: 643, 548
+  size: 279, 260
+  orig: 285, 266
+  offset: 3, 3
+  index: -1
+RightShoulderTail1
+  rotate: true
+  xy: 1069, 508
+  size: 110, 219
+  orig: 116, 222
+  offset: 4, 2
+  index: -1
+RightShoulderTail2
+  rotate: false
+  xy: 526, 2
+  size: 312, 116
+  orig: 316, 122
+  offset: 2, 5
+  index: -1
+RightThighs
+  rotate: true
+  xy: 1002, 270
+  size: 189, 162
+  orig: 195, 168
+  offset: 3, 3
+  index: -1
+Waist
+  rotate: true
+  xy: 905, 461
+  size: 157, 162
+  orig: 163, 168
+  offset: 3, 3
+  index: -1
+Wepon
+  rotate: false
+  xy: 2, 437
+  size: 639, 867
+  orig: 642, 867
+  offset: 2, 0
+  index: -1

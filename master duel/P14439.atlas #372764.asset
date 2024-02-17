@@ -1,0 +1,215 @@
+
+P14439.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackCloak
+  rotate: false
+  xy: 1112, 2451
+  size: 1865, 1622
+  orig: 1865, 1622
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 1112, 1540
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+Cane
+  rotate: false
+  xy: 2, 1534
+  size: 1108, 2539
+  orig: 1108, 2539
+  offset: 0, 0
+  index: -1
+ForntCloak
+  rotate: false
+  xy: 1112, 1702
+  size: 1556, 747
+  orig: 1556, 747
+  offset: 0, 0
+  index: -1
+LeftFrontHair
+  rotate: false
+  xy: 3738, 1752
+  size: 316, 300
+  orig: 316, 300
+  offset: 0, 0
+  index: -1
+LeftHairBack
+  rotate: false
+  xy: 2977, 2168
+  size: 236, 281
+  orig: 236, 281
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 3738, 2054
+  size: 481, 325
+  orig: 481, 325
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 2979, 2537
+  size: 901, 1536
+  orig: 901, 1536
+  offset: 0, 0
+  index: -1
+LeftShoulder01
+  rotate: true
+  xy: 1402, 2
+  size: 277, 629
+  orig: 277, 629
+  offset: 0, 0
+  index: -1
+LeftShoulder01Back
+  rotate: false
+  xy: 2670, 1809
+  size: 305, 640
+  orig: 305, 640
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 103
+  size: 1429, 1398
+  orig: 1429, 1398
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 3738, 1512
+  size: 182, 238
+  orig: 182, 238
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 2564, 226
+  size: 649, 1474
+  orig: 649, 1474
+  offset: 0, 0
+  index: -1
+RightShoulder02
+  rotate: true
+  xy: 3882, 3708
+  size: 365, 177
+  orig: 365, 177
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: true
+  xy: 1402, 281
+  size: 1419, 1160
+  orig: 1419, 1160
+  offset: 0, 0
+  index: -1
+RobeBack
+  rotate: false
+  xy: 3215, 1134
+  size: 521, 1401
+  orig: 521, 1401
+  offset: 0, 0
+  index: -1
+Tasset
+  rotate: true
+  xy: 3215, 257
+  size: 875, 534
+  orig: 875, 534
+  offset: 0, 0
+  index: -1
+TassetBack
+  rotate: false
+  xy: 2033, 29
+  size: 480, 250
+  orig: 480, 250
+  offset: 0, 0
+  index: -1
+
+P144392.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BallLight
+  rotate: false
+  xy: 2021, 1411
+  size: 385, 385
+  orig: 385, 385
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1642, 2242
+  size: 456, 774
+  orig: 456, 774
+  offset: 0, 0
+  index: -1
+CenterShoulder
+  rotate: true
+  xy: 835, 936
+  size: 452, 993
+  orig: 452, 993
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1516, 1391
+  size: 405, 503
+  orig: 405, 503
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 702
+  size: 686, 831
+  orig: 686, 831
+  offset: 0, 0
+  index: -1
+LeftShoulder02
+  rotate: false
+  xy: 1642, 1798
+  size: 626, 442
+  orig: 626, 442
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1830, 871
+  size: 518, 409
+  orig: 518, 409
+  offset: 0, 0
+  index: -1
+RightHair
+  rotate: true
+  xy: 1132, 2226
+  size: 472, 508
+  orig: 472, 508
+  offset: 0, 0
+  index: -1
+RightShoulder01
+  rotate: true
+  xy: 2270, 1879
+  size: 361, 428
+  orig: 361, 428
+  offset: 0, 0
+  index: -1
+RobeFront
+  rotate: false
+  xy: 2, 1390
+  size: 1128, 1308
+  orig: 1128, 1308
+  offset: 0, 0
+  index: -1
+Thunder
+  rotate: false
+  xy: 1132, 1460
+  size: 382, 764
+  orig: 382, 764
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,39 @@
+
+P11358.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MotherShip
+  rotate: false
+  xy: 2, 158
+  size: 952, 796
+  orig: 952, 796
+  offset: 0, 0
+  index: -1
+
+P113582.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Right/Right
+  rotate: false
+  xy: 2, 154
+  size: 859, 707
+  orig: 859, 707
+  offset: 0, 0
+  index: -1
+
+P113583.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightBlack/RightBlack
+  rotate: false
+  xy: 2, 142
+  size: 861, 721
+  orig: 861, 721
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,217 @@
+
+P16213.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyBack
+  rotate: false
+  xy: 1376, 1382
+  size: 443, 351
+  orig: 443, 351
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 635, 2
+  size: 516, 543
+  orig: 516, 543
+  offset: 0, 0
+  index: -1
+HeadPlasma1
+  rotate: false
+  xy: 1138, 1739
+  size: 469, 277
+  orig: 469, 277
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: true
+  xy: 1609, 1735
+  size: 281, 285
+  orig: 281, 285
+  offset: 0, 0
+  index: -1
+Plasma1
+  rotate: true
+  xy: 2, 1945
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+Plasma2
+  rotate: false
+  xy: 618, 1412
+  size: 756, 325
+  orig: 756, 325
+  offset: 0, 0
+  index: -1
+Plasma3
+  rotate: false
+  xy: 2, 145
+  size: 631, 461
+  orig: 631, 461
+  offset: 0, 0
+  index: -1
+Plasma5
+  rotate: true
+  xy: 635, 1743
+  size: 273, 501
+  orig: 273, 501
+  offset: 0, 0
+  index: -1
+Plasma6
+  rotate: true
+  xy: 2, 608
+  size: 418, 730
+  orig: 418, 730
+  offset: 0, 0
+  index: -1
+Plasma7
+  rotate: true
+  xy: 2, 1028
+  size: 382, 746
+  orig: 382, 746
+  offset: 0, 0
+  index: -1
+Plasma8
+  rotate: true
+  xy: 91, 1794
+  size: 222, 293
+  orig: 222, 293
+  offset: 0, 0
+  index: -1
+Plasma9
+  rotate: false
+  xy: 386, 1774
+  size: 247, 242
+  orig: 247, 242
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 734, 520
+  size: 455, 947
+  orig: 455, 947
+  offset: 0, 0
+  index: -1
+RightScarf
+  rotate: true
+  xy: 2, 1486
+  size: 286, 614
+  orig: 286, 614
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 750, 977
+  size: 403, 985
+  orig: 403, 985
+  offset: 0, 0
+  index: -1
+
+P162132.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeadPlasma2
+  rotate: true
+  xy: 714, 585
+  size: 737, 832
+  orig: 737, 832
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 928, 1324
+  size: 523, 919
+  orig: 523, 919
+  offset: 0, 0
+  index: -1
+LeftScarf
+  rotate: false
+  xy: 2, 757
+  size: 710, 568
+  orig: 710, 568
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: false
+  xy: 2, 1327
+  size: 924, 520
+  orig: 924, 520
+  offset: 0, 0
+  index: -1
+
+P162133.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 903
+  size: 848, 1154
+  orig: 848, 1154
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 2, 2
+  size: 899, 948
+  orig: 899, 948
+  offset: 0, 0
+  index: -1
+
+P162134.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plasma4
+  rotate: false
+  xy: 2, 237
+  size: 1346, 1111
+  orig: 1346, 1111
+  offset: 0, 0
+  index: -1
+
+P162135.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftBeam
+  rotate: false
+  xy: 2, 390
+  size: 1658, 1270
+  orig: 1658, 1270
+  offset: 0, 0
+  index: -1
+
+P162136.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plasma10
+  rotate: true
+  xy: 2, 75
+  size: 1374, 1447
+  orig: 1374, 1447
+  offset: 0, 0
+  index: -1
+
+P162137.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightBeam
+  rotate: false
+  xy: 2, 2
+  size: 1441, 1498
+  orig: 1441, 1498
+  offset: 0, 0
+  index: -1

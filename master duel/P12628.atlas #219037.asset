@@ -1,0 +1,188 @@
+
+P12628.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1821, 1557
+  size: 217, 260
+  orig: 217, 260
+  offset: 0, 0
+  index: -1
+BodyCore
+  rotate: true
+  xy: 2, 1971
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+BodyShell
+  rotate: true
+  xy: 1867, 1819
+  size: 219, 171
+  orig: 219, 171
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: false
+  xy: 268, 1928
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 383, 1925
+  size: 410, 113
+  orig: 410, 113
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 276, 1493
+  size: 252, 442
+  orig: 252, 442
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 559, 1154
+  size: 283, 386
+  orig: 283, 386
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 1792
+  size: 163, 220
+  orig: 163, 220
+  offset: 0, 0
+  index: -1
+LeftShell
+  rotate: false
+  xy: 1070, 448
+  size: 685, 530
+  orig: 685, 530
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 2, 1240
+  size: 251, 555
+  orig: 251, 555
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 787, 1719
+  size: 199, 226
+  orig: 199, 226
+  offset: 0, 0
+  index: -1
+LeftThighShell
+  rotate: false
+  xy: 2, 1505
+  size: 272, 240
+  orig: 272, 240
+  offset: 0, 0
+  index: -1
+LeftToe
+  rotate: true
+  xy: 100, 1957
+  size: 81, 166
+  orig: 81, 166
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 1015, 1711
+  size: 178, 258
+  orig: 178, 258
+  offset: 0, 0
+  index: -1
+NeckBack
+  rotate: true
+  xy: 795, 1920
+  size: 118, 242
+  orig: 118, 242
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1275, 1691
+  size: 316, 194
+  orig: 316, 194
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1593, 1677
+  size: 226, 208
+  orig: 226, 208
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1039, 1899
+  size: 207, 139
+  orig: 207, 139
+  offset: 0, 0
+  index: -1
+RightShell
+  rotate: true
+  xy: 550, 481
+  size: 497, 518
+  orig: 497, 518
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: true
+  xy: 224, 1747
+  size: 176, 561
+  orig: 176, 561
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 1248, 1891
+  size: 285, 147
+  orig: 285, 147
+  offset: 0, 0
+  index: -1
+RightThighShell
+  rotate: false
+  xy: 1535, 1887
+  size: 330, 151
+  orig: 330, 151
+  offset: 0, 0
+  index: -1
+Tail01
+  rotate: true
+  xy: 2, 803
+  size: 435, 546
+  orig: 435, 546
+  offset: 0, 0
+  index: -1
+Tail02
+  rotate: false
+  xy: 947, 980
+  size: 605, 325
+  orig: 605, 325
+  offset: 0, 0
+  index: -1
+Tail03
+  rotate: false
+  xy: 720, 1439
+  size: 756, 250
+  orig: 756, 250
+  offset: 0, 0
+  index: -1
+TailSickle
+  rotate: false
+  xy: 1478, 1307
+  size: 313, 368
+  orig: 313, 368
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+
+P13508.png
+size: 1926,1926
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 883, 1158
+  size: 467, 847
+  orig: 467, 847
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 705, 629
+  orig: 705, 629
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 667, 633
+  size: 905, 523
+  orig: 905, 523
+  offset: 0, 0
+  index: -1
+Ornaments00
+  rotate: false
+  xy: 1333, 1627
+  size: 511, 297
+  orig: 511, 308
+  offset: 0, 0
+  index: -1
+Ornaments01
+  rotate: false
+  xy: 2, 1820
+  size: 295, 104
+  orig: 295, 104
+  offset: 0, 0
+  index: -1
+Ornaments02
+  rotate: false
+  xy: 299, 1782
+  size: 354, 142
+  orig: 354, 142
+  offset: 0, 0
+  index: -1
+Ornaments03
+  rotate: false
+  xy: 655, 1744
+  size: 271, 180
+  orig: 271, 187
+  offset: 0, 5
+  index: -1
+RightArm
+  rotate: false
+  xy: 928, 1669
+  size: 403, 255
+  orig: 403, 255
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2, 1430
+  size: 427, 350
+  orig: 429, 352
+  offset: 1, 1
+  index: -1
+RightLeg
+  rotate: false
+  xy: 431, 1245
+  size: 450, 497
+  orig: 450, 497
+  offset: 0, 0
+  index: -1
+Rightfood
+  rotate: true
+  xy: 2, 702
+  size: 541, 663
+  orig: 541, 663
+  offset: 0, 0
+  index: -1
+
+P135082.png
+size: 1806,1806
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftLeg
+  rotate: true
+  xy: 2, 2
+  size: 794, 1064
+  orig: 833, 1064
+  offset: 39, 0
+  index: -1
+Wing
+  rotate: false
+  xy: 2, 798
+  size: 1715, 1006
+  orig: 1715, 1006
+  offset: 0, 0
+  index: -1

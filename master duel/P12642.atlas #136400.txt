@@ -1,0 +1,83 @@
+
+P12642.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BiglFrogBody
+  rotate: false
+  xy: 1278, 1319
+  size: 698, 405
+  orig: 698, 405
+  offset: 0, 0
+  index: -1
+BiglFrogFace
+  rotate: false
+  xy: 231, 1519
+  size: 476, 252
+  orig: 476, 252
+  offset: 0, 0
+  index: -1
+BiglFrogFaceBack
+  rotate: false
+  xy: 309, 1773
+  size: 432, 203
+  orig: 432, 203
+  offset: 0, 0
+  index: -1
+BiglFrogLeftHand
+  rotate: false
+  xy: 938, 1446
+  size: 338, 301
+  orig: 338, 301
+  offset: 0, 0
+  index: -1
+BiglFrogLeftLeg
+  rotate: false
+  xy: 2, 1568
+  size: 227, 257
+  orig: 227, 257
+  offset: 0, 0
+  index: -1
+BiglFrogRightHand
+  rotate: false
+  xy: 709, 1498
+  size: 227, 261
+  orig: 227, 261
+  offset: 0, 0
+  index: -1
+Orange
+  rotate: false
+  xy: 1048, 1749
+  size: 279, 227
+  orig: 279, 227
+  offset: 0, 0
+  index: -1
+SmallFrogBody
+  rotate: false
+  xy: 1329, 1726
+  size: 534, 250
+  orig: 534, 250
+  offset: 0, 0
+  index: -1
+SmallFrogLeftHand
+  rotate: false
+  xy: 2, 1844
+  size: 122, 132
+  orig: 122, 132
+  offset: 0, 0
+  index: -1
+SmallFrogRightHand
+  rotate: false
+  xy: 126, 1827
+  size: 181, 149
+  orig: 181, 149
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 743, 1761
+  size: 303, 215
+  orig: 303, 215
+  offset: 0, 0
+  index: -1

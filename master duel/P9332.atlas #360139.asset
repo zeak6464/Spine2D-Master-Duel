@@ -1,0 +1,160 @@
+
+P9332.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 916, 1448
+  size: 207, 500
+  orig: 207, 500
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: true
+  xy: 499, 1438
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+FrontArmor
+  rotate: true
+  xy: 632, 1299
+  size: 180, 266
+  orig: 180, 266
+  offset: 0, 0
+  index: -1
+FrontArmorBack
+  rotate: false
+  xy: 1418, 1363
+  size: 145, 292
+  orig: 145, 292
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1767, 1017
+  size: 162, 143
+  orig: 162, 143
+  offset: 0, 0
+  index: -1
+LeftArmor
+  rotate: true
+  xy: 635, 1481
+  size: 133, 267
+  orig: 133, 267
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 499, 1146
+  size: 91, 146
+  orig: 91, 146
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1565, 1313
+  size: 321, 465
+  orig: 321, 465
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 635, 1616
+  size: 210, 279
+  orig: 210, 279
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 1239, 1176
+  size: 185, 311
+  orig: 185, 311
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: true
+  xy: 2, 1513
+  size: 313, 631
+  orig: 313, 631
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1767, 1162
+  size: 149, 163
+  orig: 149, 163
+  offset: 0, 0
+  index: -1
+RightArmor
+  rotate: true
+  xy: 604, 1112
+  size: 185, 288
+  orig: 185, 288
+  offset: 0, 0
+  index: -1
+RightArmorBack
+  rotate: true
+  xy: 1239, 1392
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2, 1828
+  size: 914, 210
+  orig: 914, 210
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2, 1180
+  size: 331, 495
+  orig: 331, 495
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 894, 1052
+  size: 232, 183
+  orig: 232, 183
+  offset: 0, 0
+  index: -1
+RightShoulderArmor
+  rotate: true
+  xy: 1552, 1127
+  size: 184, 213
+  orig: 184, 213
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 900, 1237
+  size: 209, 337
+  orig: 209, 337
+  offset: 0, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 918, 1657
+  size: 381, 645
+  orig: 381, 645
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 1565, 1636
+  size: 473, 402
+  orig: 473, 402
+  offset: 0, 0
+  index: -1
+SwordChain
+  rotate: false
+  xy: 499, 1294
+  size: 103, 142
+  orig: 103, 142
+  offset: 0, 0
+  index: -1

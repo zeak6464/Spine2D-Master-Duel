@@ -1,0 +1,82 @@
+
+P7698.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 2, 1686
+  size: 247, 324
+  orig: 247, 324
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1119, 729
+  size: 755, 755
+  orig: 755, 755
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: false
+  xy: 536, 1024
+  size: 581, 470
+  orig: 581, 470
+  offset: 0, 0
+  index: -1
+Lower
+  rotate: false
+  xy: 328, 1500
+  size: 450, 433
+  orig: 450, 433
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 2, 357
+  size: 665, 1045
+  orig: 665, 1045
+  offset: 0, 0
+  index: -1
+RightArm_2
+  rotate: true
+  xy: 1281, 1486
+  size: 447, 652
+  orig: 447, 652
+  offset: 0, 0
+  index: -1
+RightShin
+  rotate: false
+  xy: 780, 1496
+  size: 499, 437
+  orig: 499, 437
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: true
+  xy: 2, 1044
+  size: 454, 532
+  orig: 454, 532
+  offset: 0, 0
+  index: -1
+
+P76982.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftShin
+  rotate: false
+  xy: 1036, 419
+  size: 530, 1147
+  orig: 530, 1147
+  offset: 0, 0
+  index: -1
+Upper
+  rotate: false
+  xy: 2, 798
+  size: 1032, 768
+  orig: 1032, 768
+  offset: 0, 0
+  index: -1

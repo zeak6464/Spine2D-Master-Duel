@@ -1,0 +1,103 @@
+
+P13371.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coat
+  rotate: false
+  xy: 1116, 619
+  size: 864, 851
+  orig: 864, 851
+  offset: 0, 0
+  index: -1
+Effect01
+  rotate: false
+  xy: 1717, 1472
+  size: 227, 508
+  orig: 227, 508
+  offset: 0, 0
+  index: -1
+Effect02
+  rotate: false
+  xy: 2, 1801
+  size: 406, 179
+  orig: 406, 179
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 1230
+  size: 284, 569
+  orig: 284, 569
+  offset: 0, 0
+  index: -1
+Head02
+  rotate: false
+  xy: 1109, 1626
+  size: 325, 354
+  orig: 325, 354
+  offset: 0, 0
+  index: -1
+LeftArm01
+  rotate: false
+  xy: 2, 47
+  size: 422, 959
+  orig: 422, 959
+  offset: 0, 0
+  index: -1
+LeftArm02
+  rotate: false
+  xy: 288, 1008
+  size: 349, 681
+  orig: 349, 681
+  offset: 0, 0
+  index: -1
+LeftArm03
+  rotate: false
+  xy: 639, 873
+  size: 475, 751
+  orig: 475, 751
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 675, 1661
+  size: 432, 319
+  orig: 432, 319
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 410, 1691
+  size: 263, 289
+  orig: 263, 289
+  offset: 0, 0
+  index: -1
+Tie
+  rotate: false
+  xy: 1436, 1562
+  size: 279, 418
+  orig: 279, 418
+  offset: 0, 0
+  index: -1
+
+P133712.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body01
+  rotate: false
+  xy: 782, 40
+  size: 506, 1332
+  orig: 506, 1332
+  offset: 0, 0
+  index: -1
+Body02
+  rotate: false
+  xy: 2, 2
+  size: 778, 1370
+  orig: 778, 1370
+  offset: 0, 0
+  index: -1

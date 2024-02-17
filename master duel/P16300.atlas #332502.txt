@@ -1,0 +1,280 @@
+
+P16300.png
+size: 2028,2028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CenterHead
+  rotate: true
+  xy: 1679, 1835
+  size: 191, 271
+  orig: 211, 291
+  offset: 10, 10
+  index: -1
+CenterHeadBack
+  rotate: true
+  xy: 281, 1899
+  size: 127, 211
+  orig: 147, 231
+  offset: 10, 10
+  index: -1
+CenterNeck
+  rotate: false
+  xy: 703, 1302
+  size: 325, 291
+  orig: 341, 310
+  offset: 7, 9
+  index: -1
+DarkDragonHead
+  rotate: false
+  xy: 1027, 872
+  size: 437, 375
+  orig: 451, 388
+  offset: 6, 8
+  index: -1
+DarkDragonHeadBack
+  rotate: false
+  xy: 494, 1886
+  size: 177, 140
+  orig: 193, 158
+  offset: 8, 9
+  index: -1
+DarkDragonJaw
+  rotate: false
+  xy: 2, 1400
+  size: 340, 267
+  orig: 360, 287
+  offset: 10, 10
+  index: -1
+DarkDragonLeftJawHorn
+  rotate: false
+  xy: 1410, 1249
+  size: 346, 318
+  orig: 366, 338
+  offset: 10, 10
+  index: -1
+DarkDragonLeftWing
+  rotate: false
+  xy: 2, 978
+  size: 622, 362
+  orig: 642, 382
+  offset: 10, 10
+  index: -1
+DarkDragonNeck
+  rotate: true
+  xy: 626, 929
+  size: 371, 399
+  orig: 389, 417
+  offset: 8, 9
+  index: -1
+DarkDragonRightHorn
+  rotate: false
+  xy: 389, 1623
+  size: 447, 243
+  orig: 467, 263
+  offset: 10, 10
+  index: -1
+DarkDragonRightJawHorn
+  rotate: false
+  xy: 1030, 1264
+  size: 378, 314
+  orig: 398, 334
+  offset: 10, 10
+  index: -1
+DarkDragonRightWing
+  rotate: false
+  xy: 1176, 1580
+  size: 447, 260
+  orig: 467, 280
+  offset: 10, 10
+  index: -1
+DarkDragonTailBack
+  rotate: false
+  xy: 1466, 580
+  size: 560, 667
+  orig: 574, 684
+  offset: 7, 9
+  index: -1
+LeftCord
+  rotate: true
+  xy: 1177, 1842
+  size: 184, 500
+  orig: 201, 518
+  offset: 8, 9
+  index: -1
+LeftHead
+  rotate: true
+  xy: 838, 1595
+  size: 251, 336
+  orig: 268, 352
+  offset: 7, 8
+  index: -1
+LeftHeadBack
+  rotate: true
+  xy: 2, 1930
+  size: 96, 130
+  orig: 116, 150
+  offset: 10, 10
+  index: -1
+LeftNeck
+  rotate: false
+  xy: 344, 1342
+  size: 357, 279
+  orig: 373, 295
+  offset: 8, 9
+  index: -1
+LeftWing
+  rotate: true
+  xy: 792, 81
+  size: 497, 1146
+  orig: 517, 1166
+  offset: 10, 10
+  index: -1
+LeftWingParts2Back
+  rotate: true
+  xy: 673, 1868
+  size: 158, 280
+  orig: 178, 300
+  offset: 10, 10
+  index: -1
+RightCord
+  rotate: true
+  xy: 1625, 1569
+  size: 264, 333
+  orig: 281, 352
+  offset: 9, 9
+  index: -1
+RightHead
+  rotate: true
+  xy: 955, 1848
+  size: 178, 220
+  orig: 193, 235
+  offset: 8, 8
+  index: -1
+RightHeadBack
+  rotate: true
+  xy: 134, 1930
+  size: 96, 145
+  orig: 116, 165
+  offset: 10, 10
+  index: -1
+RightNeck
+  rotate: false
+  xy: 2, 1669
+  size: 385, 228
+  orig: 403, 243
+  offset: 9, 6
+  index: -1
+RightWing
+  rotate: true
+  xy: 2, 449
+  size: 478, 788
+  orig: 498, 808
+  offset: 10, 10
+  index: -1
+
+P163002.png
+size: 1726,1726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWingParts2
+  rotate: false
+  xy: 2, 2
+  size: 1518, 1722
+  orig: 1534, 1728
+  offset: 10, 6
+  index: -1
+
+P163003.png
+size: 1914,1914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWingParts3
+  rotate: false
+  xy: 1019, 786
+  size: 729, 1126
+  orig: 744, 1141
+  offset: 7, 7
+  index: -1
+RightWingParts3
+  rotate: false
+  xy: 2, 2
+  size: 817, 1375
+  orig: 837, 1395
+  offset: 10, 10
+  index: -1
+RightWingParts4
+  rotate: true
+  xy: 2, 1379
+  size: 533, 1015
+  orig: 553, 1035
+  offset: 10, 10
+  index: -1
+
+P163004.png
+size: 1357,1357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DarkDragonBody
+  rotate: false
+  xy: 2, 2
+  size: 1295, 1353
+  orig: 1309, 1362
+  offset: 7, 5
+  index: -1
+
+P163005.png
+size: 1802,1802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DarkDragonTail
+  rotate: false
+  xy: 2, 971
+  size: 1445, 829
+  orig: 1457, 845
+  offset: 4, 8
+  index: -1
+LeftWingParts1
+  rotate: false
+  xy: 2, 137
+  size: 1798, 832
+  orig: 1811, 846
+  offset: 8, 6
+  index: -1
+
+P163006.png
+size: 1844,1844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 307
+  size: 923, 1535
+  orig: 938, 1549
+  offset: 6, 6
+  index: -1
+RightWingParts1
+  rotate: true
+  xy: 927, 311
+  size: 1531, 915
+  orig: 1537, 928
+  offset: 6, 7
+  index: -1
+
+P163007.png
+size: 1205,1205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWingParts2
+  rotate: false
+  xy: 2, 80
+  size: 1201, 1123
+  orig: 1218, 1131
+  offset: 8, 0
+  index: -1

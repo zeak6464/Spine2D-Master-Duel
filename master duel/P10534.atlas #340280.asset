@@ -1,0 +1,222 @@
+
+P10534.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CenterPlane
+  rotate: true
+  xy: 2877, 1929
+  size: 2114, 1166
+  orig: 2114, 1166
+  offset: 0, 0
+  index: -1
+CenterPlaneArm
+  rotate: true
+  xy: 1926, 1621
+  size: 180, 189
+  orig: 180, 189
+  offset: 0, 0
+  index: -1
+CenterPlaneBody
+  rotate: false
+  xy: 955, 1640
+  size: 526, 369
+  orig: 526, 369
+  offset: 0, 0
+  index: -1
+CenterPlaneChin
+  rotate: true
+  xy: 2768, 1700
+  size: 227, 255
+  orig: 227, 255
+  offset: 0, 0
+  index: -1
+CenterPlaneHead
+  rotate: false
+  xy: 1483, 1693
+  size: 441, 316
+  orig: 441, 316
+  offset: 0, 0
+  index: -1
+CenterPlaneNeck
+  rotate: true
+  xy: 2444, 1578
+  size: 227, 245
+  orig: 227, 245
+  offset: 0, 0
+  index: -1
+CenterPlateTail
+  rotate: true
+  xy: 1926, 1803
+  size: 206, 516
+  orig: 206, 516
+  offset: 0, 0
+  index: -1
+LeftPlane
+  rotate: true
+  xy: 498, 1194
+  size: 815, 455
+  orig: 815, 455
+  offset: 0, 0
+  index: -1
+LeftPlaneTail
+  rotate: false
+  xy: 2444, 1807
+  size: 322, 202
+  orig: 322, 202
+  offset: 0, 0
+  index: -1
+RightPlane
+  rotate: true
+  xy: 2, 1187
+  size: 822, 494
+  orig: 822, 494
+  offset: 0, 0
+  index: -1
+RightPlaneTail
+  rotate: true
+  xy: 2117, 1623
+  size: 178, 182
+  orig: 178, 182
+  offset: 0, 0
+  index: -1
+template
+  rotate: false
+  xy: 2, 2011
+  size: 2873, 2032
+  orig: 2873, 2032
+  offset: 0, 0
+  index: -1
+
+P105342.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke/CenterPlaneSmoke01
+  rotate: true
+  xy: 2, 1611
+  size: 170, 785
+  orig: 170, 785
+  offset: 0, 0
+  index: -1
+Smoke/CenterPlaneSmoke02
+  rotate: true
+  xy: 2, 1313
+  size: 206, 828
+  orig: 206, 828
+  offset: 0, 0
+  index: -1
+Smoke/CenterPlaneSmoke03
+  rotate: true
+  xy: 1246, 1422
+  size: 290, 734
+  orig: 290, 734
+  offset: 0, 0
+  index: -1
+Smoke/CenterPlaneSmoke04
+  rotate: false
+  xy: 2, 226
+  size: 652, 566
+  orig: 652, 566
+  offset: 0, 0
+  index: -1
+Smoke/CenterPlaneSmoke05
+  rotate: false
+  xy: 2, 794
+  size: 701, 517
+  orig: 701, 517
+  offset: 0, 0
+  index: -1
+Smoke/CenterPlaneSmoke06
+  rotate: false
+  xy: 705, 576
+  size: 788, 520
+  orig: 788, 520
+  offset: 0, 0
+  index: -1
+Smoke/LeftPlaneSmoke01
+  rotate: false
+  xy: 789, 1521
+  size: 455, 260
+  orig: 455, 260
+  offset: 0, 0
+  index: -1
+Smoke/LeftPlaneSmoke02
+  rotate: false
+  xy: 1304, 1714
+  size: 526, 221
+  orig: 526, 221
+  offset: 0, 0
+  index: -1
+Smoke/LeftPlaneSmoke03
+  rotate: false
+  xy: 735, 1783
+  size: 567, 167
+  orig: 567, 167
+  offset: 0, 0
+  index: -1
+Smoke/LeftPlaneSmoke04
+  rotate: false
+  xy: 2, 1860
+  size: 731, 91
+  orig: 731, 91
+  offset: 0, 0
+  index: -1
+Smoke/LeftPlaneSmoke05
+  rotate: false
+  xy: 2, 1954
+  size: 698, 88
+  orig: 698, 88
+  offset: 0, 0
+  index: -1
+Smoke/LeftPlaneSmoke06
+  rotate: false
+  xy: 702, 1953
+  size: 538, 89
+  orig: 538, 89
+  offset: 0, 0
+  index: -1
+Smoke/RightPlaneSmoke01
+  rotate: true
+  xy: 832, 1206
+  size: 313, 412
+  orig: 313, 412
+  offset: 0, 0
+  index: -1
+Smoke/RightPlaneSmoke02
+  rotate: true
+  xy: 1246, 1098
+  size: 322, 430
+  orig: 322, 430
+  offset: 0, 0
+  index: -1
+Smoke/RightPlaneSmoke03
+  rotate: false
+  xy: 1678, 992
+  size: 349, 428
+  orig: 349, 428
+  offset: 0, 0
+  index: -1
+Smoke/RightPlaneSmoke04
+  rotate: true
+  xy: 1756, 1937
+  size: 105, 286
+  orig: 105, 286
+  offset: 0, 0
+  index: -1
+Smoke/RightPlaneSmoke05
+  rotate: true
+  xy: 1242, 1952
+  size: 90, 266
+  orig: 90, 266
+  offset: 0, 0
+  index: -1
+Smoke/RightPlaneSmoke06
+  rotate: true
+  xy: 1510, 1951
+  size: 91, 244
+  orig: 91, 244
+  offset: 0, 0
+  index: -1

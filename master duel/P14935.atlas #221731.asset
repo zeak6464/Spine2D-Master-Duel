@@ -1,0 +1,188 @@
+
+P14935.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 86
+  size: 280, 479
+  orig: 280, 479
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: true
+  xy: 783, 80
+  size: 275, 207
+  orig: 275, 207
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 483, 62
+  size: 298, 293
+  orig: 298, 293
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1425, 2
+  size: 108, 153
+  orig: 108, 153
+  offset: 0, 0
+  index: -1
+LeftRing
+  rotate: true
+  xy: 1785, 160
+  size: 164, 159
+  orig: 164, 159
+  offset: 0, 0
+  index: -1
+LeftThigh
+  rotate: true
+  xy: 1238, 10
+  size: 213, 185
+  orig: 213, 185
+  offset: 0, 0
+  index: -1
+LeftToes
+  rotate: false
+  xy: 1614, 124
+  size: 169, 200
+  orig: 169, 200
+  offset: 0, 0
+  index: -1
+LowerLeftWing
+  rotate: false
+  xy: 908, 1296
+  size: 783, 378
+  orig: 783, 378
+  offset: 0, 0
+  index: -1
+LowerRightWing
+  rotate: false
+  xy: 908, 1676
+  size: 854, 366
+  orig: 854, 366
+  offset: 0, 0
+  index: -1
+RightThigh
+  rotate: false
+  xy: 1425, 112
+  size: 187, 212
+  orig: 187, 212
+  offset: 0, 0
+  index: -1
+RightToes
+  rotate: true
+  xy: 992, 29
+  size: 194, 244
+  orig: 194, 244
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 2, 368
+  size: 589, 617
+  orig: 589, 617
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1693, 1253
+  size: 364, 340
+  orig: 364, 340
+  offset: 0, 0
+  index: -1
+TailSpine01
+  rotate: false
+  xy: 973, 370
+  size: 537, 134
+  orig: 537, 134
+  offset: 0, 0
+  index: -1
+TailSpine02
+  rotate: false
+  xy: 1655, 1054
+  size: 381, 197
+  orig: 381, 197
+  offset: 0, 0
+  index: -1
+TailSpine03
+  rotate: false
+  xy: 1812, 637
+  size: 209, 415
+  orig: 209, 415
+  offset: 0, 0
+  index: -1
+TailSpine04
+  rotate: true
+  xy: 992, 225
+  size: 143, 420
+  orig: 143, 420
+  offset: 0, 0
+  index: -1
+TailSpine05
+  rotate: false
+  xy: 1441, 540
+  size: 369, 460
+  orig: 369, 460
+  offset: 0, 0
+  index: -1
+TailTip01
+  rotate: false
+  xy: 973, 506
+  size: 466, 494
+  orig: 466, 494
+  offset: 0, 0
+  index: -1
+TailTip02
+  rotate: false
+  xy: 1512, 326
+  size: 400, 212
+  orig: 400, 212
+  offset: 0, 0
+  index: -1
+TailTip03
+  rotate: true
+  xy: 907, 1002
+  size: 292, 746
+  orig: 292, 746
+  offset: 0, 0
+  index: -1
+TailTip04
+  rotate: false
+  xy: 1764, 1619
+  size: 249, 423
+  orig: 249, 423
+  offset: 0, 0
+  index: -1
+TailTip05
+  rotate: false
+  xy: 798, 388
+  size: 173, 597
+  orig: 173, 597
+  offset: 0, 0
+  index: -1
+TailTip06
+  rotate: false
+  xy: 593, 357
+  size: 203, 628
+  orig: 203, 628
+  offset: 0, 0
+  index: -1
+UpperLeftWing
+  rotate: false
+  xy: 2, 987
+  size: 903, 462
+  orig: 903, 462
+  offset: 0, 0
+  index: -1
+UpperRightWing
+  rotate: false
+  xy: 2, 1451
+  size: 904, 591
+  orig: 904, 591
+  offset: 0, 0
+  index: -1

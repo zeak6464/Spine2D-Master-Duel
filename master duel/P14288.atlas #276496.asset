@@ -1,0 +1,62 @@
+
+P14288.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 695, 652
+  size: 193, 361
+  orig: 193, 361
+  offset: 0, 0
+  index: -1
+BottomBody
+  rotate: true
+  xy: 211, 1015
+  size: 455, 756
+  orig: 455, 756
+  offset: 0, 0
+  index: -1
+BottomHead
+  rotate: true
+  xy: 211, 832
+  size: 181, 296
+  orig: 181, 296
+  offset: 0, 0
+  index: -1
+BottomNeck
+  rotate: true
+  xy: 458, 646
+  size: 143, 198
+  orig: 143, 198
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 509, 791
+  size: 168, 222
+  orig: 168, 222
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 211, 696
+  size: 134, 245
+  orig: 134, 245
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 603
+  size: 207, 867
+  orig: 207, 867
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: true
+  xy: 2, 2
+  size: 599, 691
+  orig: 599, 691
+  offset: 0, 0
+  index: -1
