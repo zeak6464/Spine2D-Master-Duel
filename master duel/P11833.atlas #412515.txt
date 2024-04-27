@@ -1,0 +1,170 @@
+
+P11833.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: true
+  xy: 607, 1042
+  size: 402, 629
+  orig: 402, 629
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: true
+  xy: 2, 1881
+  size: 96, 183
+  orig: 96, 183
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 1084
+  size: 603, 388
+  orig: 603, 388
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 866, 1773
+  size: 352, 204
+  orig: 352, 204
+  offset: 0, 0
+  index: -1
+LeftEffect
+  rotate: true
+  xy: 1539, 1759
+  size: 218, 302
+  orig: 218, 302
+  offset: 0, 0
+  index: -1
+LeftPipe01
+  rotate: false
+  xy: 187, 1817
+  size: 172, 160
+  orig: 172, 160
+  offset: 0, 0
+  index: -1
+LeftPipe02
+  rotate: true
+  xy: 2, 1557
+  size: 244, 440
+  orig: 244, 440
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: true
+  xy: 980, 1446
+  size: 323, 331
+  orig: 323, 331
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 444, 1474
+  size: 297, 534
+  orig: 297, 534
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1220, 1771
+  size: 317, 206
+  orig: 317, 206
+  offset: 0, 0
+  index: -1
+RightEffect
+  rotate: true
+  xy: 589, 1798
+  size: 179, 275
+  orig: 179, 275
+  offset: 0, 0
+  index: -1
+RightPipe
+  rotate: false
+  xy: 361, 1803
+  size: 226, 174
+  orig: 226, 174
+  offset: 0, 0
+  index: -1
+RightPipeBack
+  rotate: true
+  xy: 1238, 969
+  size: 436, 739
+  orig: 436, 739
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 1313, 1407
+  size: 383, 350
+  orig: 383, 350
+  offset: 0, 0
+  index: -1
+Tail03
+  rotate: false
+  xy: 2, 341
+  size: 1319, 626
+  orig: 1319, 626
+  offset: 0, 0
+  index: -1
+
+P118332.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftWing
+  rotate: false
+  xy: 985, 654
+  size: 960, 1291
+  orig: 960, 1291
+  offset: 0, 0
+  index: -1
+Tail04
+  rotate: false
+  xy: 2, 1210
+  size: 981, 735
+  orig: 981, 735
+  offset: 0, 0
+  index: -1
+
+P118333.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail02
+  rotate: false
+  xy: 2, 1001
+  size: 1925, 926
+  orig: 1925, 926
+  offset: 0, 0
+  index: -1
+
+P118334.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWing
+  rotate: false
+  xy: 2, 2
+  size: 1223, 1318
+  orig: 1223, 1318
+  offset: 0, 0
+  index: -1
+
+P118335.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waist
+  rotate: false
+  xy: 2, 69
+  size: 1297, 1230
+  orig: 1297, 1230
+  offset: 0, 0
+  index: -1

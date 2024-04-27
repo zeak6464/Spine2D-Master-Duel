@@ -1,0 +1,185 @@
+
+P14421.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyBack
+  rotate: false
+  xy: 1004, 1532
+  size: 384, 293
+  orig: 384, 293
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 2, 1770
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: false
+  xy: 1334, 1009
+  size: 491, 500
+  orig: 491, 500
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 1390, 1511
+  size: 338, 314
+  orig: 338, 314
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 472, 1198
+  size: 459, 377
+  orig: 459, 377
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 1276
+  size: 468, 337
+  orig: 468, 337
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 486, 1597
+  size: 202, 228
+  orig: 202, 228
+  offset: 0, 0
+  index: -1
+LeftHandParts
+  rotate: false
+  xy: 933, 1017
+  size: 399, 513
+  orig: 399, 513
+  offset: 0, 0
+  index: -1
+LeftHandPartsBack
+  rotate: false
+  xy: 72, 1666
+  size: 116, 159
+  orig: 116, 159
+  offset: 0, 0
+  index: -1
+LeftShoulder
+  rotate: false
+  xy: 2, 705
+  size: 347, 569
+  orig: 347, 569
+  offset: 0, 0
+  index: -1
+LeftWaistRope
+  rotate: false
+  xy: 777, 396
+  size: 925, 611
+  orig: 925, 611
+  offset: 0, 0
+  index: -1
+RightArm1
+  rotate: false
+  xy: 190, 1615
+  size: 294, 210
+  orig: 294, 210
+  offset: 0, 0
+  index: -1
+RightArm2
+  rotate: false
+  xy: 351, 471
+  size: 424, 725
+  orig: 424, 725
+  offset: 0, 0
+  index: -1
+RightShoulder
+  rotate: false
+  xy: 690, 1577
+  size: 312, 248
+  orig: 312, 248
+  offset: 0, 0
+  index: -1
+
+P144212.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightWing
+  rotate: false
+  xy: 2, 160
+  size: 1618, 1460
+  orig: 1618, 1460
+  offset: 0, 0
+  index: -1
+
+P144213.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RightFoot
+  rotate: false
+  xy: 2, 518
+  size: 548, 1499
+  orig: 548, 1499
+  offset: 0, 0
+  index: -1
+RightWaistRope
+  rotate: false
+  xy: 552, 2
+  size: 787, 979
+  orig: 787, 979
+  offset: 0, 0
+  index: -1
+WaistCloak
+  rotate: false
+  xy: 552, 983
+  size: 1207, 1034
+  orig: 1207, 1034
+  offset: 0, 0
+  index: -1
+WaistCloakBack
+  rotate: false
+  xy: 1341, 201
+  size: 461, 780
+  orig: 461, 780
+  offset: 0, 0
+  index: -1
+
+P144214.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 834, 1123
+  size: 841, 892
+  orig: 841, 892
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 834, 49
+  size: 561, 1072
+  orig: 561, 1072
+  offset: 0, 0
+  index: -1
+LeftWing1
+  rotate: false
+  xy: 2, 778
+  size: 830, 1237
+  orig: 830, 1237
+  offset: 0, 0
+  index: -1
+RightHandParts
+  rotate: false
+  xy: 2, 2
+  size: 426, 774
+  orig: 426, 774
+  offset: 0, 0
+  index: -1

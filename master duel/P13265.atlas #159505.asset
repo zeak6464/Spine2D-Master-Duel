@@ -1,0 +1,151 @@
+
+P13265.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DecoCenter
+  rotate: true
+  xy: 2, 1921
+  size: 123, 444
+  orig: 123, 444
+  offset: 0, 0
+  index: -1
+DecoLeft
+  rotate: false
+  xy: 332, 1577
+  size: 965, 263
+  orig: 965, 263
+  offset: 0, 0
+  index: -1
+DecoRight
+  rotate: false
+  xy: 1024, 623
+  size: 549, 529
+  orig: 549, 529
+  offset: 0, 0
+  index: -1
+LeftBigJoint
+  rotate: true
+  xy: 436, 775
+  size: 487, 586
+  orig: 487, 586
+  offset: 0, 0
+  index: -1
+LeftBigNail
+  rotate: true
+  xy: 878, 1842
+  size: 202, 772
+  orig: 202, 772
+  offset: 0, 0
+  index: -1
+LeftBigRoot
+  rotate: false
+  xy: 1652, 1804
+  size: 340, 240
+  orig: 340, 240
+  offset: 0, 0
+  index: -1
+LeftSmallJoint
+  rotate: true
+  xy: 1621, 1144
+  size: 336, 423
+  orig: 336, 423
+  offset: 0, 0
+  index: -1
+LeftSmallNail
+  rotate: true
+  xy: 1299, 1482
+  size: 320, 442
+  orig: 320, 442
+  offset: 0, 0
+  index: -1
+LeftSmallRoot
+  rotate: false
+  xy: 665, 1881
+  size: 211, 163
+  orig: 211, 163
+  offset: 0, 0
+  index: -1
+RightBigJoint
+  rotate: true
+  xy: 2, 199
+  size: 574, 648
+  orig: 574, 648
+  offset: 0, 0
+  index: -1
+RightBigNail
+  rotate: true
+  xy: 2, 1264
+  size: 311, 1055
+  orig: 311, 1055
+  offset: 0, 0
+  index: -1
+RightBigRoot
+  rotate: true
+  xy: 2, 1615
+  size: 304, 328
+  orig: 304, 328
+  offset: 0, 0
+  index: -1
+RightSmallJoint
+  rotate: true
+  xy: 2, 929
+  size: 333, 432
+  orig: 333, 432
+  offset: 0, 0
+  index: -1
+RightSmallNail
+  rotate: true
+  xy: 1059, 1154
+  size: 326, 560
+  orig: 326, 560
+  offset: 0, 0
+  index: -1
+RightSmallRoot
+  rotate: false
+  xy: 448, 1911
+  size: 215, 133
+  orig: 215, 133
+  offset: 0, 0
+  index: -1
+
+P132652.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail_3
+  rotate: false
+  xy: 2, 2
+  size: 1355, 1423
+  orig: 1355, 1423
+  offset: 0, 0
+  index: -1
+
+P132653.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 881, 1168
+  orig: 881, 1168
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: true
+  xy: 885, 168
+  size: 1002, 905
+  orig: 1002, 905
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: false
+  xy: 2, 1172
+  size: 1709, 796
+  orig: 1709, 796
+  offset: 0, 0
+  index: -1

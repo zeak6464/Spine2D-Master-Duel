@@ -1,0 +1,76 @@
+
+P13384.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: true
+  xy: 2, 998
+  size: 314, 511
+  orig: 314, 511
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 1658, 924
+  size: 231, 137
+  orig: 231, 137
+  offset: 0, 0
+  index: -1
+Cloak
+  rotate: false
+  xy: 2, 1314
+  size: 1199, 711
+  orig: 1199, 711
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1086, 776
+  size: 376, 379
+  orig: 376, 379
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 1467, 925
+  size: 189, 227
+  orig: 189, 227
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1203, 1154
+  size: 484, 486
+  orig: 484, 486
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 515, 1061
+  size: 251, 569
+  orig: 251, 569
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1086, 1196
+  size: 116, 80
+  orig: 116, 80
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1203, 1640
+  size: 779, 385
+  orig: 779, 385
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 1691, 1063
+  size: 334, 575
+  orig: 334, 575
+  offset: 0, 0
+  index: -1
