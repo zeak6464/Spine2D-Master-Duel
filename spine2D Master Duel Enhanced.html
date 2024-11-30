@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yu-Gi-Oh! Master Duel Animation Viewer</title>
+    <script src="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/iife/spine-player.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/spine-player.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background: #1a1a1a;
+            color: #fff;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .controls {
+            background: #2a2a2a;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+        select, input, button {
+            padding: 8px 12px;
+            border: none;
+            border-radius: 5px;
+            background: #3a3a3a;
+            color: #fff;
+            font-size: 14px;
+        }
+        button {
+            background: #4a90e2;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background: #357abd;
+        }
+        #player-container {
+            background: #2a2a2a;
+            border-radius: 10px;
+            overflow: hidden;
+            height: 80vh;
+            position: relative;
+        }
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 24px;
+            color: #fff;
+            display: none;
+        }
+        .playback-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .error-message {
+            background: #ff4444;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            display: none;
+            margin-bottom: 10px;
+        }
+        .current-info {
+            padding: 10px;
+            background: #3a3a3a;
+            border-radius: 5px;
+            margin-left: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Yu-Gi-Oh! Master Duel Animation Viewer</h1>
+        <div class="error-message" id="error-message"></div>
+        <div class="controls">
+            <div>
+                <label for="asset-selector">Select Animation:</label>
+                <select id="asset-selector"></select>
+            </div>
+            <div>
+                <label for="asset-id">Load by ID:</label>
+                <input id="asset-id" type="text" placeholder="Enter animation ID">
+                <button id="load-asset">Load</button>
+            </div>
+            <div class="current-info">
+                Currently showing: <span id="current-id"></span>
+            </div>
+        </div>
+        <div class="playback-controls">
+            <button id="play-pause">⏸️ Pause</button>
+            <button id="reset">🔄 Reset</button>
+            <label for="speed">Speed:</label>
+            <select id="speed">
+                <option value="0.5">0.5x</option>
+                <option value="1" selected>1x</option>
+                <option value="1.5">1.5x</option>
+                <option value="2">2x</option>
+            </select>
+        </div>
+        <div id="player-container">
+            <div class="loading" id="loading">Loading...</div>
+        </div>
+    </div>
+
+    <script>
+        const assetBaseUrl = './spines';
+        let player;
+        let isPlaying = true;
+
+        const currentAssetIdLabel = document.getElementById('current-id');
+        const loadingElement = document.getElementById('loading');
+        const errorElement = document.getElementById('error-message');
+
+        function showLoading() {
+            loadingElement.style.display = 'block';
+        }
+
+        function hideLoading() {
+            loadingElement.style.display = 'none';
+        }
+
+        function showError(message) {
+            errorElement.textContent = message;
+            errorElement.style.display = 'block';
+            setTimeout(() => {
+                errorElement.style.display = 'none';
+            }, 5000);
+        }
+
+        async function loadAsset(id) {
+            showLoading();
+            try {
+                if (player) {
+                    player.dispose();
+                }
+
+                player = new spine.SpinePlayer("player-container", {
+                    jsonUrl: `${assetBaseUrl}/C${id}/P${id}JS.json`,
+                    atlasUrl: `${assetBaseUrl}/C${id}/P${id}.atlas.txt`,
+                    alpha: true,
+                    backgroundColor: "#00000000",
+                    premultipliedAlpha: true,
+                    showControls: false,
+                    pathPrefix: `${assetBaseUrl}/C${id}/`,
+                    success: () => {
+                        hideLoading();
+                        currentAssetIdLabel.innerText = id;
+                        const nextId = parseInt(id) + 1;
+                        preloadAsset(nextId);
+                    },
+                    error: (err) => {
+                        hideLoading();
+                        showError(`Failed to load animation ${id}: ${err.message}`);
+                        console.error('Load error:', err);
+                    }
+                });
+            } catch (err) {
+                hideLoading();
+                showError(`Error loading animation: ${err.message}`);
+                console.error('Error:', err);
+            }
+        }
+
+        function preloadAsset(id) {
+            const jsonPreload = new Image();
+            const atlasPreload = new Image();
+            jsonPreload.src = `${assetBaseUrl}/C${id}/P${id}JS.json`;
+            atlasPreload.src = `${assetBaseUrl}/C${id}/P${id}.atlas.txt`;
+            const pngPreload = new Image();
+            pngPreload.src = `${assetBaseUrl}/C${id}/P${id}.png`;
+        }
+
+        const selector = document.getElementById('asset-selector');
+        selector.onchange = (e) => {
+            loadAsset(e.target.value);
+        };
+
+        const assetIdInput = document.getElementById('asset-id');
+        const loadAssetButton = document.getElementById('load-asset');
+        loadAssetButton.onclick = () => {
+            const id = assetIdInput.value.trim();
+            if (id) {
+                loadAsset(id);
+                assetIdInput.value = '';
+            }
+        };
+
+        const playPauseBtn = document.getElementById('play-pause');
+        playPauseBtn.onclick = () => {
+            if (player) {
+                if (isPlaying) {
+                    player.pause();
+                    playPauseBtn.textContent = '▶️ Play';
+                } else {
+                    player.play();
+                    playPauseBtn.textContent = '⏸️ Pause';
+                }
+                isPlaying = !isPlaying;
+            }
+        };
+
+        const resetBtn = document.getElementById('reset');
+        resetBtn.onclick = () => {
+            if (player) {
+                player.setToSetupPose();
+                player.play();
+            }
+        };
+
+        const speedSelect = document.getElementById('speed');
+        speedSelect.onchange = (e) => {
+            if (player) {
+                player.timeScale = parseFloat(e.target.value);
+            }
+        };
+
+        async function retrieveAssetIds() {
+            try {
+                const spinesDir = await fetch('./spines').then(res => res.text());
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(spinesDir, 'text/html');
+                const dirs = Array.from(doc.querySelectorAll('a'))
+                    .map(a => a.href.match(/C(\d+)\/$/))
+                    .filter(match => match)
+                    .map(match => match[1])
+                    .sort((a, b) => parseInt(a) - parseInt(b));
+
+                selector.innerHTML = dirs.map((id) => `<option value="${id}">Animation ${id}</option>`).join('');
+                
+                if (dirs.length > 0) {
+                    loadAsset(dirs[0]);
+                }
+            } catch (err) {
+                showError('Failed to load animation list: ' + err.message);
+                console.error('Directory list error:', err);
+            }
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.code === 'Space') {
+                playPauseBtn.click();
+                e.preventDefault();
+            } else if (e.code === 'KeyR') {
+                resetBtn.click();
+            }
+        });
+
+        retrieveAssetIds();
+    </script>
+</body>
+</html>
